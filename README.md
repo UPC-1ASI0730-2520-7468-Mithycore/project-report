@@ -200,9 +200,13 @@ Actualmente, los diagnósticos suelen basarse en consultas periódicas y registr
 ---
 
 # Bibliografía
-(Agregar referencias en formato APA).  
+•	Ceribell. (2024). Evaluating the impact of point-of-care electroencephalography on length of stay in the ICU: SAFER-EEG trial sub-analysis. Neurocritical Care. https://link.springer.com/article/10.1007/s12028-024-02039-6
+•	Claassen, J., Hirsch, L. J., Foreman, B., Mayer, S. A., & Vespa, P. M. (2024). Utility and rationale for continuous EEG monitoring: A primer for the general intensivist. Critical Care, 28(1), 45. https://ccforum.biomedcentral.com/articles/10.1186/s13054-024-04986-0
+•	Rodriguez Ruiz, A., et al. (2025). Survey on neurological monitoring practices and clinician perspectives. Journal of Clinical Neurophysiology, 42(1), 56–65. https://www.sciencedirect.com/science/article/pii/S1052305725000266
+•	Frontiers in Neurology. (2023). Multimodal monitoring: Practical recommendations in neurocritical care. Frontiers in Neurology, 14, 1135406. https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2023.1135406/full
+•	Michigan Medicine. (2023). At-home monitoring cuts hospital admissions by nearly 60%. Medical Economics. https://www.medicaleconomics.com/view/at-home-monitoring-cuts-hospital-admissions-by-nearly-60-study-finds
+•	Ceribell. (2022). Reduction in length of ICU stays with point-of-care EEG. Ceribell Press Release. https://ceribell.com/press_releases/reduction-in-length-of-icu-stays
 
----
 
 # Anexos
 - Videos de exposición.  
