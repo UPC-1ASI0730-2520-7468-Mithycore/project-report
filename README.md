@@ -93,13 +93,6 @@ Actualmente, los diagnósticos suelen basarse en consultas periódicas y registr
   - Monitoreo remoto reduce 59% de hospitalizaciones.  
   - EEG portátil reduce hasta 4 días de estancia en UCI.  
 
-### Referencias
-- Claassen, J. et al. (2024). *Utility and rationale for continuous EEG monitoring*. Critical Care, 28(1), 45.  
-- Rodriguez Ruiz, A. et al. (2025). *Survey on neurological monitoring practices and clinician perspectives*. Journal of Clinical Neurophysiology, 42(1), 56–65.  
-- Frontiers in Neurology. (2023). *Multimodal monitoring: Practical recommendations in neurocritical care*.  
-- Michigan Medicine. (2023). *At-home monitoring cuts hospital admissions by nearly 60%*.  
-- Ceribell. (2022). *Reduction in length of ICU stays with point-of-care EEG*.  
-
 ---
 
 # Capítulo II: Requirements Elicitation & Analysis
