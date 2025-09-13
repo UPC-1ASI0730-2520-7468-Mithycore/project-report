@@ -112,16 +112,25 @@ En esta sección se presentan algunos competidores relevantes en el ámbito del 
 
 ---
 
+<div align="left">
+  <img src="img/Ceribell.png" alt="Ceribell" width="120"/>
+</div>
 ### ![Ceribell](img/Ceribell.png)  
 **Ceribell:** Es una empresa especializada en **electroencefalografía portátil** para cuidados intensivos. Su sistema permite obtener resultados de EEG en minutos, facilitando diagnósticos rápidos en emergencias neurológicas. Sin embargo, su enfoque está limitado al ámbito hospitalario y no ofrece un ecosistema integral de seguimiento remoto para pacientes crónicos.  
 
 ---
 
+<div align="left">
+  <img src="img/Empatica.png" alt="Empatica" width="120"/>
+</div>
 ### ![Empatica](img/Empatica.png)  
 **Empatica:** Fabricante de dispositivos **wearables biomédicos** como el *EmbracePlus*, que mide actividad eléctrica de la piel, frecuencia cardíaca y patrones de sueño. Sus soluciones están dirigidas principalmente a investigación clínica y monitoreo de epilepsia, pero carecen de una plataforma analítica avanzada para predicción personalizada de crisis en pacientes.  
 
 ---
 
+<div align="left">
+  <img src="img/NeuroPace.png" alt="NeuroPace" width="120"/>
+</div>
 ### ![NeuroPace](img/NeuroPace.png)  
 **NeuroPace:** Ofrece el **RNS System**, un dispositivo implantable que detecta y responde a actividad cerebral anormal en pacientes con epilepsia. Es una solución pionera en estimulación cerebral, aunque presenta un alto costo y está limitado a casos muy específicos, sin opciones de integración con telemedicina ni con monitoreo cotidiano de calidad de vida.  
 
