@@ -173,6 +173,37 @@ El análisis competitivo nos brinda una visión clara de cómo nos comparamos co
 | **Oportunidades** | Creciente demanda de telemedicina, prevención y salud digital; alianzas con hospitales y aseguradoras. | Expansión a hospitales de menor escala. | Expansión en mercados de salud digital y bienestar. | Integración con sistemas de monitoreo remoto en el futuro. |
 | **Amenazas** | Competencia de grandes empresas tecnológicas y dispositivos médicos consolidados. | Aparición de nuevas soluciones de EEG portátiles. | Competidores en el área de wearables de salud. | Nuevas técnicas no invasivas que reduzcan su uso. |
 
+### 2.1.2. Estrategias y Tácticas frente a Competidores
+
+**Objetivo.** Definir cómo competiremos y ganaremos tracción frente a soluciones existentes (hospitalarias, wearables clínicos e implantes), priorizando diferenciadores de **monitoreo continuo remoto**, **IA predictiva** e **integración clínica**. (Según plantilla se debe incluir esta sección). 
+
+#### a) Estrategias por competidor
+
+| Competidor | Fortalezas clave | Debilidades / brechas | Nuestra estrategia | Tácticas concretas | Métricas/KPI |
+|---|---|---|---|---|---|
+| **Ceribell** (EEG portátil UCI) | EEG rápido en emergencias; validación clínica hospitalaria | Enfoque intra-hospitalario; sin seguimiento remoto longitudinal | **Extender el cuidado post-alta** con **RPM** (Remote Patient Monitoring) y alertas en casa | • Kits de alta con sensores + app <br>• Integración **EHR/HL7-FHIR** para continuidad de cuidados <br>• Protocolos de alerta temprana a neurología | Adopción post-alta (% pacientes activos a 30/90 días) <br>Tiempo respuesta ante alerta <br># de hospitales integrados |
+| **Empatica** (wearables biomédicos) | Wearables validados; datos fisiológicos continuos | Foco investigación; analítica predictiva limitada al usuario | **Diferenciación en IA clínica**: predicción de crisis y episodios motores con panel médico | • Modelos ML multiseñal (EEG/EMG/actigrafía/sueño) <br>• Panel clínico con riesgo minuto-a-minuto <br>• Programa de “co-desarrollo” con centros de epilepsia | AUC/Se/Sp en predicción de crisis <br>Reducción de eventos no detectados <br># acuerdos de investigación |
+| **NeuroPace** (RNS implantable) | Respuesta adaptativa a actividad anómala; resultados en epilepsia refractaria | Invasivo y costoso; nicho de pacientes | **Alternativa no invasiva** en etapas tempranas y triage pre-implante | • Protocolos de triage: usar nuestra plataforma antes de implante <br>• Reportes de evolución para comités de epilepsia <br>• Detección de patrones pre-ictales para evitar progresión | % pacientes que evitan implante <br>Reducción de crisis/mes <br>Satisfacción de comité (NPS clínico) |
+
+#### b) Estrategias transversales (producto, GTM y cumplimiento)
+
+| Frente | Tácticas | Métricas/KPI |
+|---|---|---|
+| **Producto & IA** | Algoritmos de detección temprana (convulsiones, bradicinesia/temblor, alteraciones de sueño), explicación de modelos para uso clínico | AUC/Se/Sp por patología; tiempo de inferencia; % explicaciones aceptadas por médicos |
+| **Integración clínica** | APIs **FHIR/HL7**, interoperabilidad con EHR y PACS; flujos de telemedicina con historial en contexto | # integraciones activas; tiempo de onboarding hospital; % consultas con datos embebidos |
+| **Seguridad & cumplimiento** | Cifrado E2E; anonimización para investigación; roadmap HIPAA/GDPR/ISO 27001 | Incidentes de seguridad (0); auditorías aprobadas; % datasets anonimizados |
+| **GTM (go-to-market)** | Pilotos con hospitales neurológicos y aseguradoras (RPM); casos de uso por línea (Epilepsia, Parkinson, EM) | # pilotos activos; tasa de conversión piloto→contrato; costo de adquisición por institución |
+| **Modelo de negocio** | Suscripción por paciente/mes (RPM) y licencias B2B para instituciones; tier de investigación | ARPU por segmento; churn; margen por institución |
+| **Evidencia clínica** | Estudios observacionales + publicaciones conjuntas con centros; dataset abierto anonimizado | # publicaciones; # citaciones; # descargas de dataset |
+| **Soporte al paciente** | Educación y adherencia (recordatorios, coaching), canal para cuidadores con alertas graduadas | Adherencia al uso (>80%/90 días); tiempo de respuesta cuidador; NPS paciente/caregiver |
+
+#### c) Tácticas de corto plazo (TB1 → TP1)
+
+1. **Piloto de telemetría** con 10–20 pacientes de epilepsia y Parkinson (app + sensores, dashboard mínimo).  
+2. **Primeras reglas de alerta** (umbral + tendencia) mientras se entrena el modelo predictivo.  
+3. **Integración EHR “light”** (exportación FHIR y resúmenes PDF) para consulta médica.  
+4. **Acuerdo de investigación** con 1 centro de neurociencias (data-sharing anonimizado).  
+5. **MVP de panel clínico**: lista de pacientes, alertas, evolución de crisis/temblor y “riesgo próximo” básico.
 
 ## 2.2 Entrevistas
 - 2.2.1 Diseño de entrevistas  
