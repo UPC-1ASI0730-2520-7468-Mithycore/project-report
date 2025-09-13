@@ -106,23 +106,23 @@ A través de entrevistas, encuestas y estudios de mercado, se busca obtener una 
 
 ---
 
-## 2.1. Competidores  
+## 2.1. Competidores
 
-En esta sección se presentan algunos competidores relevantes en el ámbito del monitoreo neurológico y la telemedicina, así como un análisis de las características que nuestra plataforma IoT busca superar.  
+En esta sección se presentan algunos competidores relevantes en el ámbito del monitoreo neurológico y la telemedicina, así como un análisis de las características que nuestra plataforma IoT busca superar.
 
 ---
 
-### ![Ceribell](https://ceribell.com/wp-content/uploads/2020/09/Ceribell-Logo.png)  
+### ![Ceribell](img/ceribell.png)  
 **Ceribell:** Es una empresa especializada en **electroencefalografía portátil** para cuidados intensivos. Su sistema permite obtener resultados de EEG en minutos, facilitando diagnósticos rápidos en emergencias neurológicas. Sin embargo, su enfoque está limitado al ámbito hospitalario y no ofrece un ecosistema integral de seguimiento remoto para pacientes crónicos.  
 
 ---
 
-### ![Empatica](https://upload.wikimedia.org/wikipedia/commons/9/9f/Empatica_logo.png)  
+### ![Empatica](img/empatica.png)  
 **Empatica:** Fabricante de dispositivos **wearables biomédicos** como el *EmbracePlus*, que mide actividad eléctrica de la piel, frecuencia cardíaca y patrones de sueño. Sus soluciones están dirigidas principalmente a investigación clínica y monitoreo de epilepsia, pero carecen de una plataforma analítica avanzada para predicción personalizada de crisis en pacientes.  
 
 ---
 
-### ![NeuroPace](https://www.neuropace.com/wp-content/themes/neuropace/images/logo.svg)  
+### ![NeuroPace](img/neuropace.png)  
 **NeuroPace:** Ofrece el **RNS System**, un dispositivo implantable que detecta y responde a actividad cerebral anormal en pacientes con epilepsia. Es una solución pionera en estimulación cerebral, aunque presenta un alto costo y está limitado a casos muy específicos, sin opciones de integración con telemedicina ni con monitoreo cotidiano de calidad de vida.  
 
 ---
