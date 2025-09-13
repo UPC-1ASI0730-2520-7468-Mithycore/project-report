@@ -1,2 +1,2 @@
-# project-report
-Informe final curso Aplicaciones Web UPC 2025-20
+# Project Report  
+Repositorio para el informe del Trabajo Final - Aplicaciones Web (UPC 2025-20)
