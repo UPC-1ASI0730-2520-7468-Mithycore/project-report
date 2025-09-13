@@ -2,7 +2,7 @@
 **Curso:** 1ASI0730 Aplicaciones Web  
 **Startup:** Mythicore  
 **Producto:** [Nombre del producto]  
-**Integrantes:**  
+**Integrantes:** 
 - Stanley Jeremy Gutierrez Tume (U202118152) – Team Leader  
 - Juan José Meza Huanacune (U202320574) – Backend Engineer  
 - Eduardo Fabián Chacaliaza Minaya (U202324129) – Frontend & UX/UI Engineer
