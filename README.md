@@ -97,6 +97,68 @@ Actualmente, los diagnósticos suelen basarse en consultas periódicas y registr
   - EEG portátil reduce hasta 4 días de estancia en UCI.  
 
 ---
+## 1.2.2. Lean UX Process
+
+### 1.2.2.1. Lean UX Problem Statements
+
+**Domain**  
+Plataforma de salud neurológica digital con IoT, IA y telemedicina, integrada a historias clínicas electrónicas (EHR) y apoyada en un servicio externo gratuito para enriquecer datos clínicos.
+
+**Customer segments**  
+- Pacientes neurológicos y sus cuidadores.  
+- Profesionales de salud (neurólogos, fisioterapeutas, psicólogos clínicos).  
+- Instituciones y aseguradoras que buscan reducir costos y complicaciones.  
+- Centros de investigación y biotecnología interesados en ensayos clínicos.  
+
+**Pain points**  
+- Diagnósticos tardíos por datos intermitentes.  
+- Información dispersa y poco interoperable entre dispositivos y EHR.  
+- Dificultad para evaluar adherencia y ajustar tratamientos a tiempo.  
+- Falta de evidencias objetivas que respalden las decisiones clínicas rápidas.  
+
+**Gap**  
+Las soluciones actuales suelen ofrecer solo piezas aisladas (wearables, teleconsulta o apps), pero no una integración completa de señales neurológicas en tiempo real con analítica de IA, telemedicina y servicios externos relevantes para la práctica clínica.
+
+**Vision / Strategy**  
+Unificar en una plataforma única:  
+1. Captura de señales IoT (EEG, EMG, acelerometría).  
+2. Analítica con IA para detección, predicción y alertas.  
+3. Telemedicina segura entre paciente y médico.  
+4. Registro automático en EHR.  
+5. Enriquecimiento con servicio externo gratuito (ej. ClinicalTrials.gov o RxNorm).  
+
+**Initial segment**  
+- Pacientes con epilepsia atendidos en servicios de neurología hospitalaria, y neurólogos que requieren datos objetivos y alertas predictivas.  
+
+---
+
+### 1.2.2.2. Lean UX Assumptions
+
+**Business Assumptions**  
+- Si demostramos reducción en hospitalizaciones y mortalidad, las instituciones adoptarán la plataforma.  
+- Si integramos un servicio externo de valor (ej. ensayos clínicos o validación de medicamentos), los médicos percibirán diferenciación frente a otras soluciones.  
+- Si ofrecemos un modelo SaaS con costos bajos, la plataforma será sostenible y escalable.  
+
+**User Assumptions**  
+- Si los pacientes reciben alertas y feedback, se motivarán a usar los dispositivos IoT de forma continua.  
+- Si los médicos tienen dashboards integrados con datos confiables y externos, confiarán y usarán la herramienta de manera rutinaria.  
+- Si los pacientes ven resultados claros sobre adherencia y evolución, incrementarán su confianza en el sistema.  
+
+**Technical Assumptions**  
+- Si logramos procesar señales IoT en la nube con baja latencia, podremos generar alertas en tiempo real.  
+- Si nuestra API RESTful orquesta datos internos y externos, la integración será viable y estable.  
+- Si el servicio externo gratuito mantiene un SLA aceptable, podremos garantizar disponibilidad sin costo adicional.  
+
+---
+
+### 1.2.2.3. Lean UX Hypothesis Statements
+
+- “Si ofrecemos a los pacientes alertas predictivas personalizadas, entonces aumentará su adherencia al tratamiento en al menos un 15%, lo sabremos al medir cumplimiento en la aplicación.”  
+- “Si proporcionamos a los neurólogos dashboards integrados con datos IoT y servicios externos, entonces incrementará su uso regular de la plataforma, lo sabremos al registrar frecuencia de acceso y duración de sesiones.”  
+- “Si garantizamos la integración con EHR y un servicio externo, entonces mejorará la confianza en la información clínica, lo sabremos al obtener retroalimentación positiva en pruebas piloto.”  
+- “Si desarrollamos un API RESTful que procese datos con menos de 500 ms de latencia en el 95% de las llamadas, entonces lograremos mantener la experiencia en tiempo real, lo sabremos al monitorear métricas de rendimiento.”  
+
+---
 
 # Capítulo II: Requirements Elicitation & Analysis
   
