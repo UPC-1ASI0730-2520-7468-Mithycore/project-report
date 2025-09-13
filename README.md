@@ -5,7 +5,7 @@
 **Integrantes:**  
 - Stanley Jeremy Gutierrez Tume (U202118152) – Team Leader  
 - Juan José Meza Huanacune (U202320574) – Backend Engineer  
-- Eduardo Fabián Chacaliaza Minaya (U202324129) – Frontend & UX/UI Engineer  
+- Eduardo Fabián Chacaliaza Minaya (U202324129) – Frontend & UX/UI Engineer
 - Fabricio Fabián Quispe Barzola (U202320442) – Data & IoT Integration Engineer  
 
 ---
@@ -18,7 +18,7 @@
 ---
 
 ## Project Report Collaboration Insights
-📌 URL del repositorio: [colocar enlace del repo]  
+📌 URL del repositorio: https://github.com/upc-2025-1asi0730-MithyCore/project-report
 📌 Evidencia de commits y colaboración (capturas y explicación).  
 
 ---
