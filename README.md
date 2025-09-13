@@ -159,6 +159,10 @@ Unificar en una plataforma única:
 - “Si desarrollamos un API RESTful que procese datos con menos de 500 ms de latencia en el 95% de las llamadas, entonces lograremos mantener la experiencia en tiempo real, lo sabremos al monitorear métricas de rendimiento.”  
 
 ---
+### 1.2.2.4. Lean UX Canvas
+<div align="left">
+  <img src="img/Ceribell.png" alt="Ceribell" width="100"/>
+</div>
 
 # Capítulo II: Requirements Elicitation & Analysis
   
