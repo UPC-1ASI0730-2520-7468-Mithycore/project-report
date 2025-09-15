@@ -352,6 +352,23 @@ Muchas gracias por tu tiempo hoy. Tu opinión y las ideas que compartiste nos ay
 |  | Considera de gran valor contar con una plataforma digital que envíe alertas inmediatas al celular en caso de caídas o anomalías, y que muestre un historial claro de la evolución de la paciente. También resaltó la utilidad de recibir recomendaciones prácticas desde la misma plataforma para el día a día del cuidado.  
 |  | Finalmente, expresó que estaría dispuesto a utilizar dispositivos IoT como relojes inteligentes o bandas, siempre que fueran cómodos y fáciles de usar para su esposa. Indicó que aceptaría incluso dispositivos más avanzados, como implantables, siempre que estén respaldados por especialistas y ofrezcan beneficios claros en la mejora de la calidad de vida de la paciente.  
 
+**Segmento #2: Profesionales de la salud en neurología**  
+
+| | **Entrevistado N°1: Juan José Meza Galarza**  
+| --- | ---  
+|  | - **Sexo:** Masculino  
+|  | - **Edad:** 56 años  
+|  | - **Profesión:** Neurólogo clínico  
+|  | - **Link:** __________________________  
+|  | - **Instante en el que inicia:** ____  
+|  | - **Duración:** ____  
+|  | **Resumen de la entrevista:**  
+|  | Se realizó una entrevista a Juan José Meza Galarza, neurólogo clínico con más de veinte años de experiencia en el tratamiento de pacientes con epilepsia y enfermedades neurodegenerativas. Durante la conversación compartió que una de las principales dificultades que enfrenta en su práctica es la falta de información continua y objetiva sobre la evolución de los síntomas en los pacientes, lo que limita la capacidad de ajustar los tratamientos en el momento oportuno.  
+|  | El entrevistado señaló que, aunque los reportes verbales de familiares y pacientes aportan información valiosa, suelen estar sesgados o incompletos, lo que retrasa la identificación de patrones clínicos importantes. Destacó que contar con datos cuantitativos de manera sistemática sería una herramienta fundamental para la práctica clínica y la investigación.  
+|  | Considera que una plataforma IoT con sensores portátiles y bases de datos integradas le permitiría obtener métricas más confiables sobre calidad de sueño, frecuencia de episodios y niveles de actividad de sus pacientes. Subrayó que la posibilidad de recibir reportes automatizados facilitaría tanto la toma de decisiones clínicas como la comunicación con familiares.  
+|  | Finalmente, indicó que para que esta tecnología sea realmente útil debe garantizar la confidencialidad de los datos y presentarlos en un formato claro y fácil de interpretar, de manera que pueda integrarse sin dificultad a la práctica profesional diaria. También enfatizó que herramientas así podrían abrir nuevas oportunidades de investigación en neurociencias, al permitir trabajar con información más amplia y representativa de la vida cotidiana de los pacientes.  
+
+
 
   
 - 2.2.3 Análisis de entrevistas  
