@@ -272,7 +272,52 @@ El análisis competitivo nos brinda una visión clara de cómo nos comparamos co
 5. **MVP de panel clínico**: lista de pacientes, alertas, evolución de crisis/temblor y “riesgo próximo” básico.
 
 ## 2.2 Entrevistas
-- 2.2.1 Diseño de entrevistas  
+--- 2.2.1. Diseño de entrevistas  
+
+Muy buenos (as) días/tardes/noches, estamos contentos de que haya aceptado esta entrevista. Somos estudiantes de la carrera de Ingeniería de Software e Informática de la UPC. A nombre del grupo desarrollador de la Plataforma IoT para la Optimización de la Atención Neurológica, queremos conversar con usted sobre las dificultades y necesidades que enfrentan los pacientes con enfermedades neurológicas y los profesionales de la salud que los atienden.  
+
+Nuestro objetivo es conocer su experiencia y su perspectiva, ya que buscamos validar y mejorar nuestro producto. Esta plataforma integra dispositivos IoT que recolectan datos neurológicos en tiempo real (EEG, EMG, actividad motora, calidad del sueño, etc.) con inteligencia artificial para generar reportes, alertas predictivas y facilitar el seguimiento remoto por parte de los médicos. Sus respuestas serán muy valiosas para construir una solución útil, accesible y empática.  
+
+---
+
+### Segmento #1: Pacientes con enfermedades neurológicas crónicas  
+
+**Preguntas complementarias:**  
+- ¿Cuál es tu nombre completo?  
+- ¿Cuántos años tienes?  
+- ¿Dónde resides actualmente?  
+- ¿Vives solo o acompañado?  
+- ¿Tienes algún diagnóstico neurológico específico (epilepsia, Parkinson, Alzheimer, otro)?  
+- ¿Has recibido tratamiento o seguimiento médico especializado anteriormente?  
+
+**Preguntas principales:** *Obtener información sobre el impacto de la enfermedad, necesidades, expectativas y aceptación de nuevas tecnologías*  
+- ¿Cómo ha impactado tu condición en tu vida diaria o en la de tus familiares?  
+- ¿Qué dificultades enfrentas actualmente para llevar un control de tu enfermedad?  
+- ¿Qué tan útil consideras que sería contar con un sistema que envíe alertas tempranas sobre crisis o anomalías?  
+- ¿Qué información te gustaría poder consultar en una aplicación (ejemplo: frecuencia de crisis, calidad de sueño, evolución del tratamiento)?  
+- ¿Qué tan dispuesto estarías a usar dispositivos IoT (como pulseras, bandas EEG o sensores implantables) para mejorar tu seguimiento médico?  
+- ¿Cuáles serían tus principales preocupaciones respecto al uso de esta tecnología?  
+
+---
+
+### Segmento #2: Psicólogos clínicos / Neuropsicólogos  
+
+**Preguntas complementarias:**  
+- ¿Cuál es su nombre completo?  
+- ¿Cuántos años de experiencia tiene en su campo?  
+- ¿En qué institución trabaja actualmente?  
+- ¿Ha tratado pacientes con enfermedades neurológicas en su práctica clínica?  
+- ¿Con qué frecuencia utiliza herramientas tecnológicas en la evaluación o seguimiento de sus pacientes?  
+
+**Preguntas principales:** *Obtener información sobre prácticas clínicas, necesidades de apoyo tecnológico, uso de datos objetivos*  
+- ¿Cuáles son los mayores retos que enfrenta al evaluar pacientes con enfermedades neurológicas desde el área psicológica o neuropsicológica?  
+- ¿Qué métodos utiliza actualmente para recopilar información entre una consulta y otra?  
+- ¿Qué tan útil sería contar con datos objetivos y en tiempo real sobre sueño, estrés o actividad neurológica de sus pacientes?  
+- ¿Qué tipo de visualización de datos le resultaría más práctica (gráficas, reportes automáticos, indicadores de riesgo)?  
+- ¿Cuáles son sus preocupaciones respecto al uso de dispositivos IoT en la evaluación y seguimiento de pacientes?  
+- ¿Qué características debería tener una plataforma digital para que realmente apoye su práctica clínica y no incremente su carga de trabajo?  
+
+---  
 - 2.2.2 Registro de entrevistas  
 - 2.2.3 Análisis de entrevistas  
 
