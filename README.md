@@ -390,7 +390,13 @@ En conclusión, los entrevistados coincidieron en que contar con una plataforma 
 ## 2.3 Needfinding
 - 2.3.1 User Personas  
 
+PACIENTE:
 
+![User Persona - Paciente](img/USER%20PERSONA-PACIENTE.png)
+
+NEUROPSICÓLOGO:
+
+![User Persona - Neuropsicólogo](img/USER%20PERSONA-NEUROPSICOLOGO.png)
 
 
 
