@@ -347,7 +347,7 @@ Muchas gracias por tu tiempo hoy. Tu opinión y las ideas que compartiste nos ay
 |  | - **Instante en el que inicia:** ____  
 |  | - **Duración:** ____  
 |  | **Resumen de la entrevista:**  
-|  | Se realizó una entrevista a Xin Yu Shi Lin, cuidador principal de su esposa diagnosticada con Parkinson. Durante la conversación comentó que una de las principales dificultades que enfrenta es la incertidumbre respecto a las caídas y episodios de rigidez, especialmente cuando no se encuentra junto a ella, lo que le genera ansiedad constante. Mencionó que los controles médicos son trimestrales, pero siente que no logran reflejar los cambios diarios que ocurren en el estado de su esposa.  
+|  | Se realizó una entrevista a Xin Yu Shi Lin, cuidador principal de su hermana diagnosticada con Parkinson. Durante la conversación comentó que una de las principales dificultades que enfrenta es la incertidumbre respecto a las caídas y episodios de rigidez, especialmente cuando no se encuentra junto a ella, lo que le genera ansiedad constante. Mencionó que los controles médicos son trimestrales, pero siente que no logran reflejar los cambios diarios que ocurren en el estado de su esposa.  
 |  | El entrevistado señaló que, aunque cuenta con apoyo familiar, muchas veces se siente solo en el cuidado y que transmitir los síntomas de manera precisa al médico resulta complicado. Expresó que el seguimiento actual es verbal, lo que ocasiona pérdida de información importante para el tratamiento.  
 |  | Considera de gran valor contar con una plataforma digital que envíe alertas inmediatas al celular en caso de caídas o anomalías, y que muestre un historial claro de la evolución de la paciente. También resaltó la utilidad de recibir recomendaciones prácticas desde la misma plataforma para el día a día del cuidado.  
 |  | Finalmente, expresó que estaría dispuesto a utilizar dispositivos IoT como relojes inteligentes o bandas, siempre que fueran cómodos y fáciles de usar para su esposa. Indicó que aceptaría incluso dispositivos más avanzados, como implantables, siempre que estén respaldados por especialistas y ofrezcan beneficios claros en la mejora de la calidad de vida de la paciente.  
@@ -368,10 +368,24 @@ Muchas gracias por tu tiempo hoy. Tu opinión y las ideas que compartiste nos ay
 |  | Considera que una plataforma IoT con sensores portátiles y bases de datos integradas le permitiría obtener métricas más confiables sobre calidad de sueño, frecuencia de episodios y niveles de actividad de sus pacientes. Subrayó que la posibilidad de recibir reportes automatizados facilitaría tanto la toma de decisiones clínicas como la comunicación con familiares.  
 |  | Finalmente, indicó que para que esta tecnología sea realmente útil debe garantizar la confidencialidad de los datos y presentarlos en un formato claro y fácil de interpretar, de manera que pueda integrarse sin dificultad a la práctica profesional diaria. También enfatizó que herramientas así podrían abrir nuevas oportunidades de investigación en neurociencias, al permitir trabajar con información más amplia y representativa de la vida cotidiana de los pacientes.  
 
-
-
-  
 - 2.2.3 Análisis de entrevistas  
+
+**Segmento #1: Pacientes con enfermedades neurológicas crónicas**  
+
+Las entrevistas con Cesar Aaron Cornejo y Xin Yu Shi Lin revelan que los pacientes y cuidadores de personas con enfermedades neurológicas enfrentan desafíos importantes relacionados con la imprevisibilidad de las crisis, la dificultad de transmitir con precisión los síntomas a los profesionales de la salud y la falta de herramientas que registren datos objetivos en la vida diaria. Ambos entrevistados coincidieron en que los controles médicos periódicos resultan insuficientes para reflejar la realidad cotidiana de los pacientes, lo que genera sentimientos de inseguridad, frustración y ansiedad tanto en ellos como en sus familias.  
+
+Cesar señaló que la imposibilidad de anticipar sus crisis epilépticas genera miedo y limita su independencia, mientras que Xin Yu Shi Lin compartió que la preocupación constante por posibles caídas o episodios de rigidez de su hermana impacta directamente en su calidad de vida como cuidador. Ambos destacaron que los registros manuales o verbales actuales no son efectivos para apoyar decisiones clínicas.  
+
+Entre las mejoras propuestas, se resaltan:  
+
+- **Implementar plataformas digitales con recolección de datos en tiempo real** sobre episodios, calidad del sueño y niveles de actividad, que permitan anticipar crisis o detectar anomalías.  
+- **Alertas automáticas para familiares y cuidadores**, que brinden tranquilidad y apoyo inmediato en caso de emergencias.  
+- **Reportes visuales claros y confidenciales para médicos**, que faciliten el ajuste de tratamientos y mejoren la comunicación entre pacientes, cuidadores y profesionales de la salud.  
+
+Los desafíos para implementar estas soluciones incluyen la aceptación de dispositivos IoT por parte de los pacientes, quienes priorizan la comodidad, la no invasividad y la facilidad de uso. También se destacó la importancia de garantizar la confidencialidad de los datos y de que la información recopilada se utilice exclusivamente con fines médicos.  
+
+En conclusión, los entrevistados coincidieron en que contar con una plataforma IoT integrada y confiable podría marcar una diferencia significativa en sus vidas, al brindar seguridad, apoyo continuo y una mejor comunicación con el equipo médico. Este tipo de solución no solo reduciría la ansiedad y la incertidumbre en la vida diaria, sino que también mejoraría la calidad del tratamiento y la prevención de complicaciones.  
+
 
 ## 2.3 Needfinding
 - 2.3.1 User Personas  
