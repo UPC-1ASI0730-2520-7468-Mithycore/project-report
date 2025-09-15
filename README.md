@@ -318,6 +318,10 @@ Nuestro objetivo es conocer su experiencia y su perspectiva, ya que buscamos val
 - ¿Qué características debería tener una plataforma digital para que realmente apoye su práctica clínica y no incremente su carga de trabajo?  
 
 ---  
+
+**Despedida:** 
+Muchas gracias por tu tiempo hoy. Tu opinión y las ideas que compartiste nos ayudarán mucho a mejorar nuestro producto. Apreciamos tu sinceridad y disposición para participar. Si necesitas más información, no dudes en contactarnos. ¡Gracias!
+
 - 2.2.2 Registro de entrevistas  
 - 2.2.3 Análisis de entrevistas  
 
