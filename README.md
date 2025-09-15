@@ -424,7 +424,6 @@ En conclusión, los entrevistados coincidieron en que contar con una plataforma 
 | US07.2 | Consulta de datos de monitoreo | Como Developer quiero obtener datos de monitoreo neurológico mediante un endpoint para integrarlos en aplicaciones externas. | - DADO QUE se envía un `GET /monitoring/{patientId}`, CUANDO el paciente existe, ENTONCES la API responde con 200 y datos JSON. <br> - DADO QUE se envía un `GET /monitoring/{patientId}`, CUANDO el paciente no existe, ENTONCES la API responde con 404. | EP07 |
 
 - 2.3.2 User Task Matrix  
-## User Task Matrix
 
 La siguiente matriz relaciona a los roles de usuario de la plataforma **Mythicore** con las principales tareas que realizan.  
 Cada tarea está asociada a una **prioridad** (Alta, Media, Baja) y una **frecuencia de uso** (Alta, Media, Baja).  
