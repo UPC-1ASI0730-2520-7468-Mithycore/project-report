@@ -323,6 +323,24 @@ Nuestro objetivo es conocer su experiencia y su perspectiva, ya que buscamos val
 Muchas gracias por tu tiempo hoy. Tu opinión y las ideas que compartiste nos ayudarán mucho a mejorar nuestro producto. Apreciamos tu sinceridad y disposición para participar. Si necesitas más información, no dudes en contactarnos. ¡Gracias!
 
 - 2.2.2 Registro de entrevistas  
+
+### 2.2.2. Registro de entrevistas  
+
+**Segmento #1: Pacientes con enfermedades neurológicas crónicas**  
+
+| ![Evidencia de entrevista](https://via.placeholder.com/220x150.png) | **Entrevistado N°1: Cesar Aaron Cornejo**  
+| --- | ---  
+|  | - **Sexo:** Masculino  
+|  | - **Edad:** 21 años  
+|  | - **Link:** [https://youtu.be/pNVfW7jVm5M](https://youtu.be/pNVfW7jVm5M)  
+|  | - **Instante en el que inicia:** 0:22  
+|  | - **Duración:** 4:15  
+|  | **Resumen de la entrevista:**  
+|  | Se realizó una entrevista a Cesar Aaron Cornejo, un joven de 21 años diagnosticado con epilepsia, que reside en Lima. Durante la conversación compartió que una de las principales dificultades que enfrenta es la imprevisibilidad de sus crisis, las cuales generan miedo e inseguridad tanto en él como en su familia. Comentó que ha asistido a controles médicos periódicos, pero que muchas veces siente que el seguimiento no es suficiente, ya que entre consultas pueden ocurrir episodios importantes que no quedan registrados de manera formal.  
+|  | Cesar señaló que, aunque su familia y amigos lo apoyan, existe una falta de comprensión sobre la magnitud de su condición. Expresó que, en ocasiones, se siente frustrado porque no logra transmitir con exactitud cómo se siente antes o después de una crisis. Además, mencionó que suele llevar un registro manual de sus episodios, pero que este método es tedioso y poco preciso, lo que dificulta que sus médicos tengan información completa para ajustar el tratamiento.  
+|  | El entrevistado considera que contar con una plataforma digital que recopile datos en tiempo real, como frecuencia de crisis, calidad del sueño y niveles de actividad, sería de gran utilidad para mejorar su calidad de vida. También destacó el valor de recibir alertas tempranas que avisen a sus familiares cuando se detecta una anomalía, ya que eso le daría mayor tranquilidad y seguridad en su día a día. Finalmente, manifestó que estaría dispuesto a utilizar dispositivos IoT como pulseras o bandas EEG, siempre que fueran cómodos y no invasivos, y resaltó la importancia de que la información recopilada se maneje con confidencialidad y se use únicamente para fines médicos.  
+
+  
 - 2.2.3 Análisis de entrevistas  
 
 ## 2.3 Needfinding
