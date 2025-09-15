@@ -326,7 +326,7 @@ Muchas gracias por tu tiempo hoy. Tu opinión y las ideas que compartiste nos ay
 
 **Segmento #1: Pacientes con enfermedades neurológicas crónicas**  
 
-| ![Evidencia de entrevista](entrevista aaron.png) | **Entrevistado N°1: Cesar Aaron Cornejo**  
+| **Entrevistado N°1: Cesar Aaron Cornejo** |   
 | --- | ---  
 |  | - **Sexo:** Masculino  
 |  | - **Edad:** 21 años  
