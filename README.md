@@ -336,8 +336,36 @@ Muchas gracias por tu tiempo hoy. Tu opinión y las ideas que compartiste nos ay
 |  | **Resumen de la entrevista:**  
 |  | Se realizó una entrevista a Cesar Aaron Cornejo, un joven de 21 años diagnosticado con epilepsia, que reside en Lima. Durante la conversación compartió que una de las principales dificultades que enfrenta es la imprevisibilidad de sus crisis, las cuales generan miedo e inseguridad tanto en él como en su familia. Comentó que ha asistido a controles médicos periódicos, pero que muchas veces siente que el seguimiento no es suficiente, ya que entre consultas pueden ocurrir episodios importantes que no quedan registrados de manera formal.  
 |  | Cesar señaló que, aunque su familia y amigos lo apoyan, existe una falta de comprensión sobre la magnitud de su condición. Expresó que, en ocasiones, se siente frustrado porque no logra transmitir con exactitud cómo se siente antes o después de una crisis. Además, mencionó que suele llevar un registro manual de sus episodios, pero que este método es tedioso y poco preciso, lo que dificulta que sus médicos tengan información completa para ajustar el tratamiento.  
-|  | El entrevistado considera que contar con una plataforma digital que recopile datos en tiempo real, como frecuencia de crisis, calidad del sueño y niveles de actividad, sería de gran utilidad para mejorar su calidad de vida. También destacó el valor de recibir alertas tempranas que avisen a sus familiares cuando se detecta una anomalía, ya que eso le daría mayor tranquilidad y seguridad en su día a día. Finalmente, manifestó que estaría dispuesto a utilizar dispositivos IoT como pulseras o bandas EEG, siempre que fueran cómodos y no invasivos, y resaltó la importancia de que la información recopilada se maneje con confidencialidad y se use únicamente para fines médicos.  
+|  | El entrevistado considera que contar con una plataforma digital que recopile datos en tiempo real, como frecuencia de crisis, calidad del sueño y niveles de actividad, sería de gran utilidad para mejorar su calidad de vida. También destacó el valor de recibir alertas tempranas que avisen a sus familiares cuando se detecta una anomalía, ya que eso le daría mayor tranquilidad y seguridad en su día a día. Finalmente, manifestó que estaría dispuesto a utilizar dispositivos IoT como pulseras o bandas EEG, siempre que fueran cómodos y no invasivos, y resaltó la importancia de que la información recopilada se maneje con confidencialidad y se use únicamente para fines médicos. 
 
+<table>
+  <tr>
+    <td>
+      <b>Entrevistado N°2:</b> Xin Yu Shi Lin <br>
+      <b>Sexo:</b> Femenino <br>
+      <b>Edad:</b> 55 años <br>
+      <b>Link:</b> __________________________ <br>
+      <b>Instante en el que inicia:</b> ____ <br>
+      <b>Duración:</b> ____ <br><br>
+      <b>Resumen de la entrevista:</b><br>
+      Se realizó una entrevista a Xin Yu Shi Lin, cuidadora de su esposo diagnosticado con Parkinson. Durante la conversación 
+      compartió que una de sus principales preocupaciones es la posibilidad de que su esposo sufra caídas o episodios de rigidez 
+      cuando ella no está presente, lo cual le genera mucha ansiedad. Comentó que actualmente dependen de controles médicos 
+      trimestrales, que considera insuficientes porque en el día a día ocurren cambios importantes que no se registran en consulta. <br><br>
+      <td>
+      Señaló que, aunque cuenta con el apoyo de familiares y amigos, muchas veces se siente sola en la tarea de cuidar, ya que 
+      debe interpretar síntomas que no siempre sabe cómo explicar al médico. Además, mencionó que el registro actual de la evolución 
+      de su esposo es únicamente verbal, lo cual provoca que se pierda información valiosa y dificulta la toma de decisiones clínicas. <br><br>
+      La entrevistada considera que recibir alertas automáticas en su celular cuando ocurran caídas o temblores inusuales sería de 
+      gran ayuda para actuar rápidamente y evitar complicaciones. También expresó interés en acceder a una aplicación que muestre 
+      de manera sencilla la evolución del tratamiento y que ofrezca consejos prácticos para la vida diaria. <br><br>
+      Finalmente, indicó que aceptaría con facilidad el uso de sensores portátiles, como relojes inteligentes o bandas, siempre 
+      que fueran fáciles de usar y cómodos para su esposo. Respecto a dispositivos implantables, mencionó que tendría más dudas, 
+      pero que los consideraría si un especialista los recomienda y si garantizan una mejora significativa en la calidad de vida 
+      de su familiar.  
+    </td>
+  </tr>
+</table>
 
   
 - 2.2.3 Análisis de entrevistas  
