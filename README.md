@@ -391,10 +391,8 @@ En conclusión, los entrevistados coincidieron en que contar con una plataforma 
 - 2.3.1 User Personas  
 
 PACIENTE:
-<div align="left">
-  <img src="img/user person - segmento1.png" alt="user person - segmento1" width="100"/>
-</div>
-![User Persona - Paciente](img/USER%20PERSONA-PACIENTE.png)
+
+![User Persona - Paciente](img/userperson-segmento1.png)
 
 NEUROPSICÓLOGO:
 
