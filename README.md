@@ -358,7 +358,7 @@ Muchas gracias por tu tiempo hoy. Tu opinión y las ideas que compartiste nos ay
 | --- | ---  
 |  | - **Sexo:** Masculino  
 |  | - **Edad:** 56 años  
-|  | - **Profesión:** Neurólogo clínico  
+|  | - **Profesión:** Neurólogo Especialista
 |  | - **Link:** __________________________  
 |  | - **Instante en el que inicia:** ____  
 |  | - **Duración:** ____  
