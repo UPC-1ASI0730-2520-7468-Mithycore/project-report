@@ -272,7 +272,7 @@ El análisis competitivo nos brinda una visión clara de cómo nos comparamos co
 5. **MVP de panel clínico**: lista de pacientes, alertas, evolución de crisis/temblor y “riesgo próximo” básico.
 
 ## 2.2 Entrevistas
---- 2.2.1. Diseño de entrevistas  
+- 2.2.1. Diseño de entrevistas  
 
 Muy buenos (as) días/tardes/noches, estamos contentos de que haya aceptado esta entrevista. Somos estudiantes de la carrera de Ingeniería de Software e Informática de la UPC. A nombre del grupo desarrollador de la Plataforma IoT para la Optimización de la Atención Neurológica, queremos conversar con usted sobre las dificultades y necesidades que enfrentan los pacientes con enfermedades neurológicas y los profesionales de la salud que los atienden.  
 
