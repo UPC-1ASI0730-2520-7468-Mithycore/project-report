@@ -391,7 +391,7 @@ En conclusión, los entrevistados coincidieron en que contar con una plataforma 
 - 2.3.1 User Personas  
 En esta parte del informe presentamos a los User Personas construidos a partir de entrevistas y análisis de los segmentos objetivo de Mythicore. Estas representaciones ficticias, pero basadas en datos reales, nos permiten comprender mejor cómo piensan, qué esperan y qué problemas enfrentan nuestros usuarios. Con esta información, el equipo puede diseñar una solución alineada a necesidades auténticas y no solo a supuestos.
 
-User Persona – Segmento 1: Paciente con epilepsia crónica:
+User Persona – Segmento 1: Paciente(epilepsia crónica):
 
 ![User Persona - Paciente](img/userperson-segmento1.png)
 
