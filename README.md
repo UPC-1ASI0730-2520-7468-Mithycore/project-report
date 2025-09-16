@@ -482,7 +482,39 @@ NEUROPSICÓLOGOS:
 | US07.2 | Consulta de datos de monitoreo | Como Developer quiero obtener datos de monitoreo neurológico mediante un endpoint para integrarlos en aplicaciones externas. | - DADO QUE se envía un `GET /monitoring/{patientId}`, CUANDO el paciente existe, ENTONCES la API responde con 200 y datos JSON. <br> - DADO QUE se envía un `GET /monitoring/{patientId}`, CUANDO el paciente no existe, ENTONCES la API responde con 404. | EP07 |
 
 ## 3.2 Impact Mapping  
+
+PACIENTES:
+
+![Impact Map - Pacientes](img/Impact%20map%20-pacientes.png)
+
+NEUROPSICÓLOGO:
+
+![Impact Map - Neuropsicólogo](img/Impact%20map%20-neuropsicologo.png)
+
+
 ## 3.3 Product Backlog  
+
+| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+|-----------------|--------|-------------|--------------------------|---------------------------|
+| EP01 | Monitoreo IoT | Permitir que los pacientes registren y consulten sus datos neurológicos en tiempo real mediante dispositivos IoT. | - | - |
+| US01.1 | Registro de señales IoT | Como **paciente**, quiero que mis dispositivos envíen datos automáticos a la plataforma para que mi médico pueda monitorearlos. | DADO QUE el paciente tiene un dispositivo IoT conectado, CUANDO el dispositivo registra señales neurológicas, ENTONCES los datos deben almacenarse y estar disponibles en la plataforma. | EP01 |
+| US01.2 | Visualización de métricas | Como **médico**, quiero visualizar en un dashboard los datos IoT de mis pacientes para identificar patrones de riesgo. | DADO QUE el médico accede al panel, CUANDO selecciona un paciente, ENTONCES debe ver sus métricas neurológicas recientes en gráficos y tablas. | EP01 |
+| US01.3 | Reportes para pacientes | Como **paciente**, quiero consultar reportes simples de mis métricas para entender mi estado de salud. | DADO QUE el paciente accede al portal, CUANDO solicita un reporte, ENTONCES se le debe mostrar un resumen claro de su estado. | EP01 |
+| EP02 | Inteligencia Artificial Predictiva | Implementar un modelo de IA que identifique riesgos de crisis neurológicas a partir de los datos capturados. | - | - |
+| US02.1 | Generación de alertas | Como **médico**, quiero recibir alertas automáticas de riesgo alto en mis pacientes para actuar preventivamente. | DADO QUE la IA detecta un patrón de riesgo, CUANDO el valor supere un umbral configurado, ENTONCES el sistema debe generar una alerta en tiempo real. | EP02 |
+| US02.2 | Notificaciones al paciente | Como **paciente**, quiero recibir notificaciones de riesgo para poder actuar antes de una crisis. | DADO QUE la IA genera una alerta, CUANDO el paciente esté registrado, ENTONCES se debe enviar una notificación a su aplicación. | EP02 |
+| EP03 | Telemedicina | Ofrecer consultas virtuales entre pacientes y médicos con integración de datos neurológicos. | - | - |
+| US03.1 | Agendamiento de teleconsulta | Como **paciente**, quiero agendar una teleconsulta con mi médico para recibir atención remota. | DADO QUE el paciente necesita una consulta, CUANDO selecciona fecha y hora disponibles, ENTONCES la plataforma debe registrar y confirmar la cita. | EP03 |
+| US03.2 | Consulta con datos integrados | Como **médico**, quiero tener acceso a los datos IoT del paciente durante la teleconsulta para tomar mejores decisiones. | DADO QUE la teleconsulta está en curso, CUANDO el médico accede al panel, ENTONCES los datos neurológicos deben estar visibles en tiempo real. | EP03 |
+| EP04 | Landing Page | Proveer un sitio estático para visitantes donde se presente información clara sobre el producto y servicios. | - | - |
+| US04.1 | Información del producto | Como **visitante**, quiero conocer la propuesta de valor de Mythicore para entender cómo funciona. | DADO QUE el visitante accede al sitio, CUANDO entra a la sección principal, ENTONCES debe ver un resumen del producto y sus beneficios. | EP04 |
+| US04.2 | Servicios y segmentos | Como **visitante**, quiero explorar los servicios disponibles según mi perfil (paciente, médico, institución). | DADO QUE el visitante navega en el sitio, CUANDO selecciona una sección, ENTONCES se le muestra la información adaptada a su perfil. | EP04 |
+| US04.3 | Contacto | Como **visitante**, quiero enviar un mensaje de contacto para obtener más información. | DADO QUE el visitante ingresa al formulario, CUANDO completa sus datos, ENTONCES la plataforma debe registrar y enviar el mensaje al equipo. | EP04 |
+| EP05 | RESTful API | Brindar una API para integradores externos (hospitales, aseguradoras, investigadores). | - | - |
+| US05.1 | Registro vía API | Como **developer**, quiero registrar pacientes mediante un endpoint para integrarlos al sistema. | DADO QUE el developer hace un POST válido, CUANDO envía los datos correctos, ENTONCES el sistema debe registrar al paciente y devolver un código 201. | EP05 |
+| US05.2 | Consulta de datos IoT | Como **developer**, quiero consultar las métricas de un paciente en formato JSON para integrarlas en otro sistema. | DADO QUE el developer hace un GET válido, CUANDO incluye la autorización correcta, ENTONCES la API debe devolver los datos en JSON estructurado. | EP05 |
+| US05.3 | Manejo de errores | Como **developer**, quiero recibir mensajes claros de error para poder corregir mis requests. | DADO QUE el developer envía un request inválido, CUANDO el sistema lo procesa, ENTONCES la API debe devolver un error con código y mensaje descriptivo. | EP05 |
+
 
 ---
 
