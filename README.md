@@ -339,20 +339,6 @@ Muchas gracias por tu tiempo hoy. Tu opinión y las ideas que compartiste nos ay
 |  | Cesar señaló que, aunque su familia y amigos lo apoyan, existe una falta de comprensión sobre la magnitud de su condición. Expresó que, en ocasiones, se siente frustrado porque no logra transmitir con exactitud cómo se siente antes o después de una crisis. Además, mencionó que suele llevar un registro manual de sus episodios, pero que este método es tedioso y poco preciso, lo que dificulta que sus médicos tengan información completa para ajustar el tratamiento.  
 |  | El entrevistado considera que contar con una plataforma digital que recopile datos en tiempo real, como frecuencia de crisis, calidad del sueño y niveles de actividad, sería de gran utilidad para mejorar su calidad de vida. También destacó el valor de recibir alertas tempranas que avisen a sus familiares cuando se detecta una anomalía, ya que eso le daría mayor tranquilidad y seguridad en su día a día. Finalmente, manifestó que estaría dispuesto a utilizar dispositivos IoT como pulseras o bandas EEG, siempre que fueran cómodos y no invasivos, y resaltó la importancia de que la información recopilada se maneje con confidencialidad y se use únicamente para fines médicos. 
 
-
-| | **Entrevistado N°2: Xin Yu Shi Lin**  
-| --- | ---  
-|  | - **Sexo:** Masculino  
-|  | - **Edad:** 19 años  
-|  | - **Link:** __________________________  
-|  | - **Instante en el que inicia:** ____  
-|  | - **Duración:** ____  
-|  | **Resumen de la entrevista:**  
-|  | Se realizó una entrevista a Xin Yu Shi Lin, cuidador principal de su hermana diagnosticada con Parkinson. Durante la conversación comentó que una de las principales dificultades que enfrenta es la incertidumbre respecto a las caídas y episodios de rigidez, especialmente cuando no se encuentra junto a ella, lo que le genera ansiedad constante. Mencionó que los controles médicos son trimestrales, pero siente que no logran reflejar los cambios diarios que ocurren en el estado de su esposa.  
-|  | El entrevistado señaló que, aunque cuenta con apoyo familiar, muchas veces se siente solo en el cuidado y que transmitir los síntomas de manera precisa al médico resulta complicado. Expresó que el seguimiento actual es verbal, lo que ocasiona pérdida de información importante para el tratamiento.  
-|  | Considera de gran valor contar con una plataforma digital que envíe alertas inmediatas al celular en caso de caídas o anomalías, y que muestre un historial claro de la evolución de la paciente. También resaltó la utilidad de recibir recomendaciones prácticas desde la misma plataforma para el día a día del cuidado.  
-|  | Finalmente, expresó que estaría dispuesto a utilizar dispositivos IoT como relojes inteligentes o bandas, siempre que fueran cómodos y fáciles de usar para su esposa. Indicó que aceptaría incluso dispositivos más avanzados, como implantables, siempre que estén respaldados por especialistas y ofrezcan beneficios claros en la mejora de la calidad de vida de la paciente.  
-
 **Segmento #2: Profesionales de la salud en neurología**  
 
 | | **Entrevistado N°1: Juan José Meza Galarza**  
@@ -367,7 +353,24 @@ Muchas gracias por tu tiempo hoy. Tu opinión y las ideas que compartiste nos ay
 |  | Se realizó una entrevista a Juan José Meza Galarza, neurólogo clínico con más de veinte años de experiencia en el tratamiento de pacientes con epilepsia y enfermedades neurodegenerativas. Durante la conversación compartió que una de las principales dificultades que enfrenta en su práctica es la falta de información continua y objetiva sobre la evolución de los síntomas en los pacientes, lo que limita la capacidad de ajustar los tratamientos en el momento oportuno.  
 |  | El entrevistado señaló que, aunque los reportes verbales de familiares y pacientes aportan información valiosa, suelen estar sesgados o incompletos, lo que retrasa la identificación de patrones clínicos importantes. Destacó que contar con datos cuantitativos de manera sistemática sería una herramienta fundamental para la práctica clínica y la investigación.  
 |  | Considera que una plataforma IoT con sensores portátiles y bases de datos integradas le permitiría obtener métricas más confiables sobre calidad de sueño, frecuencia de episodios y niveles de actividad de sus pacientes. Subrayó que la posibilidad de recibir reportes automatizados facilitaría tanto la toma de decisiones clínicas como la comunicación con familiares.  
-|  | Finalmente, indicó que para que esta tecnología sea realmente útil debe garantizar la confidencialidad de los datos y presentarlos en un formato claro y fácil de interpretar, de manera que pueda integrarse sin dificultad a la práctica profesional diaria. También enfatizó que herramientas así podrían abrir nuevas oportunidades de investigación en neurociencias, al permitir trabajar con información más amplia y representativa de la vida cotidiana de los pacientes.  
+|  | Finalmente, indicó que para que esta tecnología sea realmente útil debe garantizar la confidencialidad de los datos y presentarlos en un formato claro y fácil de interpretar, de manera que pueda integrarse sin dificultad a la práctica profesional diaria. También enfatizó que herramientas así podrían abrir nuevas oportunidades de investigación en neurociencias, al permitir trabajar con información más amplia y representativa de la vida cotidiana de los pacientes.
+
+**Segmento #3: Terapeutas**   
+
+| | **Entrevistado N°1: Jairo Chávez**  
+| --- | ---  
+|  | - **Sexo:** Masculino  
+|  | - **Edad:** 23 años  
+|  | - **Profesión:** Terapeuta en formación  
+|  | - **Link:** [https://youtu.be/Nabxppg7DKQ](https://youtu.be/Nabxppg7DKQ)  
+|  | - **Instante en el que inicia:** 0:00  
+|  | - **Duración:** 2:45  
+|  | **Resumen de la entrevista:**  
+|  | Se realizó una entrevista a Jairo Chávez, joven terapeuta en formación de 23 años. Durante la conversación compartió que uno de los principales retos en su práctica es el limitado acceso a información objetiva y continua sobre la evolución de los pacientes con enfermedades neurológicas. Señaló que muchas veces los datos provienen únicamente de observaciones verbales o registros poco sistemáticos, lo que dificulta evaluar la eficacia de las terapias.  
+|  | El entrevistado mencionó que considera fundamental contar con herramientas tecnológicas que permitan monitorear aspectos como la movilidad, la coordinación motora y la respuesta a ejercicios de rehabilitación en tiempo real. Subrayó que el uso de dispositivos IoT podría ofrecer métricas más precisas, ayudando a los terapeutas a adaptar las rutinas de manera personalizada.  
+|  | Además, Jairo resaltó que la integración de plataformas digitales facilitaría la comunicación entre terapeutas, médicos y familiares, asegurando que todos manejen la misma información sobre el progreso del paciente. Manifestó que sería ideal que estos sistemas presenten datos en formatos visuales claros, fáciles de interpretar y aplicables directamente a las sesiones de terapia.  
+|  | Finalmente, expresó que el éxito de estas herramientas dependerá de que sean accesibles, intuitivas y adaptables a distintos contextos clínicos, ya que muchos pacientes requieren soluciones sencillas y prácticas para garantizar su adherencia. Considera que la tecnología puede convertirse en un aliado clave en la rehabilitación neurológica, siempre que se mantenga el enfoque humano y empático en el tratamiento.  
+
 
 - 2.2.3 Análisis de entrevistas  
 
