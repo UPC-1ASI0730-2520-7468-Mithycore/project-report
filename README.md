@@ -428,7 +428,7 @@ En esta parte del informe presentamos a los User Personas construidos a partir d
 
 User Persona – Segmento 1: Paciente(epilepsia crónica):
 
-![User Persona - Paciente](img/userperson-segmento1.png)
+![User Persona - Paciente](img/userperson-segmentopaciente.png)
 
 NEUROPSICÓLOGO:
 
