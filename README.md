@@ -275,7 +275,7 @@ El análisis competitivo nos brinda una visión clara de cómo nos comparamos co
 ## 2.2 Entrevistas
 - 2.2.1. Diseño de entrevistas  
 
-Muy buenos (as) días/tardes/noches, estamos contentos de que haya aceptado esta entrevista. Somos estudiantes de la carrera de Ingeniería de Software e Informática de la UPC. A nombre del grupo desarrollador de la Plataforma IoT para la Optimización de la Atención Neurológica, queremos conversar con usted sobre las dificultades y necesidades que enfrentan los pacientes con enfermedades neurológicas y los profesionales de la salud que los atienden.  
+Muy buenos días/tardes/noches, estamos contentos de que haya aceptado esta entrevista. Somos estudiantes de la carrera de Ingeniería de Software e Informática de la UPC. A nombre del grupo desarrollador de la Plataforma IoT para la Optimización de la Atención Neurológica, queremos conversar con usted sobre las dificultades y necesidades que enfrentan los pacientes con enfermedades neurológicas y los profesionales de la salud que los atienden.  
 
 Nuestro objetivo es conocer su experiencia y su perspectiva, ya que buscamos validar y mejorar nuestro producto. Esta plataforma integra dispositivos IoT que recolectan datos neurológicos en tiempo real (EEG, EMG, actividad motora, calidad del sueño, etc.) con inteligencia artificial para generar reportes, alertas predictivas y facilitar el seguimiento remoto por parte de los médicos. Sus respuestas serán muy valiosas para construir una solución útil, accesible y empática.  
 
@@ -288,35 +288,66 @@ Nuestro objetivo es conocer su experiencia y su perspectiva, ya que buscamos val
 - ¿Cuántos años tienes?  
 - ¿Dónde resides actualmente?  
 - ¿Vives solo o acompañado?  
-- ¿Tienes algún diagnóstico neurológico específico (epilepsia, Parkinson, Alzheimer, otro)?  
+- ¿Tienes algún diagnóstico neurológico específico?  
 - ¿Has recibido tratamiento o seguimiento médico especializado anteriormente?  
+- ¿Qué dispositivos tecnológicos usas con mayor frecuencia? 
+- ¿Qué navegador web utilizas normalmente? 
+- ¿Cuáles son los métodos que utilizas más para autenticarte o logearte en plataformas?  
 
 **Preguntas principales:** *Obtener información sobre el impacto de la enfermedad, necesidades, expectativas y aceptación de nuevas tecnologías*  
 - ¿Cómo ha impactado tu condición en tu vida diaria o en la de tus familiares?  
 - ¿Qué dificultades enfrentas actualmente para llevar un control de tu enfermedad?  
 - ¿Qué tan útil consideras que sería contar con un sistema que envíe alertas tempranas sobre crisis o anomalías?  
-- ¿Qué información te gustaría poder consultar en una aplicación (ejemplo: frecuencia de crisis, calidad de sueño, evolución del tratamiento)?  
-- ¿Qué tan dispuesto estarías a usar dispositivos IoT (como pulseras, bandas EEG o sensores implantables) para mejorar tu seguimiento médico?  
+- ¿Qué información te gustaría poder consultar en una aplicación?  
+- ¿Qué tan dispuesto estarías a usar dispositivos IoT para mejorar tu seguimiento médico?  
 - ¿Cuáles serían tus principales preocupaciones respecto al uso de esta tecnología?  
 
----
 
 ### Segmento #2: Psicólogos clínicos / Neuropsicólogos  
 
 **Preguntas complementarias:**  
 - ¿Cuál es su nombre completo?  
-- ¿Cuántos años de experiencia tiene en su campo?  
-- ¿En qué institución trabaja actualmente?  
-- ¿Ha tratado pacientes con enfermedades neurológicas en su práctica clínica?  
-- ¿Con qué frecuencia utiliza herramientas tecnológicas en la evaluación o seguimiento de sus pacientes?  
+- ¿Cuántos años tiene?  
+- ¿Dónde ejerce actualmente su profesión? (clínica, hospital, consultorio privado, universidad, etc.)  
+- ¿Cuántos años de experiencia tiene en el área de neurología / salud mental?  
+- ¿Cuál es su especialidad o campo principal de trabajo? (neurología, neuropsicología, psicología clínica, terapia de rehabilitación, etc.)  
+- ¿Con qué frecuencia atiende a pacientes con enfermedades neurológicas crónicas?  
+- ¿Qué dispositivos tecnológicos utiliza con mayor frecuencia en su práctica profesional? (ejemplo: laptop, tablet, smartphone, dispositivos médicos digitales)  
+- ¿Qué software o plataformas médicas emplea habitualmente? (ejemplo: historias clínicas electrónicas, Epic, Cerner, otros)  
+- ¿Qué navegador web utiliza normalmente para su trabajo? (ejemplo: Chrome, Safari, Edge, Opera)  
+- ¿Cuáles son los métodos que utiliza más para autenticarse en sistemas o plataformas profesionales? (ejemplo: correo institucional, Gmail, SMS, autenticación en dos pasos, otros)  
 
-**Preguntas principales:** *Obtener información sobre prácticas clínicas, necesidades de apoyo tecnológico, uso de datos objetivos*  
-- ¿Cuáles son los mayores retos que enfrenta al evaluar pacientes con enfermedades neurológicas desde el área psicológica o neuropsicológica?  
-- ¿Qué métodos utiliza actualmente para recopilar información entre una consulta y otra?  
-- ¿Qué tan útil sería contar con datos objetivos y en tiempo real sobre sueño, estrés o actividad neurológica de sus pacientes?  
-- ¿Qué tipo de visualización de datos le resultaría más práctica (gráficas, reportes automáticos, indicadores de riesgo)?  
-- ¿Cuáles son sus preocupaciones respecto al uso de dispositivos IoT en la evaluación y seguimiento de pacientes?  
-- ¿Qué características debería tener una plataforma digital para que realmente apoye su práctica clínica y no incremente su carga de trabajo?  
+**Preguntas principales (Segmento 2 – Profesionales de la salud):**  
+- ¿Cómo realiza actualmente el seguimiento de sus pacientes con epilepsia u otras condiciones neurológicas?  
+- ¿Qué tan útil considera contar con una plataforma que integre registros de crisis, calidad de sueño y datos biométricos en tiempo real?  
+- ¿Qué marcas o sistemas le generan más confianza para trabajar con este tipo de soluciones?  
+- ¿Le sería útil acceder a los registros de sus pacientes desde una aplicación web conectada a la nube?  
+- ¿Qué comunidades científicas sigue para mantenerse actualizado en este tema?  
+- ¿Cómo cree que estas herramientas digitales impactarían en el sistema de salud en general?  
+- ¿Cómo visualiza el futuro de la neurología con IoT y plataformas digitales integradas?  
+
+### Segmento #3: Proveedores IoT
+
+**Preguntas complementarias:**  
+- ¿Cuál es el nombre de su empresa o marca?  
+- ¿Cuál es su nombre completo y cargo dentro de la empresa?  
+- ¿Cuántos años de experiencia tiene su empresa en el desarrollo de dispositivos IoT para el sector salud?  
+- ¿Qué tipo de dispositivos IoT produce o distribuye actualmente? (ejemplo: bandas EEG, wearables, relojes inteligentes, sensores implantables, otros)  
+- ¿En qué mercados o regiones tienen mayor presencia?  
+- ¿Cuáles son los principales clientes a los que venden sus soluciones? (hospitales, clínicas, investigadores, aseguradoras, pacientes directamente)  
+- ¿Qué dispositivos tecnológicos utilizan con mayor frecuencia en su operación diaria? (ejemplo: servidores, plataformas cloud, aplicaciones de monitoreo)  
+- ¿Qué software o plataformas emplean para la gestión y seguridad de datos recolectados por sus dispositivos?  
+- ¿Qué navegador web utilizan normalmente para el trabajo administrativo o de integración de plataformas?  
+- ¿Cuáles son los métodos más utilizados para autenticar usuarios en sus dispositivos o plataformas? (ejemplo: correo institucional, Gmail, SMS, autenticación en dos pasos, biometría)  
+
+**Preguntas principales:**  
+- ¿Cómo desarrollan actualmente sus dispositivos IoT aplicados a la salud neurológica y cuáles son sus principales funcionalidades?  
+- ¿Qué tan capacitado considera que está su equipo en la integración de dispositivos IoT con plataformas digitales de salud, como historias clínicas electrónicas o dashboards médicos?  
+- ¿Qué marcas, certificaciones o estándares internacionales considera fundamentales para que los profesionales de la salud confíen en sus dispositivos? 
+- ¿Le sería útil contar con alianzas estratégicas que permitan acceder a los datos de sus dispositivos desde aplicaciones web o plataformas en la nube utilizadas por médicos y hospitales?  
+- ¿En qué comunidades profesionales o foros online participa su empresa para mantenerse actualizada sobre tendencias y regulaciones de IoT en el sector salud?  
+- ¿Cómo cree que la adopción de dispositivos IoT impactará en hospitales, clínicas y aseguradoras que atienden a pacientes neurológicos?  
+- ¿Cómo visualiza el futuro de los dispositivos IoT aplicados a la neurología en los próximos 5 a 10 años?  
 
 ---  
 
