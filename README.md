@@ -517,11 +517,13 @@ NEUROPSICÓLOGOS:
 
 PACIENTES:
 
-![Impact Map - Pacientes](img/Impact%20map%20-pacientes.png)
+![Impact Maps - Pacientes](img/Impact%20maps%20-pacientes.png)
+
 
 NEUROPSICÓLOGO:
 
-![Impact Map - Neuropsicólogo](img/Impact%20map%20-neuropsicologo.png)
+![Impact Maps - Neuropsicólogo](img/Impact%20maps%20-neuropsicologo.png)
+
 
 
 ## 3.3 Product Backlog  
