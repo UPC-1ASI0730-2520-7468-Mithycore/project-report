@@ -66,7 +66,7 @@ Brindar atención neurológica personalizada mediante IoT e inteligencia artific
 - **Visión**  
 Convertirse en la plataforma líder en salud neurológica digital, integrando monitoreo continuo y telemedicina segura a nivel global.  
 
-### 1.1.2 Perfiles de integrantes del equipo
+### 1.1.2 Perfiles de los integrantes del equipo
 
 | Foto | Nombre y Código | Rol | Descripción |
 |------|-----------------|-----|-------------|
