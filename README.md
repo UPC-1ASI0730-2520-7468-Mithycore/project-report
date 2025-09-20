@@ -566,8 +566,33 @@ NEUROPSICÓLOGO:
 - 4.2.5 Navigation Systems  
 
 ## 4.3 Landing Page UI Design
-- 4.3.1 Landing Page Wireframe  
-- 4.3.2 Landing Page Mock-up  
+### 4.3.1 Landing Page Wireframe  
+
+- Navbar Section  
+![Navbar](./img/Wireframes/LandingPage/NavbarSection.png)
+
+- Hero Section  
+![Hero](./img/Wireframes/LandingPage/HeroSection.png)
+
+- Functions Cards Section  
+![Functions](./img/Wireframes/LandingPage/FunctionsSection.png)
+
+- Manual Section  
+![Manual](./img/Wireframes/LandingPage/ManualSection.png)
+
+- About Section  
+![About](./img/Wireframes/LandingPage/AboutSection.png)
+
+- Benefits Section  
+![Benefits](./img/Wireframes/LandingPage/BeneficiesSection.png)
+
+- Contact Section  
+![Contact](./img/Wireframes/LandingPage/ContacSection.png)
+
+- Footer Section  
+![Footer](./img/Wireframes/LandingPage/ContacSection.png)  
+
+### 4.3.2 Landing Page Mock-up  
 
 ## 4.4 Web Applications UX/UI Design
 - 4.4.1 Wireframes  
