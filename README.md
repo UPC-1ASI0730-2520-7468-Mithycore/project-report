@@ -590,7 +590,7 @@ NEUROPSICÓLOGO:
 ![Contact](./img/Wireframes/LandingPage/ContacSection.png)
 
 - Footer Section  
-![Footer](./img/Wireframes/LandingPage/FooterSection.png.png)  
+![Footer](./img/Wireframes/LandingPage/FooterSection.png)  
 
 ### 4.3.2 Landing Page Mock-up  
 
