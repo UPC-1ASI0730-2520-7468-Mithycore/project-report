@@ -595,11 +595,53 @@ NEUROPSICÓLOGO:
 ### 4.3.2 Landing Page Mock-up  
 
 ## 4.4 Web Applications UX/UI Design
-- 4.4.1 Wireframes  
-- 4.4.2 Wireflow Diagrams  
-- 4.4.3 Mock-ups  
-- 4.4.4 User Flow Diagrams  
+### 4.4.1 Wireframes  
+- Login Page  
+![Login](./img/Wireframes/Application/LoginPage.png)  
+- Insert Number Page  
+![InserNumberPage](./img/Wireframes/Application/InsertNumberPage.png)   
+- Verify Otp Page  
+![VerifyOtpPage](./img/Wireframes/Application/VerifyOtpPage.png)   
+- Insert Data User Page  
+![InserDataUserPage](./img/Wireframes/Application/InsertDataPage.png)  
+- Inicio Page  
+![InicioPage](./img/Wireframes/Application/HomePage.png)  
+- Data Page  
+![DataPage](./img/Wireframes/Application/DataPage.png)  
+- User Page  
+![UserPage](./img/Wireframes/Application/UserPage.png)  
+- Recetas Page  
+![RecetasPage](./img/Wireframes/Application/RecetasPage.png)  
+- Chats Page  
+![ChatsPage](./img/Wireframes/Application/ChatsPage.png)  
+- Map Page  
+![MapPage](./img/Wireframes/Application/MapsPage.png)  
 
+### 4.4.2 Wireflow Diagrams  
+![WireflowDiagrams](./img/WireflowDiagrams/WireFlowDiagramsApp.png)  
+### 4.4.3 Mock-ups  
+- Login Page  
+![Login](./img/Mock-ups/Application/LoginPage.png)  
+- Insert Number Page  
+![InserNumberPage](./img/Mock-ups/Application/InsertNumberPage.png)   
+- Verify Otp Page  
+![VerifyOtpPage](./img/Mock-ups/Application/VerifyOtpPage.png)   
+- Insert Data User Page  
+![InserDataUserPage](./img/Mock-ups/Application/InsertDataUserPage.png)  
+- Inicio Page  
+![InicioPage](./img/Mock-ups/Application/HomePage.png)  
+- Data Page  
+![DataPage](./img/Mock-ups/Application/DataPage.png)  
+- User Page  
+![UserPage](./img/Mock-ups/Application/UserPage.png)  
+- Recetas Page  
+![RecetasPage](./img/Mock-ups/Application/RecetasPage.png)  
+- Chats Page  
+![ChatsPage](./img/Mock-ups/Application/ChatsPage.png)  
+- Map Page  
+![MapPage](./img/Mock-ups/Application/MapsPage.png)  
+### 4.4.4 User Flow Diagrams  
+![WireflowDiagrams](./img/UserFlowDiagrams/image.png)  
 ## 4.5 Web Applications Prototyping  
 
 ## 4.6 Domain-Driven Software Architecture
