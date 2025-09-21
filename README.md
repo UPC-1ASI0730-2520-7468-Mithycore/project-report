@@ -646,6 +646,14 @@ La paleta de Aura Neuro combina la confianza médica con la innovación tecnoló
 
 ### 4.1.2 Web Style Guidelines  
 
+  
+
+## 4.2 Information Architecture
+### 4.2.1 Organization Systems  
+### 4.2.2 Labeling Systems  
+### 4.2.3 SEO Tags and Meta Tags  
+### 4.2.4 Searching Systems  
+
 El sistema integral de neurología digital incorporará un módulo de búsqueda y localización en tiempo real, cuya finalidad es permitir tanto a pacientes como a médicos identificar la disponibilidad de dispositivos médicos conectados y profesionales de la salud en la red. Este componente se constituye como un elemento esencial de la plataforma, ya que asegura la eficiencia en la localización de recursos médicos y optimiza el uso de la flota de dispositivos IoT disponibles.  
 
 En primer lugar, la plataforma contará con un sistema de geolocalización en tiempo real. Cada dispositivo IoT, como sensores EEG portátiles, medidores de sueño o cascos de estimulación neurológica, transmitirá de manera constante su ubicación y los datos registrados hacia la plataforma central. De manera complementaria, los profesionales de la salud podrán habilitar su disponibilidad geolocalizada para consultas presenciales o híbridas, lo que garantiza un acceso más ágil y preciso a los servicios médicos.  
@@ -660,12 +668,19 @@ Finalmente, el sistema también contempla una optimización para empresas o inst
 
 En conjunto, este enfoque convierte al módulo de búsqueda en un componente clave para la medicina personalizada y preventiva, ya que no solo facilita la localización de recursos en tiempo real, sino que también mejora la accesibilidad a especialistas y fomenta un uso más eficiente de la infraestructura tecnológica disponible.  
 
-## 4.2 Information Architecture
-- 4.2.1 Organization Systems  
-- 4.2.2 Labeling Systems  
-- 4.2.3 SEO Tags and Meta Tags  
-- 4.2.4 Searching Systems  
-- 4.2.5 Navigation Systems  
+### 4.2.5 Navigation Systems  
+
+El sistema integral de neurología digital contará con un módulo de navegación inteligente que permitirá a los usuarios desplazarse de manera eficiente dentro de la aplicación y gestionar sus procesos médicos de forma intuitiva. Este módulo ha sido diseñado para mejorar la experiencia de interacción con la plataforma, garantizando accesibilidad y simplicidad en el uso de las distintas funciones disponibles.
+
+En primer lugar, la navegación proporcionará una guía personalizada hacia los servicios principales. Una vez que el usuario inicie sesión, el sistema mostrará de manera clara las secciones esenciales, como el acceso a datos médicos, recetas electrónicas, chats con especialistas y el mapa de localización de centros o dispositivos IoT disponibles. El diseño de menús intuitivos permitirá reducir la curva de aprendizaje y favorecer un uso autónomo por parte de pacientes de diferentes edades.
+
+Durante el uso cotidiano de la aplicación, el módulo de navegación ofrecerá rutas rápidas hacia las funciones más utilizadas, como la consulta de historiales clínicos o el acceso inmediato a un chat con el especialista. Para ello, se prioriza la usabilidad, integrando iconografía simple y accesible, que permite al usuario identificar sin dificultad el servicio requerido.
+
+El sistema también contempla la seguridad y la confianza en la navegación. Cada apartado estará claramente diferenciado y protegido, garantizando que datos sensibles como resultados clínicos o recetas médicas electrónicas se gestionen bajo altos estándares de privacidad. Además, se ofrecerán recomendaciones de uso dentro de la interfaz, tales como accesos directos a información crítica o recordatorios de consultas programadas.
+
+De manera complementaria, el módulo incluirá la localización de recursos dentro de la aplicación, como la identificación de dispositivos IoT activos, médicos disponibles o centros de atención asociados. Este mapa digital estará integrado en la interfaz y permitirá visualizar, en tiempo real, las opciones de atención disponibles según la necesidad del paciente.
+
+Finalmente, en el caso de suscripciones corporativas o institucionales, la navegación ofrecerá accesos especiales que faciliten la coordinación de consultas grupales, el seguimiento de múltiples pacientes y la optimización de los recursos médicos compartidos. De este modo, la navegación se convierte en un componente clave que no solo orienta al usuario en la interfaz, sino que también garantiza eficiencia, seguridad y accesibilidad en todo el proceso de atención médica digital.  
 
 ## 4.3 Landing Page UI Design
 ### 4.3.1 Landing Page Wireframe  
