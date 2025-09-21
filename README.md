@@ -552,7 +552,7 @@ Finalmente, menciona que ha participado en comunidades online como foros de la *
 - **Sexo:** Masculino  
 - **Edad:** 25  
 - **Estado Civil:** Soltero
-**Link:** [Entrevista xin]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320442_upc_edu_pe/EVqzfFZGQtfmtniG8DD9CMB5KBK39T_bMp0DSLhM_WIAIsg?nav=eyJjZW...etc](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320442_upc_edu_pe/EVgqZffZGQtFmtniG8D9sCMBK5K39T_bMbQSLhM_WlAlsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=iS2XXG))
+- **Link:** [entrevista xin]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320442_upc_edu_pe/EVqzfFZGQtfmtniG8DD9CMB5KBK39T_bMp0DSLhM_WIAIsg?nav=eyJjZW...etc](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320442_upc_edu_pe/EVgqZffZGQtFmtniG8D9sCMBK5K39T_bMbQSLhM_WlAlsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Iz70nU))
 - **Condición:** Paciente diagnosticado con epilepsia  
 
 **Detalles de la entrevista:**  
@@ -586,7 +586,7 @@ Además, Xin comenta que participa en comunidades de apoyo, como grupos de Faceb
 
 ### Registro visual de la entrevista  
 
-![Evidencia de la entrevista](img/xin.png)  
+![Evidencia de la entrevista](img/xin.jpeg)  
 
 ---
 
