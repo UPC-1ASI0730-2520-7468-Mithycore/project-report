@@ -1374,7 +1374,70 @@ Finalmente, en el caso de suscripciones corporativas o institucionales, la naveg
 - 4.7.1 Class Diagrams  
 
 ## 4.8 Database Design
-- 4.8.1 Database Diagrams  
+
+## 4.8.1 Database Diagrams
+
+La base de datos **AuraNeuro** fue diseñada siguiendo principios de **normalización (3FN)**, nomenclatura consistente en **MAYÚSCULAS** y uso de tipos de datos simples (INT, VARCHAR, DATE, DATETIME, BIT).  
+El diseño busca garantizar **persistencia confiable**, **integridad referencial** y **evitar bucles** en las relaciones entre entidades.
+
+---
+
+### Principales características
+- **Claves primarias**: todas las tablas utilizan un atributo ID_* como **PRIMARY KEY**.  
+- **Claves foráneas**: definidas según bounded contexts, evitando ciclos entre entidades.  
+- **Constraints**:  
+  - UNIQUE en PACIENTE.ID_USR (relación 1–1 con USUARIO).  
+  - UNIQUE en combinaciones clave (USUARIO_ROL, PACIENTE_DISPOSITIVO).  
+- **Integridad referencial**: garantizada en relaciones 1–N y N–N.  
+- **Optimización**: índices compuestos en tablas críticas como CITA, REGISTRO_BIOMETRICO y ADHERENCIA.  
+
+---
+
+### Bounded Contexts reflejados en el diagrama
+
+#### Identity & Access
+- **ORGANIZACION → USUARIO** (1–N)  
+- **USUARIO ↔ ROL** mediante **USUARIO_ROL** (N–N)  
+- **API_CLIENTE → API_TOKEN** (1–N)  
+
+#### Patient Care
+- **USUARIO → PACIENTE** (1–1)  
+- **PACIENTE → CITA → MEDICO** (consultas presenciales o virtuales)  
+- **CITA → TELECONSULTA** (1–1)  
+- **PACIENTE → TRATAMIENTO → ADHERENCIA**  
+- **PACIENTE → CONTACTO_EMERGENCIA**  
+- **PACIENTE → CONSENTIMIENTO**  
+
+#### IoT & Eventing
+- **PACIENTE → PACIENTE_DISPOSITIVO → REGISTRO_BIOMETRICO**  
+- **PACIENTE → EPISODIO → ALERTA**  
+- **DISPOSITIVO** como catálogo de hardware compatible  
+
+#### Interoperabilidad / Estándares
+- **PACIENTE → EXPORTACION_FHIR** (tracking de recursos HL7 FHIR)  
+
+---
+
+### Diagrama de la base de datos
+El siguiente diagrama evidencia las tablas, atributos principales, claves primarias (PK), foráneas (FK) y relaciones entre los bounded contexts:
+
+<p align="center">
+  <img src="img/Basededatos.png" alt="Basededatos" width="800"/>
+</p>
+
+---
+
+### Validaciones de consistencia
+- No existen bucles: MEDICO no referencia a USUARIO.  
+- Relaciones claras y unidireccionales:  
+  - CITA → MEDICO y CITA → PACIENTE  
+  - ADHERENCIA → TRATAMIENTO`  
+  - REGISTRO_BIOMETRICO → PACIENTE_DISPOSITIVO  
+  - ALERTA → EPISODIO`  
+- Se mantiene integridad en:
+  - **1–1**: PACIENTE–USUARIO  
+  - **1–N**: CITA–PACIENTE  
+  - **N–N**: USUARIO–ROL  
 
 ---
 
