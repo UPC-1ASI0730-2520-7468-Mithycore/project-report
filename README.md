@@ -2,22 +2,33 @@
   <img src="img/upc-logo.png" alt="Logo UPC" width="200"/>
 </p>
 
+<h2 align="center">Universidad Peruana de Ciencias Aplicadas</h2>  
+<h3 align="center">Carrera de Ingeniería de Sistemas</h3>  
+<h3 align="center">Ciclo 2025-2</h3>  
+
+<p align="center"><strong>Código del curso:</strong> 1ASI0730</p>  
+<p align="center"><strong>Nombre del curso:</strong> Aplicaciones Web</p>  
+<p align="center"><strong>NRC:</strong> 7468</p>  
+<p align="center"><strong>Profesor:</strong> Angel Augusto Velasquez Nuñez</p>  
+
 <h1 align="center">Informe de Trabajo Final</h1>  
 
-<p align="center"><strong>Curso:</strong> 1ASI0730 Aplicaciones Web</p>  
 <p align="center"><strong>Startup:</strong> Mythicore</p>  
 <p align="center"><strong>Producto:</strong> AuraNeuro</p>  
-<p align="center"><strong>Fecha:</strong> Septiembre 2025</p>  
 
 ---
 
 ## Integrantes  
 
-- Stanley Jeremy Gutierrez Tume (U202118152) – Team Leader  
-- Juan José Meza Huanacune (U202320574) – Backend Engineer  
-- Eduardo Fabián Chacaliaza Minaya (U202324129) – Frontend & UX/UI Engineer  
-- Fabricio Fabián Quispe Barzola (U202320442) – Data & IoT Integration Engineer  
-- Romero Meza Jhimy Pool (U202321510) – Frontend & UX/UI Engineer  
+- U202118152 – Gutierrez Tume, Stanley Jeremy – Team Leader  
+- U202320574 – Meza Huanacune, Juan José – Backend Engineer  
+- U202324129 – Chacaliaza Minaya, Eduardo Fabián – Frontend & UX/UI Engineer  
+- U202320442 – Quispe Barzola, Fabricio Fabián – Data & IoT Integration Engineer  
+- U202321510 – Meza Jhimy Pool, Romero – Frontend & UX/UI Engineer  
+
+---
+
+<p align="center"><strong>Septiembre 2025</strong></p>
 
 ---
 
