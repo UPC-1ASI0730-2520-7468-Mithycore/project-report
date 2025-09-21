@@ -166,25 +166,83 @@ Convertirse en la plataforma líder en salud neurológica digital, integrando mo
 
 ## 1.2 Solution Profile
 
-### 1.2.1 Antecedentes y problemática
-La atención neurológica enfrenta un problema central: la falta de herramientas que permitan un monitoreo continuo y objetivo del estado de los pacientes.  
-Actualmente, los diagnósticos suelen basarse en consultas periódicas y registros dispersos, lo que provoca detecciones tardías, tratamientos poco precisos y hospitalizaciones evitables.  
+### 1.2.1 Antecedentes y problematica
+Las enfermedades neurologicas, como la epilepsia, el Parkinson y el Alzheimer, representan un reto creciente para los sistemas de salud a nivel mundial. En muchos casos, los diagnosticos se realizan en etapas avanzadas debido a la ausencia de herramientas de monitoreo continuo y a la dependencia de consultas medicas periodicas. Esto ocasiona tratamientos poco personalizados, hospitalizaciones evitables y una disminucion en la calidad de vida de los pacientes.  
 
-**Mythicore** busca resolver esta brecha integrando IoT e inteligencia artificial para capturar y analizar datos en tiempo real, apoyando así la toma de decisiones clínicas basadas en biomarcadores y reduciendo complicaciones.  
+Los especialistas coinciden en que la integracion de **Internet of Things (IoT)** y **analitica de Inteligencia Artificial (IA)** puede transformar la atencion neurológica, facilitando un monitoreo en tiempo real, detecciones tempranas y la telemedicina. Sin embargo, actualmente las soluciones disponibles son fragmentadas, costosas o de dificil acceso, lo que genera una brecha significativa para pacientes y profesionales de la salud.  
 
-#### 5W2H del problema
-- **Who (Quiénes):** Pacientes con enfermedades neurológicas crónicas, en rehabilitación o en riesgo; neurólogos y especialistas; hospitales y aseguradoras.  
-- **What (Qué):** Falta de monitoreo neurológico continuo y objetivo → diagnósticos tardíos, tratamientos poco precisos.  
-- **Where (Dónde):** Clínicas, hospitales y entornos domiciliarios.  
-- **When (Cuándo):** Entre citas médicas y durante crisis críticas.  
-- **Why (Por qué):** Métodos actuales generan duplicidad de información, errores y falta de continuidad.  
-- **How (Cómo):** Sensores portátiles conectados a la nube + IA integrados en la historia clínica digital.  
-- **How much (Cuánto):**  
-  - EEG continuo reduce mortalidad intrahospitalaria.  
-  - Monitoreo remoto reduce 59% de hospitalizaciones.  
-  - EEG portátil reduce hasta 4 días de estancia en UCI.  
+**AuraNeuro**, producto de la startup **Mythicore**, surge como respuesta a esta necesidad, proponiendo un sistema de monitoreo neurologico continuo que capture datos biomédicos mediante dispositivos IoT, los procese con algoritmos de IA y los integre en una plataforma accesible para especialistas y pacientes.  
 
 ---
+
+#### 1.2.1.1 What  
+**¿Cual es el problema?**  
+La falta de monitoreo continuo en pacientes neurologicos provoca diagnosticos tardios, tratamientos poco ajustados y hospitalizaciones innecesarias.  
+
+**¿Cual es la relacion con el usuario?**  
+El sistema permite identificar en tiempo real cambios neurologicos mediante biomarcadores capturados por sensores IoT, facilitando que el paciente y el especialista tomen medidas preventivas y correctivas oportunas.  
+
+---
+
+#### 1.2.1.2 Who  
+**¿Quienes estan involucrados?**  
+Pacientes con enfermedades neurologicas cronicas, en rehabilitacion o en riesgo; neurologos y especialistas; hospitales y aseguradoras.  
+
+**¿A quienes les sucede el problema?**  
+A pacientes que dependen de consultas medicas espaciadas y no cuentan con monitoreo objetivo y constante de su condicion.  
+
+**¿Quien lo utilizara?**  
+Pacientes adultos (20–65 años) diagnosticados o en riesgo, junto con neurologos que requieren datos objetivos para la toma de decisiones clinicas.  
+
+---
+
+#### 1.2.1.3 Where  
+**¿Donde esta el cliente cuando usa el producto?**  
+En hospitales, clinicas o en su propio domicilio, utilizando dispositivos portatiles y la aplicacion digital vinculada.  
+
+**¿Donde surge el problema?**  
+En la atencion tradicional, limitada a consultas periodicas y sin continuidad de informacion entre cada evaluacion medica.  
+
+---
+
+#### 1.2.1.4 When  
+**¿Cuando sucede el problema?**  
+Entre citas medicas y en momentos criticos como crisis epilepticas, episodios de perdida de memoria o deterioro cognitivo progresivo.  
+
+**¿Cuando utiliza el cliente el producto?**  
+De manera continua (mediante sensores portatiles), durante las 24 horas del dia, con acceso a reportes y alertas en tiempo real.  
+
+---
+
+#### 1.2.1.5 Why  
+**¿Cual es la causa del problema?**  
+La dependencia de registros subjetivos (anamnesis), la falta de herramientas tecnologicas accesibles y la fragmentacion de datos medicos provocan errores de diagnostico y tratamientos poco oportunos.  
+
+---
+
+#### 1.2.1.6 How  
+**¿En que condiciones se usa el producto?**  
+- En la rutina diaria del paciente, con sensores portatiles conectados a una aplicacion movil.  
+- En consultas medicas, donde el especialista accede a un panel con datos procesados por IA.  
+
+**¿Como nos conocieron los usuarios?**  
+A traves de programas de salud digital, recomendaciones de especialistas y alianzas con hospitales y aseguradoras.  
+
+**¿Como prefieren acceder al contenido?**  
+Mediante una aplicacion movil intuitiva y una plataforma web para especialistas, con reportes claros y notificaciones de alertas.  
+
+---
+
+#### 1.2.1.7 How much  
+- Segun la **Organizacion Mundial de la Salud (OMS, 2020)**, mas de 50 millones de personas en el mundo padecen epilepsia, y hasta un 70% podria vivir sin crisis con diagnostico y tratamiento oportunos.  
+- Estudios en **The Lancet Neurology (2019)** muestran que el monitoreo remoto reduce hasta en un 59% las hospitalizaciones evitables en pacientes cronicos.  
+- Implementaciones piloto de EEG portatiles han demostrado reducir hasta 4 dias de estancia en UCI, disminuyendo costos y mejorando la calidad de vida.  
+
+---
+
+**Conclusion:**  
+Los antecedentes evidencian que la atencion neurologica tradicional es insuficiente para un diagnostico temprano y un seguimiento adecuado. El impacto de la falta de monitoreo continuo se traduce en hospitalizaciones evitables, menor calidad de vida y altos costos para el sistema de salud. **AuraNeuro** propone cerrar esta brecha mediante una plataforma accesible que integre IoT e IA, ofreciendo valor tanto a pacientes como a especialistas.
+
 ## 1.2.2. Lean UX Process
 
 ### 1.2.2.1. Lean UX Problem Statements
