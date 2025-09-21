@@ -1888,6 +1888,7 @@ El siguiente diagrama evidencia las tablas, atributos principales, claves primar
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
+5.1.1 Software Development Environment Configuration  
 Esta sección detalla las herramientas utilizadas durante el desarrollo del software, organizadas según las distintas fases del proyecto.
 
 *Project Management
@@ -1958,7 +1959,6 @@ Esto permite generar changelogs automáticos y facilita la integración continua
 
 ---
 
-
 5.1.3 Style Guide & Coding Conventions 
 
 En el proyecto **AuraNeuro**, se adoptaron convenciones de código para mantener consistencia, legibilidad y mantenibilidad. Todos los identificadores, clases, variables y comentarios se escriben en **inglés**. Las guías aplicadas se basan en estándares reconocidos para HTML, CSS, JavaScript y C#.
@@ -2012,8 +2012,6 @@ La aplicación se desplegará en la nube mediante:
 | **Sprint 1 Velocity** | 20 Story Points |
 | **Sum of Story Points** | 20 |
 
-
-
 5.2.1.2 Aspect Leaders and Collaborators  
 
 Se identificaron los siguientes aspectos clave del Sprint:  
@@ -2037,7 +2035,6 @@ Cada aspecto fue asignado a un **líder** (L) responsable de su entrega y uno o 
 | Romero Meza, Jhimy Pool                  | Frontend & UX/UI Engineer | `jhimyromeromeza` | C                                   | C                           | L                   | C                                     | L               |
 
 ---
-
 
 5.2.1.3 Sprint Backlog 1  
 
@@ -2206,9 +2203,6 @@ Cada integrante del equipo asumió un rol específico (frontend, backend, integr
 
 - Walishetti, A., Wong, A., & Yang, Y. (2024). Evaluating Home-Based EEG Systems for Public Health Telemonitoring: A Scoping Review. *[Preprint Scoping Review]*. Recuperado de https://www.researchgate.net/publication/385050548_Evaluating_Home-Based_EEG_Systems_for_Public_Health_Telemonitoring_A_Scoping_Review  
  
+# Anexo – Video de Exposición  
 
-
-
-# Anexos
-- Videos de exposición.  
-- Documentos complementarios.  
+[🎥 Ver exposición completa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EXaMP6Z0sDdPjiwa04tJcX4BwF1OHo-7UdXBFPwqlOl5Jw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UpDqOn)
