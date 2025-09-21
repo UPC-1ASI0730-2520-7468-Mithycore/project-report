@@ -742,6 +742,92 @@ Su **objetivo principal** es lograr que las soluciones IoT se integren de forma 
 #### Registro visual de la entrevista
 ![Entrevista Carlos](img/carlos.png)
 
+---
+
+### Entrevista N°2
+
+- **Nombre:** Eduardo Gabriel Díaz Veliz  
+- **Sexo:** Masculino  
+- **Edad:** 27  
+- **Estado Civil:** Soltero  
+- **Profesión:** Ingeniero de telecomunicaciones – Desarrollador de soluciones IoT para salud  
+- **Link:** [Entrevista Eduardo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EYkNwKwupDNBubgFbxYToRcBjpdK5VuueGVGPPJ4TGq2NA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=eZbHLJ)  
+
+---
+
+#### Detalles de la entrevista:
+Eduardo Gabriel Díaz Veliz es un ingeniero de telecomunicaciones de 27 años, especializado en el desarrollo de **infraestructura IoT aplicada a la salud neurológica**. Actualmente trabaja como consultor independiente colaborando con startups y hospitales que buscan implementar dispositivos de monitoreo continuo.  
+
+Durante la entrevista mencionó que ha participado en proyectos con **pulseras biométricas** y **dispositivos EEG portátiles**, destacando la importancia de que los datos puedan transmitirse en tiempo real a plataformas seguras en la nube. Sin embargo, identificó como reto principal la **conectividad inestable en hospitales de provincia** y la **falta de estandarización** entre dispositivos.  
+
+Eduardo confía en dispositivos como los de **Empatica** y los desarrollos de **NeuroSky**, y también ha seguido de cerca los avances de **Fitbit Health Solutions** en el campo clínico. Señaló que la seguridad de los datos y la **confidencialidad bajo protocolos de encriptación** son requisitos indispensables para que los médicos confíen en la tecnología.  
+
+En cuanto a **skills**, Eduardo domina el diseño de redes IoT con **LoRaWAN, 4G/5G y Wi-Fi industrial**, además de tener experiencia en **cloud computing con Azure IoT Hub y AWS**. Maneja herramientas de análisis de datos con **Python** y **Grafana**. Su **frustración principal** es que muchos proyectos pilotos no escalan porque las instituciones de salud no cuentan con presupuestos sostenibles o personal técnico capacitado.  
+
+Su **objetivo** es lograr que las soluciones IoT puedan ser implementadas en hospitales públicos de bajo presupuesto, garantizando accesibilidad y escalabilidad sin perder calidad en la información recolectada.  
+
+- **Duración:** 7 minutos con 40 segundos  
+
+---
+
+#### Resumen de los puntos clave en la entrevista
+- El entrevistado es **Eduardo Gabriel Díaz Veliz**, ingeniero de telecomunicaciones de 27 años.  
+- Se especializa en **infraestructura IoT aplicada a la salud neurológica**.  
+- Ha trabajado con **pulseras biométricas y EEG portátiles**.  
+- Identifica como retos la **conectividad deficiente en provincias** y la **falta de estandarización** de dispositivos.  
+- Confía en **Empatica, NeuroSky** y **Fitbit Health Solutions**.  
+- Domina **LoRaWAN, 4G/5G, Wi-Fi industrial, Azure IoT, AWS, Python y Grafana**.  
+- Su **frustración** es la falta de presupuesto y personal capacitado para escalar pilotos en hospitales.  
+- Su **objetivo** es implementar soluciones IoT accesibles en hospitales públicos sin comprometer la seguridad y calidad de los datos.  
+
+---
+
+#### Registro visual de la entrevista
+![Entrevista Eduardo](img/eduardo.png)
+
+---
+
+### Entrevista N°3
+
+- **Nombre:** Jesús Antonio Manrique Meza  
+- **Sexo:** Masculino  
+- **Edad:** 30  
+- **Estado Civil:** Soltero  
+- **Profesión:** Ingeniero electrónico – Especialista en desarrollo de hardware IoT para salud  
+- **Link:** [Entrevista Jesús](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/Ed8tDkB2EAZDvApUbhk1InsB0V6tVOvnhvWsGZ-6EWsAQQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Kh4w0E)  
+
+---
+
+#### Detalles de la entrevista:
+Jesús Antonio Manrique Meza es un ingeniero electrónico de 30 años que trabaja en el desarrollo de **hardware IoT médico especializado en monitoreo neurológico**. Actualmente colabora con empresas que diseñan sensores portátiles y dispositivos implantables orientados al diagnóstico temprano y a la telemedicina.  
+
+Durante la entrevista, mencionó que su experiencia está centrada en el diseño de **placas electrónicas, integración de biosensores y protocolos de comunicación segura**. Señaló que el principal reto es lograr un **equilibrio entre precisión clínica y usabilidad del dispositivo**, ya que muchos productos no logran ser aceptados por los pacientes por su incomodidad o falta de fiabilidad en los datos.  
+
+Jesús comentó que confía en dispositivos desarrollados por **Medtronic y NeuroPace**, además de seguir de cerca proyectos open-source que promueven la interoperabilidad de sensores médicos. Destacó que la **certificación regulatoria** es uno de los mayores obstáculos para que los prototipos lleguen al mercado, pues los procesos suelen ser largos y costosos.  
+
+En cuanto a **skills**, domina el diseño de PCBs, programación en **C/C++ y Python**, además de manejar herramientas de **simulación electrónica (MATLAB, Proteus, Altium Designer)**. También tiene experiencia en **protocolos de comunicación BLE y Zigbee**. Sus **frustraciones** principales son que muchos proyectos quedan en fase de investigación y que existe poca inversión local para escalar innovaciones.  
+
+Su objetivo es contribuir al desarrollo de dispositivos IoT accesibles y validados clínicamente, que puedan integrarse a plataformas como **Mithycore** para apoyar el seguimiento de pacientes neurológicos en tiempo real y reducir las hospitalizaciones.  
+
+- **Duración:** 6 minutos 36 segundos
+
+---
+
+#### Resumen de los puntos clave en la entrevista
+- El entrevistado es **Jesús Antonio Manrique Meza**, ingeniero electrónico de 30 años.  
+- Trabaja en el **desarrollo de hardware IoT para monitoreo neurológico**.  
+- Experiencia en **placas electrónicas, biosensores e integración de protocolos seguros**.  
+- Señala como reto principal el **balance entre precisión clínica y usabilidad**.  
+- Confía en Medtronic y NeuroPace, además de proyectos open-source.  
+- Destaca la dificultad de la certificación regulatoria como barrera de entrada.  
+- Domina C/C++, Python, MATLAB, Proteus, Altium Designer, BLE y Zigbee.  
+- Sus **frustraciones**: proyectos que no escalan y falta de inversión local.  
+- Su **objetivo**: desarrollar dispositivos IoT accesibles y clínicamente validados que se integren con **Mithycore**.  
+
+---
+
+#### Registro visual de la entrevista
+![Entrevista Jesús](img/jesus.png)
 
 
 - 2.2.3 Análisis de entrevistas  
@@ -761,7 +847,6 @@ Entre las mejoras propuestas, se resaltan:
 Los desafíos para implementar estas soluciones incluyen la aceptación de dispositivos IoT por parte de los pacientes, quienes priorizan la comodidad, la no invasividad y la facilidad de uso. También se destacó la importancia de garantizar la confidencialidad de los datos y de que la información recopilada se utilice exclusivamente con fines médicos.  
 
 En conclusión, los entrevistados coincidieron en que contar con una plataforma IoT integrada y confiable podría marcar una diferencia significativa en sus vidas, al brindar seguridad, apoyo continuo y una mejor comunicación con el equipo médico. Este tipo de solución no solo reduciría la ansiedad y la incertidumbre en la vida diaria, sino que también mejoraría la calidad del tratamiento y la prevención de complicaciones.  
-
 
 ## 2.3 Needfinding
 - 2.3.1 User Personas  
