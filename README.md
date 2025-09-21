@@ -323,13 +323,17 @@ Con base en las suposiciones de negocio, usuario y tecnologia, se formulan las s
 
 **Conclusion**  
 Estas hipotesis transforman las suposiciones en criterios medibles de exito, abarcando las dimensiones de negocio, usuario y tecnologia. Su validacion permitira reducir riesgos y ajustar la propuesta de AuraNeuro a las necesidades reales del entorno.
-### 1.2.2.4. Lean UX Canvas
 
----
-### 1.2.2.4. Lean UX Canvas
-<div align="left">
-  <img src="img/Ceribell.png" alt="Ceribell" width="100"/>
-</div>
+### 1.2.2.4 Lean UX Canvas
+
+Con base en los problemas, supuestos e hipótesis previamente definidos, se elaboró el **Lean UX Canvas** de la solución **AuraNeuro**.  
+Este instrumento permite visualizar de manera integrada los principales elementos de la propuesta: el problema de negocio, los usuarios y clientes, los beneficios esperados, las ideas de solución, los resultados de negocio, las hipótesis a validar y los aprendizajes críticos necesarios en etapas iniciales.  
+
+En la Figura siguiente se presenta el **Lean UX Canvas** desarrollado por el equipo, el cual servirá como guía para la validación temprana de la solución:
+
+<p align="center">
+  <img src="img/leanUXcanvas.png" alt="Lean UX Canvas de AuraNeuro" width="800"/>
+</p>
 
 # Capítulo II: Requirements Elicitation & Analysis
   
