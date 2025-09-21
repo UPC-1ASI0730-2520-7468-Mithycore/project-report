@@ -2010,15 +2010,11 @@ El entregable principal fue una página accesible en navegador, con las siguient
 - Beneficios
 - Contactanos
 
-![Aura Neuro](https://raw.githubusercontent.com/UPC-1ASI0730-2520-7468-Mithycore/project-report/main/img/AURANEURO.png)
-
-![Cómo funciona](https://raw.githubusercontent.com/UPC-1ASI0730-2520-7468-Mithycore/project-report/main/img/como%20funciona.png)
-
-![Nosotros](https://raw.githubusercontent.com/UPC-1ASI0730-2520-7468-Mithycore/project-report/main/img/nosotros.png)
-
-![Beneficios](https://raw.githubusercontent.com/UPC-1ASI0730-2520-7468-Mithycore/project-report/main/img/beneficioss.png)
-
-![Contáctanos](https://raw.githubusercontent.com/UPC-1ASI0730-2520-7468-Mithycore/project-report/main/img/contactanos.png)
+![Landing Page – Home](img/landingpage1.png)  
+![Landing Page – Cómo funciona](img/landingpage2.png)  
+![Landing Page – Nosotros](img/landingpage3.png)  
+![Landing Page – Beneficios](img/landingpage4.png)  
+![Landing Page – Contáctanos](img/landingpage5.png)  
 
 URL del despliegue: https://upc-1asi0730-2520-7468-mithycore.github.io/LandingPageAuraNeuro/
 
