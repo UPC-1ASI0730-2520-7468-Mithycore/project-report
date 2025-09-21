@@ -536,7 +536,7 @@ Empathy Mapping - Segmento 3: Proveedores IoT:
 
 El Big Picture Event Storming es una técnica colaborativa que nos permitió visualizar el dominio completo de nuestra solución, identificando actores, eventos clave, problemas, dudas, sistemas externos y oportunidades. A través de esta dinámica, el equipo logró comprender de manera compartida el flujo de procesos en la atención neurológica digital y cómo nuestra plataforma Mythicore puede integrarse para resolver brechas críticas.  
 
-Durante la sesión se utilizaron los colores estandarizados:
+Durante la sesión se utilizaron los colores estandarizados:   
 ![Empathy Mapping - Proveedores](img/bigpicture1.png) 
   
 ![Empathy Mapping - Proveedores](img/bigpicture2.png) 
