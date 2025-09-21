@@ -503,27 +503,33 @@ Esto permite identificar qué funciones son críticas para cada segmento objetiv
 
 - 2.3.3 User Journey Mapping  
 
-User Persona – Segmento 1: Paciente(epilepsia crónica):
+User Journey Mapping – Segmento 1: Paciente(epilepsia crónica):
 
-![User Persona - Paciente](img/Segmento1JM.png)
+![User Journey Mapping - Paciente](img/Segmento1JM.png)
 
-User Persona - Segmento 2: Profesionales de la salud(neurólogos):
+User Journey Mapping - Segmento 2: Profesionales de la salud(neurólogos):
 
-![User Persona - Neuropsicólogo](img/Segmento2JM.png)
+![User Journey Mapping - Neuropsicólogo](img/Segmento2JM.png)
 
-User Persona - Segmento 3: Proveedores IoT:
+User Journey Mappinga - Segmento 3: Proveedores IoT:
 
-![User Persona - Neuropsicólogo](img/Segmento3JM.png)
+![User Journey Mapping - Proveedores](img/Segmento3JM.png)
 
 - 2.3.4 Empathy Mapping  
 
 PACIENTES:
 
-![Empathy Map - Pacientes](img/Empathy%20map-pacientes.png)
+Empathy Mapping – Segmento 1: Paciente(epilepsia crónica):
 
-NEUROPSICÓLOGOS:
+![Empathy Mapping - Paciente](img/Segmento1EM.png)
 
-![Mapa de empatía Psicólogos clínicos / Neuropsicólogo](img/Mapa%20de%20empatía%20Psicólogos%20clínicos%20_%20Neuropsicólogo.png)
+Empathy Mapping - Segmento 2: Profesionales de la salud(neurólogos):
+
+![Empathy Mapping - Neuropsicólogo](img/Segmento2EM.png)
+
+Empathy Mapping - Segmento 3: Proveedores IoT:
+
+![Empathy Mapping - Proveedores](img/Segmento3EM.png)
 
 
 ## 2.4 Big Picture EventStorming  
