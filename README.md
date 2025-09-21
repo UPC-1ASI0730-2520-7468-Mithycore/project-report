@@ -634,8 +634,6 @@ Además, Xin comenta que participa en comunidades de apoyo, como grupos de Faceb
 
 ---
 
-
-
 **Segmento #2: Profesionales de la salud en neurología**  
 
 ### Entrevista N°1
@@ -851,7 +849,7 @@ Su objetivo es contribuir al desarrollo de dispositivos IoT accesibles y validad
 ![Entrevista Jesús](img/jesus.png)
 
 
-- 2.2.3 Análisis de entrevistas  
+2.2.3 Análisis de entrevistas  
 
 ### Segmento #1: Pacientes con enfermedades neurológicas crónicas
 
@@ -1878,7 +1876,7 @@ Empleamos Canva para la creación de material visual y presentaciones gráficas 
 
 Un lenguaje de marcado ligero y sencillo para crear documentos con formato, empleándose para redactar la documentación del proyecto de manera clara y estructurada.
 
-- 5.1.2 Source Code Management  
+5.1.2 Source Code Management  
 
 El equipo gestiona el código fuente utilizando **GitHub** como plataforma de control de versiones.  
 
@@ -1901,7 +1899,7 @@ Esto permite generar changelogs automáticos y facilita la integración continua
 ---
 
 
-- 5.1.3 Style Guide & Coding Conventions 
+5.1.3 Style Guide & Coding Conventions 
 
 En el proyecto **AuraNeuro**, se adoptaron convenciones de código para mantener consistencia, legibilidad y mantenibilidad. Todos los identificadores, clases, variables y comentarios se escriben en **inglés**. Las guías aplicadas se basan en estándares reconocidos para HTML, CSS, JavaScript y C#.
 
@@ -1938,7 +1936,7 @@ La aplicación se desplegará en la nube mediante:
 
 ## 5.2 Landing Page, Services & Applications Implementation
 ### 5.2.1 Sprint 1
-- 5.2.1.1 Sprint Planning 1  
+5.2.1.1 Sprint Planning 1  
 
 | **Sprint #** | Sprint 1 |
 |--------------|----------|
@@ -1956,7 +1954,7 @@ La aplicación se desplegará en la nube mediante:
 
 
 
-- 5.2.1.2 Aspect Leaders and Collaborators  
+5.2.1.2 Aspect Leaders and Collaborators  
 
 Se identificaron los siguientes aspectos clave del Sprint:  
 
@@ -1981,7 +1979,7 @@ Cada aspecto fue asignado a un **líder** (L) responsable de su entrega y uno o 
 ---
 
 
-- 5.2.1.3 Sprint Backlog 1  
+5.2.1.3 Sprint Backlog 1  
 
 El Sprint 1 se centró en implementar y desplegar el **Landing Page MVP** de Mythicore en un entorno web accesible mediante navegador, utilizando **HTML, CSS y JavaScript**.  
 El objetivo principal fue entregar un sitio mínimo viable que permita a los usuarios conocer la propuesta de valor de la plataforma y comunicarse a través de un formulario de contacto funcional.  
@@ -2003,7 +2001,7 @@ El objetivo principal fue entregar un sitio mínimo viable que permita a los usu
 
 ---
 
-- 5.2.1.4 Development Evidence for Sprint Review  
+5.2.1.4 Development Evidence for Sprint Review  
 
 Durante el Sprint 1 se avanzó con la implementación del **Landing Page MVP** de Mythicore en el repositorio `LandingpageAplicacionesWeb`.  
 Se realizaron ajustes en la estructura del archivo principal, correcciones en el footer y adición de secciones clave (Navbar, Hero, About, Footer).  
@@ -2020,7 +2018,7 @@ A continuación, se listan los commits registrados en GitHub:
 
 
 
-- 5.2.1.5 Execution Evidence for Sprint Review
+5.2.1.5 Execution Evidence for Sprint Review
   
 Durante el Sprint 1 se implementó y desplegó el **Landing Page MVP** de Mythicore utilizando **HTML, CSS y JavaScript**.  
 El entregable principal fue una página accesible en navegador, con las siguientes secciones:  
@@ -2038,7 +2036,7 @@ El entregable principal fue una página accesible en navegador, con las siguient
 
 URL del despliegue: https://upc-1asi0730-2520-7468-mithycore.github.io/LandingPageAuraNeuro/
 
-- 5.2.1.6 Services Documentation Evidence for Sprint Review 
+5.2.1.6 Services Documentation Evidence for Sprint Review 
 
 Durante el Sprint 1, el equipo documentó e implementó el **Contact Service**, el cual se integra con el formulario de contacto del **Landing Page MVP**.  
 La documentación fue elaborada utilizando **OpenAPI (Swagger)**, permitiendo visualizar las rutas, métodos HTTP, parámetros, respuestas esperadas y ejemplos de uso.  
@@ -2057,7 +2055,7 @@ La documentación fue elaborada utilizando **OpenAPI (Swagger)**, permitiendo vi
 
 ---
  
-- 5.2.1.7 Software Deployment Evidence for Sprint Review
+5.2.1.7 Software Deployment Evidence for Sprint Review
 
 Durante el Sprint 1, el equipo realizó el **despliegue del Landing Page MVP** .  
 Este proceso se llevó a cabo utilizando **GitHub Pages** como proveedor de hosting gratuito, lo que permitió que la página esté disponible públicamente en la web.  
@@ -2086,7 +2084,7 @@ Este proceso se llevó a cabo utilizando **GitHub Pages** como proveedor de host
  ![Aura Neuro](https://raw.githubusercontent.com/UPC-1ASI0730-2520-7468-Mithycore/project-report/main/img/AURANEURO.png)
 
 
-- 5.2.1.8 Team Collaboration Insights during Sprint  
+5.2.1.8 Team Collaboration Insights during Sprint  
 
 Durante el Sprint 1, el equipo de Mythicore trabajó de manera colaborativa en la implementación y despliegue del **Landing Page MVP** utilizando **HTML, CSS y JavaScript**.  
 Cada integrante del equipo asumió un rol específico (frontend, backend, integración, UX/UI, CI/CD), pero también colaboró en revisión de código, pruebas y documentación.  
