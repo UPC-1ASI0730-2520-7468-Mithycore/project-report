@@ -1937,7 +1937,6 @@ La aplicación se desplegará en la nube mediante:
 
 - 5.2.1.2 Aspect Leaders and Collaborators  
 
-# Aspect Leaders and Collaborators
 Se identificaron los siguientes aspectos clave del Sprint:  
 
 - **Landing Page (Hero + Servicios principales)**  
@@ -1984,8 +1983,6 @@ El objetivo principal fue entregar un sitio mínimo viable que permita a los usu
 ---
 
 - 5.2.1.4 Development Evidence for Sprint Review  
-
-### 5.2.3.4. Development Evidence for Sprint Review
 
 Durante el Sprint 1 se avanzó con la implementación del **Landing Page MVP** de Mythicore en el repositorio `LandingpageAplicacionesWeb`.  
 Se realizaron ajustes en la estructura del archivo principal, correcciones en el footer y adición de secciones clave (Navbar, Hero, About, Footer).  
@@ -2096,7 +2093,6 @@ Cada integrante del equipo asumió un rol específico (frontend, backend, integr
 
 
 ![Members](https://raw.githubusercontent.com/UPC-1ASI0730-2520-7468-Mithycore/project-report/main/img/MEMBERS.png)
-
 
 
 ---
