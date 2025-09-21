@@ -509,6 +509,7 @@ Muchas gracias por tu tiempo hoy. Tu opinión y las ideas que compartiste nos ay
 - **Sexo:** Masculino  
 - **Edad:** 21  
 - **Estado Civil:** Soltero
+- **Link:** [Entrevista aaron]([[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320442_upc_edu_pe/EVqzfFZGQtfmtniG8DD9CMB5KBK39T_bMp0DSLhM_WIAIsg?nav=eyJjZW...etc](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320442_upc_edu_pe/EVgqZffZGQtFmtniG8D9sCMBK5K39T_bMbQSLhM_WlAlsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=iS2XXG)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EZxZ3WlYjT1Cp7yqP_OKdSIBRR0IFKAnrzwQjBEJNXY9YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=M3kx9a))
 - **Condición:** Paciente diagnosticado con epilepsia  
 
 **Detalles de la entrevista:**  
@@ -543,12 +544,52 @@ Finalmente, menciona que ha participado en comunidades online como foros de la *
 ### Registro visual de la entrevista  
 ![Evidencia de entrevista](img/aaron.png)  
 
+---
+
+#### Entrevista N°2  
+
+- **Nombre:** Xin Yu Shi Lin  
+- **Sexo:** Masculino  
+- **Edad:** 25  
+- **Estado Civil:** Soltero
+**Link:** [Entrevista xin]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320442_upc_edu_pe/EVqzfFZGQtfmtniG8DD9CMB5KBK39T_bMp0DSLhM_WIAIsg?nav=eyJjZW...etc](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320442_upc_edu_pe/EVgqZffZGQtFmtniG8D9sCMBK5K39T_bMbQSLhM_WlAlsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=iS2XXG))
+- **Condición:** Paciente diagnosticado con epilepsia  
+
+**Detalles de la entrevista:**  
+Xin Yu Shi Lin es un joven de 25 años que reside en Lima y trabaja como mesero en un chifa. Durante la entrevista compartió que una de sus principales preocupaciones es la posibilidad de sufrir una crisis en el trabajo y no poder avisar a tiempo a alguien. Para su familia también es un reto, ya que viven con la preocupación constante de que pueda pasarle algo de forma repentina.  
+
+Actualmente lleva un control limitado de su condición, anotando a veces en papeles o recordando los episodios de memoria, lo que reconoce como un método poco confiable. Señala que le cuesta recordar detalles importantes como la hora, la duración o los síntomas de cada crisis, lo que genera un seguimiento incompleto y dificulta la labor de sus médicos.  
+
+Considera que un sistema de alertas tempranas sería muy útil, ya que le permitiría tomar precauciones antes de que la crisis empeore y daría tranquilidad tanto a él como a su familia y compañeros de trabajo. También le gustaría contar con una aplicación móvil que registre de forma clara y confiable la frecuencia y duración de sus crisis, factores desencadenantes y recordatorios de medicación, presentados en gráficos y estadísticas fáciles de consultar.  
+
+En cuanto al uso de dispositivos IoT, señala que estaría dispuesto a emplear relojes inteligentes o sensores que registren datos y los compartan directamente con su médico. Menciona que conoce dispositivos como los **Fitbit Ionic**, que pueden monitorear la salud, y cree que serían útiles para su caso. No obstante, expresa preocupaciones respecto a la seguridad de sus datos y la posibilidad de fallas en momentos críticos, por lo que para él la **confianza en la tecnología** es fundamental.  
+
+Además, Xin comenta que participa en comunidades de apoyo, como grupos de Facebook y la **Asociación Peruana de Epilepsia**, lo cual le ha permitido compartir experiencias y recibir consejos útiles de otros pacientes. En cuanto a habilidades digitales, se describe con un nivel básico en smartphones y medio en el uso de laptops, destacando que está muy familiarizado con aplicaciones de mensajería como WhatsApp y SMS.  
+
+- **Duración:** 4 minutos con 22 segundos  
+
+---
+
+### Resumen de los puntos clave en la entrevista  
+
+- El entrevistado se llama Xin Yu Shi Lin, tiene 25 años, vive en Lima y está diagnosticado con epilepsia.  
+- Su mayor preocupación es sufrir una crisis en el trabajo y no poder avisar a tiempo.  
+- Actualmente lleva un control incompleto, anotando de manera poco confiable o recordando de memoria.  
+- Considera muy útil contar con alertas tempranas que anticipen crisis y den seguridad a su familia.  
+- Le gustaría usar una app móvil con registros claros, gráficos de evolución y recordatorios de medicación.  
+- Está dispuesto a usar dispositivos IoT como relojes inteligentes (ej. Fitbit Ionic), siempre que sean seguros.  
+- Sus principales preocupaciones son fallas técnicas y la protección de datos personales.  
+- Participa en comunidades de apoyo como la Asociación Peruana de Epilepsia, lo que le ha dado orientación y acompañamiento.  
+- Sus habilidades digitales son básicas en smartphones y medias en laptops, con uso frecuente de WhatsApp, Gmail y SMS.  
 
 ---
 
 ### Registro visual de la entrevista  
 
-![Evidencia de entrevista](img/aaron.png)
+![Evidencia de la entrevista](img/xin.png)  
+
+---
+
 
 
 **Segmento #2: Profesionales de la salud en neurología**  
