@@ -1570,7 +1570,7 @@ Los prototipos presentados corresponden directamente a los **User Flows** defini
 **Screenshots de secciones clave:**
 
 - Quiénes somos  
-  ![Quiénes somos](img/quienessomos.png)
+  ![Quienes somos](img/quienessomos.png)
 
 - Acerca de nosotros  
   ![Acerca de nosotros](img/nosotros.png)
