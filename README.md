@@ -694,13 +694,261 @@ La paleta de Aura Neuro combina la confianza médica con la innovación tecnoló
 
 ### 4.1.2 Web Style Guidelines  
 
+A continuación se presenta la sección 4.1.2 Web Style Guidelines preparada para incluir en el informe de Aura Neuro. Está redactada en formato Markdown y lista para pegar en tu documento. Contiene directrices de diseño visual, experiencia de usuario, accesibilidad, rendimiento y consideraciones de implementación web para mantener coherencia en la interfaz pública y en el área de usuarios autenticados.  
+
+**Propósito**  
+
+Las directrices de estilo web definen las normas visuales, de interacción y técnicas que deben seguirse en todo el sitio web y la aplicación web de Aura Neuro. El objetivo es asegurar una experiencia coherente, accesible, profesional y confiable para pacientes, médicos y administradores, preservando al mismo tiempo la privacidad y seguridad de los datos clínicos.  
+
+**1. Tono y voz**  
+
+El texto de la plataforma debe mantener un lenguaje profesional, claro y empático. En contenido público (landing, blog) el tono puede ser divulgativo y persuasivo; en áreas clínicas (dashboard, reportes) el lenguaje debe ser técnico, preciso y neutral. Evitar jergas innecesarias y siempre definir términos médicos la primera vez que aparecen.  
+
+**2. Sistema de retícula y layout**  
+
+- Retícula base: 12 columnas para desktop, con gutters de 24px y un contenedor máximo de 1200px.  
+
+- Espaciado: usar una escala modular (ej. 4px, 8px, 16px, 24px, 32px, 48px).  
+
+- Alineación: contenido principal centrado; sidebars sólo cuando aporten valor (p. ej. historial breve, acciones rápidas).  
+
+- Hero / Landing: sección hero full-width con hero-image optimizada y CTA destacado.  
+
+- Cards: tarjetas uniformes para dispositivos, reportes y profesionales; sombra suave y bordes redondeados (4–12px).  
+
+**3. Logo y marca en la web**  
+
+- Usar logo principal (verde+negro) en header claro; versión invertida en headers oscuros.  
+
+- Espacio mínimo alrededor del logo: 16px o 2x altura del icono.  
+
+- Usar favicon (32×32) y versión para Apple Touch.  
+
+- No distorsionar, recolorear o añadir sombras al logo sin aprobación.  
+
+**4. Imágenes, gráficos y multimedia**  
+
+- Fotografía: estilo humano y cercano; evitar escenas clínicamente invasivas. Priorizar imágenes con diversidad de edad y género.  
+
+- Gráficas: consistentes (mismos ejes, colores para métricas), incluir leyenda y alt descriptivo.  
+
+- Formatos: WebP para imágenes, SVG para iconos e ilustraciones.  
+
+- Tamaños: hero ≤ 500 KB optimizado, thumbnails ≤ 100 KB. Usar srcset para responsive images.  
+
+- Vídeo: utilizar streaming / embed de player con reproducción segura; no autoload de cámaras en páginas públicas.  
+
+**5. Iconografía**  
+
+- Iconos simples, lineales (stroke) y con relleno cuando sea necesario.  
+
+- Siempre acompañar icono con etiqueta textual (icon + label) para accesibilidad.  
+
+- Mantener set consistente (ej. Heroicons, Material Icons) y usar cache de sprites/SVG.  
+
+**6. Microinteracciones y animaciones**  
+
+- Animaciones cortas (< 200ms para microinteracciones; < 400ms para transiciones de página).  
+
+- Evitar animaciones que causen movimiento excesivo (respect prefers-reduced-motion).  
+ 
+- Feedback inmediato para acciones del usuario (toasts, loaders).  
+
+**7. Feedback, errores y mensajes**  
+
+- Mensajes de error claros, no técnicos: explicar la causa y la acción recomendada.  
+
+- Uso de toasts para acciones completadas (Guardado correctamente) y modales para confirmaciones críticas.  
+
+- Logs para admins con trazas; para usuarios, mensajes simplificados.  
+
+**8. Formularios críticos y consentimiento**  
+
+- Formularios que recojan datos sensibles deben incluir consentimiento explícito y checkbox no preseleccionado.  
+
+- Mostrar enlace a Política de Privacidad y Términos antes de enviar datos sensibles.  
+
+- Almacenar solo el mínimo de datos necesarios y mostrar al usuario cómo serán usados.  
+
+**9. Testing y calidad**  
+
+- Tests visuales (regresión visual), pruebas de accesibilidad automatizadas (axe), pruebas E2E (Cypress/Playwright) para flujos críticos.  
+
+- Revisiones de copy por experto clínico en páginas con contenido médico.  
+
+- Checklist de lanzamiento: accesibilidad, privacidad (noindex en PHI), performance, tests E2E.  
+
+**10. Versionado de UI y componentes**  
+
+- Mantener una librería de componentes (component library) versionada (Storybook).  
+
+- Documentar tokens (colores, tipografías, espaciados) y patrones (header, card, modal).  
+
+- Usar naming convention CSS (BEM o utility-first con Tailwind) coherente en el proyecto.  
   
 
-## 4.2 Information Architecture
+## 4.2 Information Architecture  
+A continuación se describen las decisiones y directrices para la arquitectura de la información de Aura Neuro (plataforma de neurología digital con IoT y telemedicina). Cada apartado está orientado a que el informe quede listo para implementación: estructura de contenido, etiquetado, accesibilidad, y recomendaciones SEO/meta tags cuidando la privacidad médica.  
+
 ### 4.2.1 Organization Systems  
+**Estructura jerárquica (sitemap lógico)**  
+
+La plataforma se organiza en dos grandes dominios: Front (Landing / Marketing) y App (Usuarios autenticados: Pacientes / Médicos / Admins).  
+
+**Landing / Marketing (index público)**  
+
+- Home (Landing)  
+
+- Cómo funciona  
+
+- Tecnología / Dispositivos  
+
+- Casos de uso / Beneficios  
+
+- Equipo / Quiénes somos  
+
+- Blog / Recursos  
+
+- Contacto / Solicitar demo  
+
+- Política de privacidad / Términos  
+
+**App / Panel autenticado**  
+
+- Dashboard (Inicio del usuario) — noindex por privacidad  
+
+- Mis datos / Perfil  
+
+- Dispositivos conectados  
+
+- Monitor (datos en tiempo real) — noindex  
+
+- Historial de episodios / Reportes — noindex  
+
+- Teleconsulta / Agenda  
+
+- Mensajería / Chats — noindex  
+
+- Configuración / Preferencias  
+
+- Admin: Gestión de dispositivos, usuarios, roles, integraciones (API, EHR)  
+
+**Principios de organización**  
+
+- Mobile-first: estructura priorizando navegación y pantallas móviles.  
+
+- Progressive Disclosure: mostrar primero información esencial; opciones avanzadas bajo subsecciones.  
+
+- Role-based Partitioning: vista y navegación adaptadas por rol (paciente, médico, admin).  
+
+- Separación marketing / clínico: contenido público optimizado para SEO; contenido clínico restringido y protegido.  
+
+- URLs limpias y semánticas: /, /como-funciona, /dispositivos/eeg-portatil, /app/dashboard.  
+
+**Flujos y accesos**  
+
+- Usuario no autenticado: landing → información → registro / solicitar demo.  
+
+- Usuario autenticado (paciente): login → Dashboard → Monitor / Registrar síntoma → Teleconsulta.  
+
+- Médico: login → Dashboard profesional → Panel de riesgo → Consultas.  
+
+- Admin: panel con gestión de flota IoT, usuarios, logs y parámetros de IA.  
+
+**Control de Indexación y Privacidad**  
+
+- Todas las páginas que contienen PHI (Protected Health Information) deben llevar X-Robots-Tag: noindex y/o <meta name="robots" content="noindex, noarchive">.  
+
+- Landing y páginas informativas públicas deben ser indexables y optimizadas para búsqueda.  
 ### 4.2.2 Labeling Systems  
+**Principios de etiquetado**  
+
+**Consistencia:** mismas etiquetas para la misma función en toda la app (ej. “Historial” = siempre “Historial de episodios”).  
+
+**Claridad y brevedad:** etiquetas cortas y significativas (CTA: “Solicitar demo”, “Reservar dispositivo”).  
+
+**Accesibilidad:** cada etiqueta visible debe tener su aria-label si es interactiva.  
+
+Evitar jerga clínica en público; en espacios clínicos usar términos precisos.  
+
+Convenciones de nomenclatura (UI)  
+
+**Botones (CTA):** verbo + objetivo — Reservar dispositivo, Iniciar consulta, Compartir reporte.  
+
+**Menú principal:** términos familiares y directos: Inicio, Mis Datos, Dispositivos, Monitor, Historial, Teleconsulta, Configuración, Contacto.  
+
+**Iconografía:** icono + etiqueta textual para evitar ambigüedad (ej. icono de mapa + “Mapa”).  
+
+**Mensajes de estado:** usar tonos: Éxito (“Guardado correctamente”), Advertencia (“Conexión inestable”), Error (“No se pudo sincronizar”).  
+
+**Microcopy y ejemplos (texto pequeño que guía al usuario)**  
+
+- **Login:** Ingrese su número celular o correo  
+
+- **Conexión IoT:** Dispositivo conectado • Última sincronización: 5 min  
+
+- **Alerta de crisis:** Alerta: Posible evento detectado. ¿Notificar a contactos de emergencia?  
+
+- **Consentimiento:** Autorizo el procesamiento de datos para seguimiento médico.  
+
+- **Internacionalización (i18n)**  
+
+- Preparar etiquetas para traducción (es_ES, en_US).  
+
+- Evitar concatenaciones en código; usar placeholders ({{nombre_paciente}}) para evitar problemas de orden gramatical.  
+
+- Mantener guía terminológica para traductores (glosario).  
+
+**Accesibilidad (WCAG)**  
+
+- Todos los enlaces y botones deben tener aria-label descriptivo.  
+
+- Contraste mínimo 4.5:1 para texto normal.  
+
+- Textos alternativos (alt) para imágenes y gráficos (ej. alt="Gráfica de actividad cerebral: 7 días").  
+
+- Formularios con mensajes de error descriptivos y foco en primer campo inválido.  
 ### 4.2.3 SEO Tags and Meta Tags  
-### 4.2.4 Searching Systems  
+A continuación se presenta la sección 4.2.3 SEO Tags and Meta Tags lista para incluir en el informe, en formato Markdown. Incluye explicación, recomendaciones, ejemplos de meta tags para la landing y otras páginas, JSON-LD (schema.org), robots.txt y notas de privacidad.  
+
+**Objetivo**  
+
+Definir los meta tags y las prácticas SEO mínimas para la parte pública de la plataforma (landing, páginas informativas y blog), al tiempo que se protege la privacidad y seguridad de las páginas privadas (dashboard, monitor, historial).  
+
+**Recomendaciones generales**  
+
+- Título (title): 50–60 caracteres. Incluir keyword principal y la marca si es apropiado.  
+
+- Meta description: 140–160 caracteres. Texto persuasivo que resuma la propuesta de valor y llame a la acción.  
+
+- Robots: usar index,follow en páginas públicas; noindex, noarchive en páginas que manejan PHI.  
+
+- Canonical: declarar canonical en páginas que puedan generarse con parámetros para evitar contenido duplicado.  
+
+- Open Graph / Twitter Card: proveer imagen (1200×630 px) y texto para compartir en redes.  
+
+- Schema.org (JSON-LD): incluir marcado para MedicalOrganization, WebApplication y/o Article en el blog.  
+
+- Performance & Accessibility: optimizar imágenes (WebP), usar alt descriptivos, y cumplir Core Web Vitals.  
+
+- Consent Management: no cargar trackers de terceros hasta obtener consentimiento explícito para no enviar datos de uso sensibles.  
+
+**Buenas prácticas técnicas y de privacidad**  
+
+- No exponer PHI en URLs, meta tags, titles o descripciones.  
+
+- Implementar consentimiento (CMP) previo a trackers/analytics que recopilen datos.  
+
+- Optimizar performance: imágenes WebP, lazy loading, minificación de assets para mejorar Core Web Vitals.  
+
+- Accesibilidad: usar etiquetas semánticas HTML y alt en imágenes; mantener contraste mínimo 4.5:1 en textos.  
+
+- Control de caché y cabeceras: evitar cacheo público de páginas con datos sensibles.  
+
+- Seguridad: CSP, HSTS, cabeceras que prevengan exposición accidental de datos.  
+
+- Monitoring: auditar regularmente lo que aparece indexado (Search Console / Bing Webmaster) para detectar exposición accidental.  
+### 4.2.4 Searching Systems 
 
 El sistema integral de neurología digital incorporará un módulo de búsqueda y localización en tiempo real, cuya finalidad es permitir tanto a pacientes como a médicos identificar la disponibilidad de dispositivos médicos conectados y profesionales de la salud en la red. Este componente se constituye como un elemento esencial de la plataforma, ya que asegura la eficiencia en la localización de recursos médicos y optimiza el uso de la flota de dispositivos IoT disponibles.  
 
