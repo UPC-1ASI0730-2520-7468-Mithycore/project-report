@@ -278,31 +278,52 @@ Unificar en una plataforma única:
 
 ---
 
-### 1.2.2.2. Lean UX Assumptions
+### 1.2.2.2 Lean UX Assumptions
+
+A partir de los problemas identificados en el apartado anterior, se formulan las siguientes suposiciones iniciales que orientan el desarrollo de la plataforma AuraNeuro. Estas asunciones se dividen en tres dimensiones: negocio, usuarios y tecnologia.
 
 **Business Assumptions**  
-- Si demostramos reducción en hospitalizaciones y mortalidad, las instituciones adoptarán la plataforma.  
-- Si integramos un servicio externo de valor (ej. ensayos clínicos o validación de medicamentos), los médicos percibirán diferenciación frente a otras soluciones.  
-- Si ofrecemos un modelo SaaS con costos bajos, la plataforma será sostenible y escalable.  
+- Se asume que, si la plataforma demuestra una reduccion en hospitalizaciones y mortalidad, las instituciones de salud estaran dispuestas a adoptarla.  
+- Se asume que, si se integra un servicio externo de valor (como ensayos clinicos o validacion de medicamentos), los profesionales percibiran diferenciacion frente a otras soluciones.  
+- Se asume que, si se ofrece un modelo SaaS con costos accesibles, la plataforma podra ser sostenible y escalable.  
 
 **User Assumptions**  
-- Si los pacientes reciben alertas y feedback, se motivarán a usar los dispositivos IoT de forma continua.  
-- Si los médicos tienen dashboards integrados con datos confiables y externos, confiarán y usarán la herramienta de manera rutinaria.  
-- Si los pacientes ven resultados claros sobre adherencia y evolución, incrementarán su confianza en el sistema.  
+- Se asume que, si los pacientes reciben alertas y retroalimentacion clara, se motivaran a utilizar los dispositivos IoT de manera continua.  
+- Se asume que, si los medicos disponen de dashboards integrados con datos confiables y externos, confiaran en la herramienta y la usaran de forma rutinaria.  
+- Se asume que, si los pacientes observan resultados tangibles sobre adherencia y evolucion, incrementaran su confianza en el sistema.  
 
 **Technical Assumptions**  
-- Si logramos procesar señales IoT en la nube con baja latencia, podremos generar alertas en tiempo real.  
-- Si nuestra API RESTful orquesta datos internos y externos, la integración será viable y estable.  
-- Si el servicio externo gratuito mantiene un SLA aceptable, podremos garantizar disponibilidad sin costo adicional.  
+- Se asume que, si las señales IoT pueden procesarse en la nube con baja latencia, sera posible generar alertas en tiempo real.  
+- Se asume que, si la API RESTful orquesta adecuadamente datos internos y externos, la integracion sera viable y estable.  
+- Se asume que, si el servicio externo gratuito mantiene un SLA aceptable, se garantizara disponibilidad sin costos adicionales.  
+
+**Conclusion**  
+Estas suposiciones proporcionan el punto de partida para la formulacion de hipotesis que seran validadas en fases posteriores del Lean UX Process, reduciendo incertidumbre y alineando la propuesta con las necesidades reales del entorno.
 
 ---
 
-### 1.2.2.3. Lean UX Hypothesis Statements
+### 1.2.2.3 Lean UX Hypothesis Statements
 
-- “Si ofrecemos a los pacientes alertas predictivas personalizadas, entonces aumentará su adherencia al tratamiento en al menos un 15%, lo sabremos al medir cumplimiento en la aplicación.”  
-- “Si proporcionamos a los neurólogos dashboards integrados con datos IoT y servicios externos, entonces incrementará su uso regular de la plataforma, lo sabremos al registrar frecuencia de acceso y duración de sesiones.”  
-- “Si garantizamos la integración con EHR y un servicio externo, entonces mejorará la confianza en la información clínica, lo sabremos al obtener retroalimentación positiva en pruebas piloto.”  
-- “Si desarrollamos un API RESTful que procese datos con menos de 500 ms de latencia en el 95% de las llamadas, entonces lograremos mantener la experiencia en tiempo real, lo sabremos al monitorear métricas de rendimiento.”  
+Con base en las suposiciones de negocio, usuario y tecnologia, se formulan las siguientes hipotesis que orientan la validacion del producto AuraNeuro:
+
+**Business Hypotheses**  
+- Si la plataforma ofrece alertas predictivas y logra reducir hospitalizaciones y mortalidad en al menos un 15%, entonces las instituciones de salud adoptaran la solucion. Lo sabremos al comparar indicadores de hospitalizacion antes y despues de la implementacion piloto.  
+- Si integramos un servicio externo de referencia (ej. ClinicalTrials.gov), entonces los medicos percibiran diferenciacion frente a soluciones existentes. Lo sabremos al medir el porcentaje de especialistas que valoran este aspecto en entrevistas y encuestas.  
+- Si ofrecemos un modelo SaaS con costos accesibles (<10 USD por paciente al mes), entonces la plataforma sera sostenible y escalable. Lo sabremos al validar la aceptacion del modelo de pago en pruebas de mercado.  
+
+**User Hypotheses**  
+- Si los pacientes reciben alertas predictivas personalizadas, entonces aumentara su adherencia al tratamiento en al menos un 15%. Lo sabremos al medir el cumplimiento de rutinas dentro de la aplicacion.  
+- Si los medicos disponen de dashboards integrados con datos IoT y servicios externos, entonces incrementara su uso regular de la plataforma. Lo sabremos al registrar la frecuencia de acceso y la duracion de sesiones en pruebas piloto.  
+- Si los pacientes visualizan resultados claros sobre adherencia y evolucion, entonces aumentara su confianza en el sistema. Lo sabremos al medir la satisfaccion mediante encuestas post-uso.  
+
+**Technical Hypotheses**  
+- Si procesamos señales IoT en la nube con latencia menor a 500 ms en el 95% de las llamadas, entonces garantizaremos una experiencia en tiempo real. Lo sabremos al monitorear las metricas de rendimiento del sistema.  
+- Si la API RESTful integra datos internos y externos de manera estable, entonces la interoperabilidad sera viable. Lo sabremos al medir uptime y tasa de errores durante pruebas de integracion.  
+- Si el servicio externo gratuito mantiene un SLA superior al 90%, entonces podremos garantizar disponibilidad sin costos adicionales. Lo sabremos al registrar la estabilidad del servicio en el periodo de prueba.  
+
+**Conclusion**  
+Estas hipotesis transforman las suposiciones en criterios medibles de exito, abarcando las dimensiones de negocio, usuario y tecnologia. Su validacion permitira reducir riesgos y ajustar la propuesta de AuraNeuro a las necesidades reales del entorno.
+### 1.2.2.4. Lean UX Canvas
 
 ---
 ### 1.2.2.4. Lean UX Canvas
