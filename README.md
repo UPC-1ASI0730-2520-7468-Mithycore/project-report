@@ -1,16 +1,23 @@
-![Logo UPC](./img/upc-logo.png)
+<p align="center">
+  <img src="./assets/upc-logo.png" alt="Logo UPC" width="200"/>
+</p>
 
-# Informe de Trabajo Final  
-**Curso:** 1ASI0730 Aplicaciones Web  
-**Startup:** Mythicore  
-**Producto:** AuraNeuro  
-**Integrantes:**  
+<h1 align="center">Informe de Trabajo Final</h1>  
+
+<p align="center"><strong>Curso:</strong> 1ASI0730 Aplicaciones Web</p>  
+<p align="center"><strong>Startup:</strong> Mythicore</p>  
+<p align="center"><strong>Producto:</strong> AuraNeuro</p>  
+<p align="center"><strong>Fecha:</strong> Septiembre 2025</p>  
+
+---
+
+## Integrantes  
+
 - Stanley Jeremy Gutierrez Tume (U202118152) – Team Leader  
 - Juan José Meza Huanacune (U202320574) – Backend Engineer  
 - Eduardo Fabián Chacaliaza Minaya (U202324129) – Frontend & UX/UI Engineer  
 - Fabricio Fabián Quispe Barzola (U202320442) – Data & IoT Integration Engineer  
-- Romero Meza Jhimy Pool (U202321510) – Frontend & UX/UI Engineer
-
+- Romero Meza Jhimy Pool (U202321510) – Frontend & UX/UI Engineer  
 
 ---
 
