@@ -1663,7 +1663,81 @@ El component diagram detalla los servicios internos que conforman el Domain Core
 ---
 
 ## 4.7 Software Object-Oriented Design
-- 4.7.1 Class Diagrams  
+
+En esta sección se presentan y explican los diagramas de clases UML que muestran el mayor nivel de detalle sobre la implementación de los componentes para cada *bounded context* de la plataforma AuraNeuro.  
+
+La propuesta incluye **clases, interfaces, enumeraciones y sus relaciones**, detallando atributos, métodos y visibilidad (*public, private, protected*). Asimismo, se especifican **multiplicidades y asociaciones** entre clases, asegurando consistencia con los bounded contexts definidos previamente en la arquitectura de software.
+
+---
+
+### 4.7.1 Class Diagrams
+
+#### A) Identity & Access (IAM)
+Este diagrama modela el proceso de **registro, autenticación y gestión de sesiones**.  
+Incluye las clases principales `Usuario`, `Sesion` y las interfaces de autenticación (`AuthProvider`).  
+Se utiliza la enumeración `EstadoUsuario` para controlar el estado de la cuenta.  
+
+![Identity & Access](identity.png)
+
+---
+
+#### B) Profiles & Preferences
+Este diagrama representa la **gestión de perfiles de usuario** y sus preferencias de notificación.  
+Incluye la clase `Perfil`, que se relaciona con `Preferencias` y las enumeraciones `Genero` y `CanalNotificacion`.  
+
+![Profiles & Preferences](preferences.png)
+
+---
+
+#### C) IoT & Biometric Monitoring
+Este diagrama modela la integración con **dispositivos IoT** (wearables, EEG, EMG) y la recolección de señales biométricas.  
+La clase `Dispositivo` se relaciona con `SeñalBiometrica`, y se utiliza la enumeración `TipoDispositivo` para clasificar el hardware.  
+
+![IoT & Biometrics](iot.png)
+
+---
+
+#### D) Telemedicine (WebRTC)
+Este diagrama representa el flujo de la **telemedicina**, con clases que gestionan las citas (`Cita`), salas virtuales (`Sala`) y mensajería instantánea (`MensajeChat`).  
+Se incluye la enumeración `EstadoCita` para el ciclo de vida de la consulta.  
+
+![Telemedicine](telemedicine.png)
+
+---
+
+#### E) Subscriptions & Payments
+Este diagrama describe la gestión de **planes de suscripción y pagos**.  
+Las entidades principales son `Suscripcion`, `Plan` y `Pago`, relacionadas con la pasarela de pago (`PasarelaPago`).  
+Se emplean las enumeraciones `EstadoSuscripcion`, `EstadoPago` y `MetodoPago`.  
+
+![Subscriptions & Payments](suscripciones.png)
+
+---
+
+#### F) Notifications
+El diagrama de **notificaciones** modela cómo se generan, envían y marcan como entregadas o fallidas las alertas al usuario.  
+Se incluyen las clases `Notificacion`, `ServicioCorreo` y `SMTPProvider`, junto con las enumeraciones `Canal` y `EstadoEnvio`.  
+
+![Notifications](notificaciones.png)
+
+---
+
+#### G) Analytics & Alerting
+Este diagrama muestra el uso de **IA y reglas de detección de anomalías**.  
+Incluye las clases `MotorIA`, `Regla`, `EventoAnomalia` y `Alerta`.  
+La severidad de los eventos se gestiona con la enumeración `NivelSeveridad`.  
+
+![Analytics & Alerting](alerting.png)
+
+---
+
+#### H) EHR / FHIR Adapter
+Este diagrama representa la integración con sistemas clínicos externos vía **FHIR**.  
+Se definen las clases `FHIRAdapter`, `Observacion` y `PacienteRef`, junto con la enumeración `TipoObservacion` (ej. frecuencia cardiaca, saturación, sueño).  
+
+![EHR/FHIR Adapter](adapter.png)
+
+---
 
 ## 4.8 Database Design
 
