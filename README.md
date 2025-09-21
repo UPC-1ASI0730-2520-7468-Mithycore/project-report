@@ -2014,7 +2014,6 @@ El entregable principal fue una página accesible en navegador, con las siguient
 ![Landing Page – Cómo funciona](img/landingpage2.png)  
 ![Landing Page – Nosotros](img/landingpage3.png)  
 ![Landing Page – Beneficios](img/landingpage4.png)  
-![Landing Page – Contáctanos](img/landingpage5.png)  
 
 URL del despliegue: https://upc-1asi0730-2520-7468-mithycore.github.io/LandingPageAuraNeuro/
 
