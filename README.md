@@ -509,7 +509,7 @@ Muchas gracias por tu tiempo hoy. Tu opinión y las ideas que compartiste nos ay
 - **Sexo:** Masculino  
 - **Edad:** 21  
 - **Estado Civil:** Soltero
-- **Link:** [Entrevista aaron]([[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320442_upc_edu_pe/EVqzfFZGQtfmtniG8DD9CMB5KBK39T_bMp0DSLhM_WIAIsg?nav=eyJjZW...etc](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320442_upc_edu_pe/EVgqZffZGQtFmtniG8D9sCMBK5K39T_bMbQSLhM_WlAlsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=iS2XXG)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EZxZ3WlYjT1Cp7yqP_OKdSIBRR0IFKAnrzwQjBEJNXY9YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=M3kx9a))
+- **Link:** [Entrevista Aaron](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EZxZ3WlYjT1Cp7yqP_OKdSIBRR0IFKAnrzwQjBEJNXY9YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=j1Yf0B)
 - **Condición:** Paciente diagnosticado con epilepsia  
 
 **Detalles de la entrevista:**  
@@ -523,7 +523,7 @@ En cuanto a tecnologías de monitoreo, se muestra abierto al uso de **wearables*
 
 Finalmente, menciona que ha participado en comunidades online como foros de la **Epilepsy Foundation** o grupos de Facebook sobre epilepsia, los cuales le han ayudado a sentirse acompañado. Afirma que el uso de estas herramientas digitales le daría mayor independencia y mejoraría la calidad de vida tanto para él como para su familia.  
 
-- **Duración:** 6 minutos con 45 segundos  
+- **Duración:** 4 minutos con 21 segundos
 
 ---
 
@@ -552,7 +552,7 @@ Finalmente, menciona que ha participado en comunidades online como foros de la *
 - **Sexo:** Masculino  
 - **Edad:** 25  
 - **Estado Civil:** Soltero
-- **Link:** [entrevista xin]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320442_upc_edu_pe/EVqzfFZGQtfmtniG8DD9CMB5KBK39T_bMp0DSLhM_WIAIsg?nav=eyJjZW...etc](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320442_upc_edu_pe/EVgqZffZGQtFmtniG8D9sCMBK5K39T_bMbQSLhM_WlAlsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Iz70nU))
+- **Link:** [Entrevista Xin](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320442_upc_edu_pe/EVgqZffZGQtFmtniG8D9sCMBK5K39T_bMbQSLhM_WlAlsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h8BhtU)
 - **Condición:** Paciente diagnosticado con epilepsia  
 
 **Detalles de la entrevista:**  
@@ -594,19 +594,45 @@ Además, Xin comenta que participa en comunidades de apoyo, como grupos de Faceb
 
 **Segmento #2: Profesionales de la salud en neurología**  
 
-| | **Entrevistado N°1: Juan José Meza Galarza**  
-| --- | ---  
-|  | - **Sexo:** Masculino  
-|  | - **Edad:** 56 años  
-|  | - **Profesión:** Neurólogo Especialista
-|  | - **Link:** __________________________  
-|  | - **Instante en el que inicia:** ____  
-|  | - **Duración:** ____  
-|  | **Resumen de la entrevista:**  
-|  | Se realizó una entrevista a Juan José Meza Galarza, neurólogo clínico con más de veinte años de experiencia en el tratamiento de pacientes con epilepsia y enfermedades neurodegenerativas. Durante la conversación compartió que una de las principales dificultades que enfrenta en su práctica es la falta de información continua y objetiva sobre la evolución de los síntomas en los pacientes, lo que limita la capacidad de ajustar los tratamientos en el momento oportuno.  
-|  | El entrevistado señaló que, aunque los reportes verbales de familiares y pacientes aportan información valiosa, suelen estar sesgados o incompletos, lo que retrasa la identificación de patrones clínicos importantes. Destacó que contar con datos cuantitativos de manera sistemática sería una herramienta fundamental para la práctica clínica y la investigación.  
-|  | Considera que una plataforma IoT con sensores portátiles y bases de datos integradas le permitiría obtener métricas más confiables sobre calidad de sueño, frecuencia de episodios y niveles de actividad de sus pacientes. Subrayó que la posibilidad de recibir reportes automatizados facilitaría tanto la toma de decisiones clínicas como la comunicación con familiares.  
-|  | Finalmente, indicó que para que esta tecnología sea realmente útil debe garantizar la confidencialidad de los datos y presentarlos en un formato claro y fácil de interpretar, de manera que pueda integrarse sin dificultad a la práctica profesional diaria. También enfatizó que herramientas así podrían abrir nuevas oportunidades de investigación en neurociencias, al permitir trabajar con información más amplia y representativa de la vida cotidiana de los pacientes.
+### Entrevista N°1
+
+- **Nombre:** Karen Guadalupe Villanueva Castillo  
+- **Sexo:** Femenino  
+- **Edad:** 27  
+- **Estado Civil:** Soltera  
+- **Profesión:** Neuróloga especialista  
+- **Link:** [Entrevista Karen](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EQiEyBrJx-JGoHK_l4x45sYBAWGLVSJzu40JYMV2arNWBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dL6y9t)
+
+---
+
+#### Detalles de la entrevista:
+Karen Guadalupe Villanueva Castillo es una neuróloga de 27 años que actualmente reside en Lima. Durante la entrevista explicó que el seguimiento de sus pacientes con epilepsia u otras condiciones neurológicas depende, en gran medida, de los registros que ellos mismos llevan en cuadernos o de la información que recuerdan en sus consultas. Aunque utiliza historias clínicas electrónicas, reconoce que la información no siempre es continua ni detallada, lo cual limita la precisión de los diagnósticos y la toma de decisiones clínicas.  
+
+La doctora considera que una plataforma que integre registros de crisis, calidad de sueño y datos biométricos en tiempo real sería de gran valor, pues le permitiría contar con información objetiva y confiable. En cuanto a marcas y sistemas, confía en plataformas estandarizadas como **Epic** y **Cerner** para la gestión clínica, y en dispositivos de monitoreo como los desarrollados por **Medtronic** y **Empatica**, que cuentan con certificaciones médicas.  
+
+Señaló que poder acceder a los datos de sus pacientes desde una aplicación web conectada a la nube sería muy útil, ya que le permitiría revisar información actualizada sin necesidad de visitas presenciales tan frecuentes. Además, destacó que es miembro de comunidades científicas como la **International League Against Epilepsy (ILAE)** y participa en congresos de la **American Academy of Neurology (AAN)**, donde se difunden los avances más recientes en neurotecnología.  
+
+Respecto al impacto de estas herramientas digitales en el sistema de salud, considera que permitirían reducir costos, prevenir hospitalizaciones innecesarias y optimizar recursos en casos críticos. Finalmente, proyecta que el futuro de la neurología con IoT y plataformas digitales será **más preventivo y personalizado**, con monitoreo 24/7 que permita ajustar tratamientos en tiempo real.  
+
+- **Duración:** 6 minutos con 58 segundos 
+
+---
+
+#### Resumen de los puntos clave en la entrevista
+- La entrevistada es **Karen Guadalupe Villanueva Castillo**, neuróloga especialista de 27 años.  
+- Señala que actualmente depende de registros manuales de los pacientes, lo que dificulta diagnósticos precisos.  
+- Considera muy valiosa una plataforma que integre **datos de crisis, sueño y biometría en tiempo real**.  
+- Confía en software clínico como **Epic** y **Cerner**, y en dispositivos de monitoreo de **Medtronic** y **Empatica**.  
+- Valora el acceso remoto a datos de pacientes mediante aplicaciones web en la nube.  
+- Forma parte de comunidades científicas como la **ILAE** y la **AAN**.  
+- Opina que estas herramientas reducirán costos hospitalarios, mejorarán la prevención y harán más eficiente al sistema de salud.  
+- Visualiza la neurología del futuro como **preventiva, personalizada y soportada por IoT**.  
+
+---
+
+#### Registro visual de la entrevista
+![Entrevista Karen](img/karen.png)
+
 
 **Segmento #3: Terapeutas**   
 
