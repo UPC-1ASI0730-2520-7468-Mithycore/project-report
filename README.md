@@ -1590,10 +1590,77 @@ En conclusión, los prototipos de **AuraNeuro** permiten visualizar cómo los us
 
 
 ## 4.6 Domain-Driven Software Architecture
-- 4.6.1 Design-Level EventStorming  
-- 4.6.2 Context Diagram  
-- 4.6.3 Container Diagrams  
-- 4.6.4 Component Diagrams  
+
+### 4.6.1 Design-Level EventStorming
+
+Nuestro objetivo es estructurar el dominio de AuraNeuro en contextos claros, detallando los principales flujos de interacción (monitoreo de pacientes → procesamiento de datos IoT → análisis mediante IA → alertas y notificaciones → acceso de profesionales de la salud) y los cruces entre contextos (suscripciones, telemedicina, notificaciones).
+
+**Captura:**  
+![EventStorming](img/eventstorming.png)
+
+**Bounded Contexts identificados:**
+- **Identity & Access (IAM):** registro, login, autorización de usuarios.  
+- **Profiles & Preferences:** datos del paciente, preferencias médicas.  
+- **Stress Test & Support:** ingestión de datos IoT, score neurológico, reportes de evolución.  
+- **Recommendations & Activities:** recomendaciones personalizadas y asignación de rutinas.  
+- **Professionals Directory:** directorio de neurólogos/terapeutas, solicitud de contacto.  
+- **Subscriptions & Payments:** gestión de planes, facturación y pasarela de pago.  
+- **Notifications:** envío de alertas y recordatorios vía email/SMS/push.  
+- **Analytics & Reporting:** métricas de uso, reportes clínicos.  
+
+**Aggregates, Commands, Events, Queries (resumen):**
+- **User:** `RegisterUser`, `LoginUser` → `UserRegistered`, `LoginSucceeded` / `LoginFailed` → `GetUserProfile`.  
+- **Profile:** `UpdateProfile` → `ProfileUpdated` → `GetProfile`.  
+- **TestSession:** `StartTest`, `SubmitAnswers` → `TestSubmitted`, `StressScoreCalculated` → `GetLastScore`.  
+- **Plan/Activities:** `AssignActivities` → `ActivitiesAssigned` → `GetActivities`.  
+- **Psychologist:** `CreateProProfile`, `RequestContact` → `PsychologistPublished`, `PsychologistContactRequested`.  
+- **Subscription:** `StartSubscription`, `ProcessPayment` → `SubscriptionActivated`, `PaymentProcessed` / `PaymentFailed`.  
+- **Notification:** `SendEmail/Push` → `EmailSent/PushSent`.  
+
+**Flujo principal (happy path):**
+1. El paciente inicia un test neurológico y se generan métricas biométricas.  
+2. La IA calcula el **score neurológico** y asigna recomendaciones.  
+3. Si se supera un umbral crítico, se generan alertas y se notifica al cuidador/familiar.  
+4. El neurólogo accede al dashboard y puede contactar o ajustar la terapia.  
+
+---
+
+### 4.6.2 Context Diagram
+
+El diagrama de contexto muestra la interacción de los tres segmentos principales (Pacientes, Cuidadores/Familiares y Proveedores IoT), junto con los neurólogos/terapeutas, dentro del ecosistema AuraNeuro. También se evidencian las integraciones externas (EHR/HIS, pasarelas de pago, servicios de mensajería y notificaciones).  
+
+**Captura del diagrama de contexto:**  
+![Context Diagram](img/contexto.png)
+
+---
+
+### 4.6.3 Container Diagrams
+
+El container diagram representa los principales contenedores de la plataforma AuraNeuro:  
+- **Clientes:** navegador (desktop/mobile), app móvil/PWA del paciente, dashboard del profesional.  
+- **Backend:** API Gateway + BFF, motor de reglas e IA, servicios de notificaciones, telemedicina (WebRTC), motor de ingestión IoT.  
+- **Persistencia:** base de datos relacional, time-series DB/Data Lake, cache.  
+- **Integraciones externas:** EHR/HIS, servicios clínicos externos, pasarela de pago, mensajería (email/SMS/push).  
+
+**Captura del container diagram:**  
+![Container Diagram](img/container.png)
+
+---
+
+### 4.6.4 Component Diagrams
+
+El component diagram detalla los servicios internos que conforman el Domain Core de AuraNeuro, incluyendo la lógica de negocio y la infraestructura. Se muestran los componentes principales como:  
+- **AuthService / IAM** para gestión de identidades.  
+- **TestSessionService** para captura y análisis de datos neurológicos.  
+- **AlertingService** para generación de alertas en tiempo real.  
+- **ProfessionalDirectoryService** para gestión de neurólogos y terapeutas.  
+- **FHIRAdapter** para interoperabilidad con estándares clínicos (HL7-FHIR).  
+- **Telemed Orchestrator** para habilitar videollamadas seguras.  
+
+**Captura del component diagram:**  
+![Component Diagram](img/component.png)
+
+---
 
 ## 4.7 Software Object-Oriented Design
 - 4.7.1 Class Diagrams  
