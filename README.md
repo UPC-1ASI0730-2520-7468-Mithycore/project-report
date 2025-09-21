@@ -1510,7 +1510,84 @@ Finalmente, en el caso de suscripciones corporativas o institucionales, la naveg
 ![MapPage](./img/Mock-ups/Application/MapsPage.png)  
 ### 4.4.4 User Flow Diagrams  
 ![WireflowDiagrams](./img/UserFlowDiagrams/image.png)  
-## 4.5 Web Applications Prototyping  
+## 4.5. Web Applications Prototyping
+
+### Introducción
+En esta sección se presentan los prototipos interactivos de la aplicación AuraNeuro, diseñados tanto para desktop como para mobile web browser. Estos prototipos simulan la navegación y los principales flujos de interacción, basados en los User Flow Diagrams previamente definidos.
+
+Los criterios principales que guiaron las decisiones de interacción fueron:
+
+- **Consistencia con la arquitectura de información:** se respetan los sistemas de organización, etiquetado y navegación definidos en los diagramas de flujo, garantizando coherencia en la experiencia de usuario.  
+- **Usabilidad e inclusión:** se priorizó un diseño accesible, simple y claro, de manera que los usuarios puedan completar sus objetivos (registro, acceso a beneficios, contacto y monitoreo) de manera fluida.  
+- **Coherencia visual:** los prototipos mantienen el sistema de diseño propuesto, con tipografía legible, componentes reutilizables y una paleta cromática uniforme para garantizar continuidad entre pantallas.  
+
+---
+
+### Prototipo Desktop
+Los prototipos de escritorio muestran los siguientes flujos clave:
+
+1. **Acceso al Home (Landing Page).**  
+2. **Registro de usuario** a través del formulario de contacto.  
+3. **Exploración de secciones informativas**:  
+   - Quiénes somos.  
+   - Acerca de nosotros.  
+   - Beneficios.  
+   - Cómo funciona.  
+4. **Interacción con beneficios y servicios**, como la explicación de ventajas para pacientes y para negocios.  
+
+**Screenshot de ejemplo (Desktop):**  
+![Inicio Desktop](img/inicio.png)
+
+Enlace al video de simulación (Microsoft Stream):  
+ [Video Prototipo Desktop](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EU3tLSOOMqBKoPOduEP8hT8B5YirLUIadNh7OPgbE-ZeIg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7NroAo)
+
+---
+
+### Prototipo Mobile
+Los prototipos móviles priorizan la navegación simplificada en pantallas pequeñas, asegurando la accesibilidad de todas las funciones principales:
+
+1. **Inicio adaptado a mobile.**  
+2. **Acceso al menú hamburguesa** para navegar entre secciones.  
+3. **Visualización compacta de beneficios y secciones informativas.**  
+4. **Sección de contacto optimizada en formulario vertical.**  
+
+**Screenshot de ejemplo (Mobile):**  
+![Inicio Mobile](img/info.png)
+
+Enlace al video de simulación (Microsoft Stream):  
+ [Video Prototipo Mobile](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EVOCLtICjRlCnIbePhVTKRkBQjhxFgmXg-lHkXVoBIPzgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=r7TzqS) 
+ 
+ ---
+
+### Conexión con los User Flow Diagrams
+Los prototipos presentados corresponden directamente a los **User Flows** definidos en la sección 4.4:
+
+- Registro de usuario.  
+- Inicio en la landing page.  
+- Exploración de secciones informativas: *Quiénes somos, Beneficios, Cómo funciona y Acerca de nosotros*.  
+- Interacción con el formulario de contacto.  
+
+**Screenshots de secciones clave:**
+
+- Quiénes somos  
+  ![Quiénes somos](img/quienessomos.png)
+
+- Acerca de nosotros  
+  ![Acerca de nosotros](img/nosotros.png)
+
+- Beneficios  
+  ![Beneficios](img/beneficios.png)
+
+- Cómo funciona  
+  ![Cómo funciona](img/comofunciona.png)
+
+- Contacto  
+  ![Contacto](img/sobrenosotros.png)
+
+---
+
+En conclusión, los prototipos de **AuraNeuro** permiten visualizar cómo los usuarios finales navegarán en las versiones **desktop** y **mobile**, asegurando que los flujos definidos en los diagramas se traduzcan en interacciones claras, consistentes y alineadas con la propuesta de valor de la aplicación.
+
 
 ## 4.6 Domain-Driven Software Architecture
 - 4.6.1 Design-Level EventStorming  
