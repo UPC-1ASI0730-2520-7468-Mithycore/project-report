@@ -1,4 +1,4 @@
-![Logo UPC](./assets/upc-logo.png)
+![Logo UPC](./img/upc-logo.png)
 
 # Informe de Trabajo Final  
 **Curso:** 1ASI0730 Aplicaciones Web  
