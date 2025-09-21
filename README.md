@@ -1479,7 +1479,53 @@ Finalmente, en el caso de suscripciones corporativas o institucionales, la naveg
 - Footer Section  
 ![Footer](./img/Wireframes/LandingPage/FooterSection.png)  
 
-### 4.3.2 Landing Page Mock-up  
+### 4.3.2 Landing Page Mock-up
+
+La siguiente propuesta de Landing Page busca comunicar de manera clara y visual el propósito de la plataforma, los beneficios para los usuarios y cómo funciona el sistema.  
+Se diseñó con un enfoque en la **experiencia de usuario (UX)** y la **claridad de la información**, siguiendo buenas prácticas de diseño web.
+
+---
+
+#### Sección Inicio
+![Inicio](inicio.png)  
+La sección de **Inicio** presenta un mensaje introductorio que resume el propósito de la plataforma: mejorar la atención neurológica mediante IoT, IA y telemedicina.  
+Se incluyen botones de llamada a la acción (*Call to Action*) para fomentar el registro y exploración de la solución.
+
+---
+
+#### Sección ¿Quiénes Somos?
+![Quiénes Somos](quienessomos.png)  
+En esta sección se describe la **misión y visión** de la plataforma, explicando cómo busca optimizar la salud neurológica y apoyar tanto a pacientes como a profesionales médicos.  
+El objetivo es generar confianza y mostrar el **valor diferencial** del proyecto.
+
+---
+
+#### Sección Beneficios
+![Beneficios](beneficios.png)  
+Aquí se destacan los **principales beneficios** que ofrece la solución, tanto para pacientes (monitoreo en tiempo real, prevención, seguimiento) como para profesionales de la salud (acceso a datos confiables, analítica avanzada, telemedicina).  
+La información se presenta de forma visual y accesible.
+
+---
+
+#### Sección Cómo Funciona
+![Cómo Funciona](comofunciona.png)  
+Esta sección explica el **flujo operativo de la plataforma**, desde la recolección de datos mediante dispositivos IoT hasta su análisis con IA y la generación de alertas o recomendaciones para médicos y pacientes.  
+Se busca que el usuario entienda de manera sencilla el **valor tecnológico** de la propuesta.
+
+---
+
+#### Sección Información y Recursos
+![Información](info.png)  
+Incluye recursos adicionales, datos técnicos y explicaciones sobre la integración de la plataforma con servicios médicos externos.  
+Está pensada para usuarios más especializados (profesionales de salud, instituciones médicas) que buscan detalles adicionales antes de adoptar la solución.
+
+---
+
+#### Vista general en dispositivos
+![Nosotros](nosotros.png)  
+La página está optimizada para **dispositivos móviles y web**, asegurando accesibilidad en diferentes contextos de uso.  
+Esto refuerza el objetivo de crear una plataforma inclusiva y práctica para todos los segmentos definidos.
+
 
 ## 4.4 Web Applications UX/UI Design
 ### 4.4.1 Wireframes  
