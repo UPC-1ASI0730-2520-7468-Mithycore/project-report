@@ -326,10 +326,8 @@ Estas hipotesis transforman las suposiciones en criterios medibles de exito, aba
 
 ### 1.2.2.4 Lean UX Canvas
 
-Con base en los problemas, supuestos e hipótesis previamente definidos, se elaboró el **Lean UX Canvas** de la solución **AuraNeuro**.  
+Con base en los problemas, supuestos e hipótesis previamente definidos, se elaboró el **Lean UX Canvas** de la solución AuraNeuro.  
 Este instrumento permite visualizar de manera integrada los principales elementos de la propuesta: el problema de negocio, los usuarios y clientes, los beneficios esperados, las ideas de solución, los resultados de negocio, las hipótesis a validar y los aprendizajes críticos necesarios en etapas iniciales.  
-
-En la Figura siguiente se presenta el **Lean UX Canvas** desarrollado por el equipo, el cual servirá como guía para la validación temprana de la solución:
 
 <p align="center">
   <img src="img/leanUXcanvas.png" alt="Lean UX Canvas de AuraNeuro" width="800"/>
