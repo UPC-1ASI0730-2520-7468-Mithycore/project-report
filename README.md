@@ -502,6 +502,19 @@ Esto permite identificar qué funciones son críticas para cada segmento objetiv
 | **Developer (API)** | Manejar errores de la API | El developer recibe mensajes de error descriptivos en caso de requests inválidos. | Alta | Media |
 
 - 2.3.3 User Journey Mapping  
+
+User Persona – Segmento 1: Paciente(epilepsia crónica):
+
+![User Persona - Paciente](img/Segmento1JM.png)
+
+User Persona - Segmento 2: Profesionales de la salud(neurólogos):
+
+![User Persona - Neuropsicólogo](img/Segmento2JM.png)
+
+User Persona - Segmento 3: Proveedores IoT:
+
+![User Persona - Neuropsicólogo](img/Segmento3JM.png)
+
 - 2.3.4 Empathy Mapping  
 
 PACIENTES:
