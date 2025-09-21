@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/upc-logo.png" alt="Logo UPC" width="200"/>
+  <img src=".img/upc-logo.png" alt="Logo UPC" width="200"/>
 </p>
 
 <h1 align="center">Informe de Trabajo Final</h1>  
