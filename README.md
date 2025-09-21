@@ -602,14 +602,17 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 
 ## 3.2 Impact Mapping  
 
-PACIENTES:
+Impact Mapping – Segmento 1: Paciente(epilepsia crónica):
 
-![Impact Maps - Pacientes](img/Impact%20maps%20-pacientes.png)
+![Impact Mapping - Paciente](img/Segmento1IM.png)
 
+Impact Mapping - Segmento 2: Profesionales de la salud(neurólogos):
 
-NEUROPSICÓLOGO:
+![Impact Mapping - Neuropsicólogo](img/Segmento2IM.png)
 
-![Impact Maps - Neuropsicólogo](img/Impact%20maps%20-neuropsicologo.png)
+Impact Mapping - Segmento 3: Proveedores IoT:
+
+![Impact Mapping - Proveedores](img/Segmento3IM.png)
 
 
 
