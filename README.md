@@ -1470,7 +1470,7 @@ Finalmente, el sistema también contempla una optimización para empresas o inst
 
 En conjunto, este enfoque convierte al módulo de búsqueda en un componente clave para la medicina personalizada y preventiva, ya que no solo facilita la localización de recursos en tiempo real, sino que también mejora la accesibilidad a especialistas y fomenta un uso más eficiente de la infraestructura tecnológica disponible.  
 
-### 4.2.5 Navigation Systems  
+#### 4.2.5. Navigation Systems  
 
 El sistema integral de neurología digital contará con un módulo de navegación inteligente que permitirá a los usuarios desplazarse de manera eficiente dentro de la aplicación y gestionar sus procesos médicos de forma intuitiva. Este módulo ha sido diseñado para mejorar la experiencia de interacción con la plataforma, garantizando accesibilidad y simplicidad en el uso de las distintas funciones disponibles.
 
@@ -1484,8 +1484,8 @@ De manera complementaria, el módulo incluirá la localización de recursos dent
 
 Finalmente, en el caso de suscripciones corporativas o institucionales, la navegación ofrecerá accesos especiales que faciliten la coordinación de consultas grupales, el seguimiento de múltiples pacientes y la optimización de los recursos médicos compartidos. De este modo, la navegación se convierte en un componente clave que no solo orienta al usuario en la interfaz, sino que también garantiza eficiencia, seguridad y accesibilidad en todo el proceso de atención médica digital.  
 
-## 4.3 Landing Page UI Design
-### 4.3.1 Landing Page Wireframe  
+### 4.3. Landing Page UI Design  
+#### 4.3.1. Landing Page Wireframe  
 
 - Navbar Section  
 ![Navbar](./img/Wireframes/LandingPage/NavbarSection.png)
@@ -1511,7 +1511,7 @@ Finalmente, en el caso de suscripciones corporativas o institucionales, la naveg
 - Footer Section  
 ![Footer](./img/Wireframes/LandingPage/FooterSection.png)  
 
-### 4.3.2 Landing Page Mock-up
+#### 4.3.2. Landing Page Mock-up  
 
 La siguiente propuesta de Landing Page busca comunicar de manera clara y visual el propósito de la plataforma, los beneficios para los usuarios y cómo funciona el sistema.  
 Se diseñó con un enfoque en la **experiencia de usuario (UX)** y la **claridad de la información**, siguiendo buenas prácticas de diseño web.
@@ -1559,8 +1559,8 @@ La página está optimizada para **dispositivos móviles y web**, asegurando acc
 Esto refuerza el objetivo de crear una plataforma inclusiva y práctica para todos los segmentos definidos.
 
 
-## 4.4 Web Applications UX/UI Design
-### 4.4.1 Wireframes  
+### 4.4. Web Applications UX/UI Design  
+#### 4.4.1. Web Applications Wireframes  
 - Login Page  
 ![Login](./img/Wireframes/Application/LoginPage.png)  
 - Insert Number Page  
@@ -1582,9 +1582,9 @@ Esto refuerza el objetivo de crear una plataforma inclusiva y práctica para tod
 - Map Page  
 ![MapPage](./img/Wireframes/Application/MapsPage.png)  
 
-### 4.4.2 Wireflow Diagrams  
+#### 4.4.2. Web Applications Wireflow Diagrams  
 ![WireflowDiagrams](./img/WireflowDiagrams/WireFlowDiagramsApp.png)  
-### 4.4.3 Mock-ups  
+#### 4.4.3. Web Applications Mock-ups  
 - Login Page  
 ![Login](./img/Mock-ups/Application/LoginPage.png)  
 - Insert Number Page  
@@ -1605,9 +1605,9 @@ Esto refuerza el objetivo de crear una plataforma inclusiva y práctica para tod
 ![ChatsPage](./img/Mock-ups/Application/ChatsPage.png)  
 - Map Page  
 ![MapPage](./img/Mock-ups/Application/MapsPage.png)  
-### 4.4.4 User Flow Diagrams  
+#### 4.4.4. Web Applications User Flow Diagrams  
 ![WireflowDiagrams](./img/UserFlowDiagrams/image.png)  
-## 4.5. Web Applications Prototyping
+### 4.5. Web Applications Prototyping  
 
 ### Introducción
 En esta sección se presentan los prototipos interactivos de la aplicación AuraNeuro, diseñados tanto para desktop como para mobile web browser. Estos prototipos simulan la navegación y los principales flujos de interacción, basados en los User Flow Diagrams previamente definidos.
@@ -1686,9 +1686,9 @@ Los prototipos presentados corresponden directamente a los **User Flows** defini
 En conclusión, los prototipos de **AuraNeuro** permiten visualizar cómo los usuarios finales navegarán en las versiones **desktop** y **mobile**, asegurando que los flujos definidos en los diagramas se traduzcan en interacciones claras, consistentes y alineadas con la propuesta de valor de la aplicación.
 
 
-## 4.6 Domain-Driven Software Architecture
+### 4.6. Domain-Driven Software Architecture  
 
-### 4.6.1 Design-Level EventStorming
+#### 4.6.1. Design-Level EventStorming  
 
 Nuestro objetivo es estructurar el dominio de AuraNeuro en contextos claros, detallando los principales flujos de interacción (monitoreo de pacientes → procesamiento de datos IoT → análisis mediante IA → alertas y notificaciones → acceso de profesionales de la salud) y los cruces entre contextos (suscripciones, telemedicina, notificaciones).
 
@@ -1722,7 +1722,7 @@ Nuestro objetivo es estructurar el dominio de AuraNeuro en contextos claros, det
 
 ---
 
-### 4.6.2 Context Diagram
+#### 4.6.2. Software Architecture Context Diagram  
 
 El diagrama de contexto muestra la interacción de los tres segmentos principales (Pacientes, Cuidadores/Familiares y Proveedores IoT), junto con los neurólogos/terapeutas, dentro del ecosistema AuraNeuro. También se evidencian las integraciones externas (EHR/HIS, pasarelas de pago, servicios de mensajería y notificaciones).  
 
@@ -1731,7 +1731,7 @@ El diagrama de contexto muestra la interacción de los tres segmentos principale
 
 ---
 
-### 4.6.3 Container Diagrams
+#### 4.6.3. Software Architecture Container Diagrams  
 
 El container diagram representa los principales contenedores de la plataforma AuraNeuro:  
 - **Clientes:** navegador (desktop/mobile), app móvil/PWA del paciente, dashboard del profesional.  
@@ -1744,7 +1744,7 @@ El container diagram representa los principales contenedores de la plataforma Au
 
 ---
 
-### 4.6.4 Component Diagrams
+#### 4.6.4. Software Architecture Components Diagrams  
 
 El component diagram detalla los servicios internos que conforman el Domain Core de AuraNeuro, incluyendo la lógica de negocio y la infraestructura. Se muestran los componentes principales como:  
 - **AuthService / IAM** para gestión de identidades.  
@@ -1759,7 +1759,7 @@ El component diagram detalla los servicios internos que conforman el Domain Core
 
 ---
 
-## 4.7 Software Object-Oriented Design
+### 4.7. Software Object-Oriented Design  
 
 En esta sección se presentan y explican los diagramas de clases UML que muestran el mayor nivel de detalle sobre la implementación de los componentes para cada *bounded context* de la plataforma AuraNeuro.  
 
@@ -1767,7 +1767,7 @@ La propuesta incluye **clases, interfaces, enumeraciones y sus relaciones**, det
 
 ---
 
-### 4.7.1 Class Diagrams
+#### 4.7.1. Class Diagrams  
 
 #### A) Identity & Access (IAM)
 Este diagrama modela el proceso de **registro, autenticación y gestión de sesiones**.  
@@ -1836,9 +1836,9 @@ Se definen las clases `FHIRAdapter`, `Observacion` y `PacienteRef`, junto con la
 
 ---
 
-## 4.8 Database Design
+### 4.8. Database Design  
 
-## 4.8.1 Database Diagrams
+#### 4.8.1. Database Diagrams  
 
 La base de datos **AuraNeuro** fue diseñada siguiendo principios de **normalización (3FN)**, nomenclatura consistente en **MAYÚSCULAS** y uso de tipos de datos simples (INT, VARCHAR, DATE, DATETIME, BIT).  
 El diseño busca garantizar **persistencia confiable**, **integridad referencial** y **evitar bucles** en las relaciones entre entidades.
@@ -1904,9 +1904,10 @@ El siguiente diagrama evidencia las tablas, atributos principales, claves primar
 
 ---
 
-# Capítulo V: Product Implementation, Validation & Deployment
+## Capítulo V: Product Implementation, Validation & Deployment  
 
-5.1.1 Software Development Environment Configuration  
+### 5.1. Software Configuration Management  
+#### 5.1.1. Software Development Environment Configuration  
 Esta sección detalla las herramientas utilizadas durante el desarrollo del software, organizadas según las distintas fases del proyecto.
 
 *Project Management
@@ -1955,7 +1956,7 @@ Empleamos Canva para la creación de material visual y presentaciones gráficas 
 
 Un lenguaje de marcado ligero y sencillo para crear documentos con formato, empleándose para redactar la documentación del proyecto de manera clara y estructurada.
 
-5.1.2 Source Code Management  
+#### 5.1.2. Source Code Management  
 
 El equipo gestiona el código fuente utilizando **GitHub** como plataforma de control de versiones.  
 
@@ -1977,7 +1978,7 @@ Esto permite generar changelogs automáticos y facilita la integración continua
 
 ---
 
-5.1.3 Style Guide & Coding Conventions 
+#### 5.1.3. Source Code Style Guide & Conventions  
 
 En el proyecto **AuraNeuro**, se adoptaron convenciones de código para mantener consistencia, legibilidad y mantenibilidad. Todos los identificadores, clases, variables y comentarios se escriben en **inglés**. Las guías aplicadas se basan en estándares reconocidos para HTML, CSS, JavaScript y C#.
 
@@ -1999,9 +2000,7 @@ En el proyecto **AuraNeuro**, se adoptaron convenciones de código para mantener
 - Funciones descriptivas; manejadores con prefijo `onEvent`
 - `"use strict";` al inicio de scripts
 
-
-
-5.1.4 Software Deployment Configuration
+#### 5.1.4. Software Deployment Configuration  
 
 La aplicación se desplegará en la nube mediante:
 
@@ -2012,9 +2011,9 @@ La aplicación se desplegará en la nube mediante:
 -Contenedores Docker para mantener consistencia en los entornos. 
 
 
-## 5.2 Landing Page, Services & Applications Implementation
-### 5.2.1 Sprint 1
-5.2.1.1 Sprint Planning 1  
+### 5.2. Landing Page, Services & Applications Implementation  
+#### 5.2.1. Sprint 1  
+##### 5.2.1.1. Sprint Planning 1  
 
 | **Sprint #** | Sprint 1 |
 |--------------|----------|
@@ -2030,7 +2029,7 @@ La aplicación se desplegará en la nube mediante:
 | **Sprint 1 Velocity** | 20 Story Points |
 | **Sum of Story Points** | 20 |
 
-5.2.1.2 Aspect Leaders and Collaborators  
+##### 5.2.1.2. Aspect Leaders and Collaborators  
 
 Se identificaron los siguientes aspectos clave del Sprint:  
 
@@ -2054,7 +2053,7 @@ Cada aspecto fue asignado a un **líder** (L) responsable de su entrega y uno o 
 
 ---
 
-5.2.1.3 Sprint Backlog 1  
+##### 5.2.1.3. Sprint Backlog 1  
 
 El Sprint 1 se centró en implementar y desplegar el **Landing Page MVP** de Mythicore en un entorno web accesible mediante navegador, utilizando **HTML, CSS y JavaScript**.  
 El objetivo principal fue entregar un sitio mínimo viable que permita a los usuarios conocer la propuesta de valor de la plataforma y comunicarse a través de un formulario de contacto funcional.  
@@ -2076,7 +2075,7 @@ El objetivo principal fue entregar un sitio mínimo viable que permita a los usu
 
 ---
 
-5.2.1.4 Development Evidence for Sprint Review  
+##### 5.2.1.4. Development Evidence for Sprint Review  
 
 Durante el Sprint 1 se avanzó con la implementación del **Landing Page MVP** de Mythicore en el repositorio `LandingpageAplicacionesWeb`.  
 Se realizaron ajustes en la estructura del archivo principal, correcciones en el footer y adición de secciones clave (Navbar, Hero, About, Footer).  
@@ -2091,9 +2090,7 @@ A continuación, se listan los commits registrados en GitHub:
 | LandingpageAplicacionesWeb  | main   | 433f758   | fix change name index file                        | 21/09/2025           |
 | LandingpageAplicacionesWeb  | main   | fea442d   | fix: Add Sections, Navbar, hero, about and foter  | 20/09/2025           |
 
-
-
-5.2.1.5 Execution Evidence for Sprint Review
+##### 5.2.1.5. Execution Evidence for Sprint Review  
   
 Durante el Sprint 1 se implementó y desplegó el **Landing Page MVP** de Mythicore utilizando **HTML, CSS y JavaScript**.  
 El entregable principal fue una página accesible en navegador, con las siguientes secciones:  
@@ -2111,7 +2108,7 @@ El entregable principal fue una página accesible en navegador, con las siguient
 
 URL del despliegue: https://upc-1asi0730-2520-7468-mithycore.github.io/LandingPageAuraNeuro/
 
-5.2.1.6 Services Documentation Evidence for Sprint Review 
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review  
 
 Durante el Sprint 1, el equipo documentó e implementó el **Contact Service**, el cual se integra con el formulario de contacto del **Landing Page MVP**.  
 La documentación fue elaborada utilizando **OpenAPI (Swagger)**, permitiendo visualizar las rutas, métodos HTTP, parámetros, respuestas esperadas y ejemplos de uso.  
@@ -2130,7 +2127,7 @@ La documentación fue elaborada utilizando **OpenAPI (Swagger)**, permitiendo vi
 
 ---
  
-5.2.1.7 Software Deployment Evidence for Sprint Review
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review  
 
 Durante el Sprint 1, el equipo realizó el **despliegue del Landing Page MVP** .  
 Este proceso se llevó a cabo utilizando **GitHub Pages** como proveedor de hosting gratuito, lo que permitió que la página esté disponible públicamente en la web.  
@@ -2158,8 +2155,7 @@ Este proceso se llevó a cabo utilizando **GitHub Pages** como proveedor de host
 
  ![Aura Neuro](https://raw.githubusercontent.com/UPC-1ASI0730-2520-7468-Mithycore/project-report/main/img/AURANEURO.png)
 
-
-5.2.1.8 Team Collaboration Insights during Sprint  
+##### 5.2.1.8. Team Collaboration Insights during Sprint  
 
 Durante el Sprint 1, el equipo de Mythicore trabajó de manera colaborativa en la implementación y despliegue del **Landing Page MVP** utilizando **HTML, CSS y JavaScript**.  
 Cada integrante del equipo asumió un rol específico (frontend, backend, integración, UX/UI, CI/CD), pero también colaboró en revisión de código, pruebas y documentación.  
@@ -2186,7 +2182,7 @@ Cada integrante del equipo asumió un rol específico (frontend, backend, integr
 
 ---
 
-# Conclusiones
+## Conclusiones  
 - El proyecto responde a una necesidad clara: mejorar la atención neurológica mediante monitorización remota, detección temprana y seguimiento continuo apoyado en dispositivos IoT, analítica con IA y telemedicina. La propuesta combina prevención, personalización y reducción de hospitalizaciones, por lo que su impacto clínico y social es relevante.  
 
 - Aura Neuro (nombre propuesto) articula tres ejes: dispositivos IoT para recolección de señales neurológicas, análisis en la nube con modelos de IA para detección y priorización de riesgos, y un ecosistema de interacción (app móvil + dashboard médico + teleconsultas). Esto facilita decisiones clínicas basadas en datos objetivos y continuidad del cuidado.  
@@ -2197,7 +2193,7 @@ Cada integrante del equipo asumió un rol específico (frontend, backend, integr
 
 ---
 
-# Bibliografía  
+## Bibliografía  
 
 - Ceribell. (2024). Evaluating the impact of point-of-care electroencephalography on length of stay in the ICU: SAFER-EEG trial sub-analysis. Neurocritical Care. [Enlace](https://link.springer.com/article/10.1007/s12028-024-02039-6)  
 
@@ -2221,6 +2217,6 @@ Cada integrante del equipo asumió un rol específico (frontend, backend, integr
 
 - Walishetti, A., Wong, A., & Yang, Y. (2024). Evaluating Home-Based EEG Systems for Public Health Telemonitoring: A Scoping Review. *[Preprint Scoping Review]*. Recuperado de https://www.researchgate.net/publication/385050548_Evaluating_Home-Based_EEG_Systems_for_Public_Health_Telemonitoring_A_Scoping_Review  
  
-# Anexo – Video de Exposición  
+## Anexo – Video de Exposición  
 
 [🎥 Ver exposición completa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EXaMP6Z0sDdPjiwa04tJcX4BwF1OHo-7UdXBFPwqlOl5Jw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UpDqOn)
