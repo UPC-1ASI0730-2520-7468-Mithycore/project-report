@@ -323,15 +323,13 @@ Con base en las suposiciones de negocio, usuario y tecnologia, se formulan las s
 
 **Conclusion**  
 Estas hipotesis transforman las suposiciones en criterios medibles de exito, abarcando las dimensiones de negocio, usuario y tecnologia. Su validacion permitira reducir riesgos y ajustar la propuesta de AuraNeuro a las necesidades reales del entorno.
+### 1.2.2.4. Lean UX Canvas
 
-### 1.2.2.4 Lean UX Canvas
-
-Con base en los problemas, supuestos e hipótesis previamente definidos, se elaboró el Lean UX Canvas de la solución AuraNeuro.  
-Este instrumento permite visualizar de manera integrada los principales elementos de la propuesta: el problema de negocio, los usuarios y clientes, los beneficios esperados, las ideas de solución, los resultados de negocio, las hipótesis a validar y los aprendizajes críticos necesarios en etapas iniciales.  
-
-<p align="center">
-  <img src="img/leanUXcanvas.png" alt="Lean UX Canvas de AuraNeuro" width="800"/>
-</p>
+---
+### 1.2.2.4. Lean UX Canvas
+<div align="left">
+  <img src="img/Ceribell.png" alt="Ceribell" width="100"/>
+</div>
 
 # Capítulo II: Requirements Elicitation & Analysis
   
@@ -656,22 +654,92 @@ Respecto al impacto de estas herramientas digitales en el sistema de salud, cons
 #### Registro visual de la entrevista
 ![Entrevista Karen](img/karen.png)
 
+---
+
+### Entrevista N°2
+
+- **Nombre:** Nicol Buendía  
+- **Sexo:** Femenino  
+- **Edad:** 26  
+- **Estado Civil:** No especificado  
+- **Profesión:** Terapeuta en rehabilitación neurológica  
+- **Link:** [Entrevista Nicol](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/ERy66J4mXqlEjW4IcsmtsVwBdu-vmnMGzi9ZldbU61cQnQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YYQLlB)  
+
+---
+
+#### Detalles de la entrevista:
+Nicol Buendía es una terapeuta de rehabilitación neurológica de 26 años que actualmente trabaja en una clínica especializada y en un centro comunitario. Durante la entrevista comentó que el seguimiento de pacientes depende principalmente de observaciones presenciales y reportes familiares, lo que limita la continuidad y precisión del tratamiento.
+
+Explicó que, aunque utiliza historias clínicas electrónicas y algunas plataformas de telemedicina, estas no se integran con dispositivos IoT. Señaló que contar con una plataforma que registre datos de actividad motora, frecuencia de crisis y calidad del sueño en tiempo real sería de gran valor para personalizar sus terapias y mejorar los resultados.
+
+Nicol confía en soluciones de rehabilitación como **Rehametrics** y **MindMotion**, así como en dispositivos de monitoreo neurológico de **Empatica** y **NeuroPace**. Además, considera clave disponer de un dashboard en la nube para acceder a datos en tiempo real y coordinar con neurólogos y familiares.
+
+Mencionó que forma parte de comunidades científicas como la **World Federation for NeuroRehabilitation (WFNR)** y la **Sociedad Española de Neurorrehabilitación**, además de capacitarse en cursos y webinars sobre nuevas tecnologías aplicadas a la terapia. Finalmente, destacó que las herramientas digitales permitirían reducir tiempos de hospitalización, mejorar la rehabilitación en casa y avanzar hacia terapias más personalizadas y accesibles.
+
+- **Duración:** 7 minutos con 50 segundos  
+
+---
+
+#### Resumen de los puntos clave en la entrevista
+- La entrevistada es **Nicol Buendía**, terapeuta en rehabilitación neurológica de 26 años.  
+- Señala que el seguimiento actual depende de observaciones presenciales y reportes familiares.  
+- Considera muy útil una plataforma que integre **actividad motora, crisis y sueño en tiempo real**.  
+- Confía en plataformas como **Rehametrics** y **MindMotion**, y en dispositivos de **Empatica** y **NeuroPace**.  
+- Destaca la importancia de un **dashboard en la nube** para colaboración con neurólogos y familiares.  
+- Forma parte de comunidades como la **WFNR** y la **Sociedad Española de Neurorrehabilitación**.  
+- Opina que estas herramientas reducirían hospitalizaciones y facilitarían terapias en casa.  
+- Visualiza la rehabilitación del futuro como **personalizada, digital e integrada con IoT**.  
+
+---
+
+#### Registro visual de la entrevista
+![Entrevista Nicol](img/nicol.png)
+
+---
 
 **Segmento #3: Terapeutas**   
 
-| | **Entrevistado N°1: Jairo Chávez**  
-| --- | ---  
-|  | - **Sexo:** Masculino  
-|  | - **Edad:** 23 años  
-|  | - **Profesión:** Terapeuta en formación  
-|  | - **Link:** [https://youtu.be/Nabxppg7DKQ](https://youtu.be/Nabxppg7DKQ)  
-|  | - **Instante en el que inicia:** 0:00  
-|  | - **Duración:** 2:45  
-|  | **Resumen de la entrevista:**  
-|  | Se realizó una entrevista a Jairo Chávez, joven terapeuta en formación de 23 años. Durante la conversación compartió que uno de los principales retos en su práctica es el limitado acceso a información objetiva y continua sobre la evolución de los pacientes con enfermedades neurológicas. Señaló que muchas veces los datos provienen únicamente de observaciones verbales o registros poco sistemáticos, lo que dificulta evaluar la eficacia de las terapias.  
-|  | El entrevistado mencionó que considera fundamental contar con herramientas tecnológicas que permitan monitorear aspectos como la movilidad, la coordinación motora y la respuesta a ejercicios de rehabilitación en tiempo real. Subrayó que el uso de dispositivos IoT podría ofrecer métricas más precisas, ayudando a los terapeutas a adaptar las rutinas de manera personalizada.  
-|  | Además, Jairo resaltó que la integración de plataformas digitales facilitaría la comunicación entre terapeutas, médicos y familiares, asegurando que todos manejen la misma información sobre el progreso del paciente. Manifestó que sería ideal que estos sistemas presenten datos en formatos visuales claros, fáciles de interpretar y aplicables directamente a las sesiones de terapia.  
-|  | Finalmente, expresó que el éxito de estas herramientas dependerá de que sean accesibles, intuitivas y adaptables a distintos contextos clínicos, ya que muchos pacientes requieren soluciones sencillas y prácticas para garantizar su adherencia. Considera que la tecnología puede convertirse en un aliado clave en la rehabilitación neurológica, siempre que se mantenga el enfoque humano y empático en el tratamiento.  
+### Entrevista N°1
+
+- **Nombre:** Carlos Paredes  
+- **Sexo:** Masculino  
+- **Edad:** 32  
+- **Estado Civil:** Soltero  
+- **Profesión:** Ingeniero electrónico – Proveedor de soluciones IoT  
+- **Link:** [Entrevista Carlos](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EabaC7sEU_9GrDDU69Xv9owBK49d_g1TTHwcW7RoBKtmZg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CKbOGC)  
+
+---
+
+#### Detalles de la entrevista:
+Carlos Paredes es un ingeniero electrónico de 32 años que trabaja como proveedor de soluciones IoT aplicadas a la salud. Durante la entrevista explicó que actualmente desarrolla proyectos de integración de **sensores biométricos**, pulseras de monitoreo y dispositivos EEG portátiles que generan datos en tiempo real. Estos dispositivos son utilizados por hospitales y clínicas para hacer seguimiento remoto de pacientes con enfermedades crónicas.  
+
+Comentó que uno de los principales retos es la **interoperabilidad**: muchas veces los dispositivos generan información en distintos formatos, lo que dificulta integrarlos en plataformas médicas centralizadas. También subrayó que la **seguridad de los datos** es fundamental, ya que los clientes demandan protocolos robustos de encriptación y cumplimiento de normas como **HIPAA** o equivalentes locales.  
+
+Carlos confía en marcas como **Empatica**, **Medtronic** y **NeuroSky**, ya que han demostrado respaldo clínico y certificaciones internacionales. Señaló que una colaboración con startups como **Mythicore** puede acelerar la innovación porque estas empresas suelen ser más ágiles para probar pilotos y personalizar soluciones.  
+
+En cuanto a habilidades, dijo sentirse altamente competente en **protocolos IoT (MQTT, BLE, Wi-Fi seguro)**, en el uso de plataformas de nube como **AWS IoT Core** y en el manejo de dashboards analíticos con **Grafana** y **Power BI**. Reconoce que una de sus principales **frustraciones** es que muchas instituciones médicas aún son reacias a adoptar estas tecnologías por falta de presupuesto o desconocimiento.  
+
+Su **objetivo principal** es lograr que las soluciones IoT se integren de forma fluida con historias clínicas electrónicas y plataformas de telemedicina, para que los médicos tengan información confiable y continua sin sobrecargar al paciente.  
+
+- **Duración:** 8 minutos con 15 segundos  
+
+---
+
+#### Resumen de los puntos clave en la entrevista
+- El entrevistado es **Carlos Paredes**, ingeniero electrónico de 32 años, proveedor de soluciones IoT.  
+- Explica que desarrolla proyectos con **sensores biométricos, wearables y EEG portátiles**.  
+- Señala como reto principal la **interoperabilidad** de datos y la **seguridad** bajo normas como HIPAA.  
+- Confía en dispositivos de **Empatica, Medtronic y NeuroSky**.  
+- Domina **protocolos IoT (MQTT, BLE, Wi-Fi seguro)** y plataformas como **AWS IoT, Grafana y Power BI**.  
+- Considera que una alianza con startups como **Mythicore** puede agilizar pilotos y soluciones personalizadas.  
+- Menciona como **frustración** la resistencia institucional por falta de presupuesto o desconocimiento.  
+- Su **objetivo** es integrar IoT con historias clínicas electrónicas y telemedicina para dar soporte en tiempo real a médicos y pacientes.  
+
+---
+
+#### Registro visual de la entrevista
+![Entrevista Carlos](img/carlos.png)
+
 
 
 - 2.2.3 Análisis de entrevistas  
