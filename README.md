@@ -173,11 +173,11 @@ La información se irá ampliando en cada entrega (TB1, TP1, TB2, TF1).
 7. [Bibliografía](#bibliografía)  
 8. [Anexos](#anexos)  
 
-# Capítulo I: Introducción
+## Capítulo I: Introducción  
 
-## 1.1 Startup Profile
+### 1.1. Startup Profile  
 
-### 1.1.1 Descripción de la Startup
+#### 1.1.1. Descripción de la Startup  
 **Mythicore** es una plataforma digital para atención neurológica que integra dispositivos IoT y analítica de IA.  
 Su propósito es mejorar el diagnóstico temprano, monitorear en tiempo real a pacientes con enfermedades crónicas y facilitar la telemedicina mediante datos objetivos, reduciendo hospitalizaciones y optimizando la calidad de vida.
 
@@ -187,7 +187,7 @@ Brindar atención neurológica personalizada mediante IoT e inteligencia artific
 - **Visión**  
 Convertirse en la plataforma líder en salud neurológica digital, integrando monitoreo continuo y telemedicina segura a nivel global.  
 
-### 1.1.2 Perfiles de integrantes del equipo
+#### 1.1.2. Perfiles de integrantes del equipo  
 
 | Foto | Nombre y Código | Rol | Descripción |
 |------|-----------------|-----|-------------|
@@ -199,9 +199,9 @@ Convertirse en la plataforma líder en salud neurológica digital, integrando mo
 
 ---
 
-## 1.2 Solution Profile
+### 1.2. Solution Profile  
 
-### 1.2.1 Antecedentes y problemática
+##### 1.2.1. Antecedentes y problemática  
 Las enfermedades neurologicas, como la epilepsia, el Parkinson y el Alzheimer, representan un reto creciente para los sistemas de salud a nivel mundial. En muchos casos, los diagnosticos se realizan en etapas avanzadas debido a la ausencia de herramientas de monitoreo continuo y a la dependencia de consultas medicas periodicas. Esto ocasiona tratamientos poco personalizados, hospitalizaciones evitables y una disminucion en la calidad de vida de los pacientes.  
 
 Los especialistas coinciden en que la integracion de **Internet of Things (IoT)** y **analitica de Inteligencia Artificial (IA)** puede transformar la atencion neurológica, facilitando un monitoreo en tiempo real, detecciones tempranas y la telemedicina. Sin embargo, actualmente las soluciones disponibles son fragmentadas, costosas o de dificil acceso, lo que genera una brecha significativa para pacientes y profesionales de la salud.  
@@ -210,7 +210,7 @@ Los especialistas coinciden en que la integracion de **Internet of Things (IoT)*
 
 ---
 
-#### 1.2.1.1 What  
+##### 1.2.1.1 What  
 **¿Cual es el problema?**  
 La falta de monitoreo continuo en pacientes neurologicos provoca diagnosticos tardios, tratamientos poco ajustados y hospitalizaciones innecesarias.  
 
@@ -219,7 +219,7 @@ El sistema permite identificar en tiempo real cambios neurologicos mediante biom
 
 ---
 
-#### 1.2.1.2 Who  
+##### 1.2.1.2 Who  
 **¿Quienes estan involucrados?**  
 Pacientes con enfermedades neurologicas cronicas, en rehabilitacion o en riesgo; neurologos y especialistas; hospitales y aseguradoras.  
 
@@ -231,7 +231,7 @@ Pacientes adultos (20–65 años) diagnosticados o en riesgo, junto con neurolog
 
 ---
 
-#### 1.2.1.3 Where  
+##### 1.2.1.3 Where  
 **¿Donde esta el cliente cuando usa el producto?**  
 En hospitales, clinicas o en su propio domicilio, utilizando dispositivos portatiles y la aplicacion digital vinculada.  
 
@@ -240,7 +240,7 @@ En la atencion tradicional, limitada a consultas periodicas y sin continuidad de
 
 ---
 
-#### 1.2.1.4 When  
+##### 1.2.1.4 When  
 **¿Cuando sucede el problema?**  
 Entre citas medicas y en momentos criticos como crisis epilepticas, episodios de perdida de memoria o deterioro cognitivo progresivo.  
 
@@ -268,7 +268,7 @@ Mediante una aplicacion movil intuitiva y una plataforma web para especialistas,
 
 ---
 
-#### 1.2.1.7 How much  
+##### 1.2.1.7 How much  
 - Segun la **Organizacion Mundial de la Salud (OMS, 2020)**, mas de 50 millones de personas en el mundo padecen epilepsia, y hasta un 70% podria vivir sin crisis con diagnostico y tratamiento oportunos.  
 - Estudios en **The Lancet Neurology (2019)** muestran que el monitoreo remoto reduce hasta en un 59% las hospitalizaciones evitables en pacientes cronicos.  
 - Implementaciones piloto de EEG portatiles han demostrado reducir hasta 4 dias de estancia en UCI, disminuyendo costos y mejorando la calidad de vida.  
@@ -278,9 +278,9 @@ Mediante una aplicacion movil intuitiva y una plataforma web para especialistas,
 **Conclusion:**  
 Los antecedentes evidencian que la atencion neurologica tradicional es insuficiente para un diagnostico temprano y un seguimiento adecuado. El impacto de la falta de monitoreo continuo se traduce en hospitalizaciones evitables, menor calidad de vida y altos costos para el sistema de salud. **AuraNeuro** propone cerrar esta brecha mediante una plataforma accesible que integre IoT e IA, ofreciendo valor tanto a pacientes como a especialistas.
 
-### 1.2.2 Lean UX Process
+#### 1.2.2. Lean UX Process  
 
-#### 1.2.2.1 Lean UX Problem Statements
+##### 1.2.2.1. Lean UX Problem Statements  
 
 **Domain**  
 Plataforma de salud neurológica digital con IoT, IA y telemedicina, integrada a historias clínicas electrónicas (EHR) y apoyada en un servicio externo gratuito para enriquecer datos clínicos.
@@ -313,7 +313,7 @@ Unificar en una plataforma única:
 
 ---
 
-#### 1.2.2.2 Lean UX Assumptions
+##### 1.2.2.2. Lean UX Assumptions  
 
 A partir de los problemas identificados en el apartado anterior, se formulan las siguientes suposiciones iniciales que orientan el desarrollo de la plataforma AuraNeuro. Estas asunciones se dividen en tres dimensiones: negocio, usuarios y tecnologia.
 
@@ -337,7 +337,7 @@ Estas suposiciones proporcionan el punto de partida para la formulacion de hipot
 
 ---
 
-#### 1.2.2.3 Lean UX Hypothesis Statements
+##### 1.2.2.3. Lean UX Hypothesis Statements  
 
 Con base en las suposiciones de negocio, usuario y tecnologia, se formulan las siguientes hipotesis que orientan la validacion del producto AuraNeuro:
 
@@ -359,7 +359,7 @@ Con base en las suposiciones de negocio, usuario y tecnologia, se formulan las s
 **Conclusion**  
 Estas hipotesis transforman las suposiciones en criterios medibles de exito, abarcando las dimensiones de negocio, usuario y tecnologia. Su validacion permitira reducir riesgos y ajustar la propuesta de AuraNeuro a las necesidades reales del entorno.
 
-#### 1.2.2.4 Lean UX Canvas
+##### 1.2.2.4. Lean UX Canvas  
 
 Con base en los problemas, supuestos e hipótesis previamente definidos, se elaboró el **Lean UX Canvas** de la solución AuraNeuro.  
 Este instrumento permite visualizar de manera integrada los principales elementos de la propuesta: el problema de negocio, los usuarios y clientes, los beneficios esperados, las ideas de solución, los resultados de negocio, las hipótesis a validar y los aprendizajes críticos necesarios en etapas iniciales.  
@@ -368,7 +368,25 @@ Este instrumento permite visualizar de manera integrada los principales elemento
   <img src="img/leanUXcanvas.png" alt="Lean UX Canvas de AuraNeuro" width="800"/>
 </p>
 
-# Capítulo II: Requirements Elicitation & Analysis
+## 1.3. Segmentos Objetivos  
+
+#### Segmento objetivo #1: Pacientes neurológicos  
+
+Este segmento incluye a personas diagnosticadas con enfermedades neurológicas (epilepsia, párkinson, Alzheimer temprano, entre otras). Su principal necesidad radica en disponer de un sistema de monitoreo continuo que brinde alertas tempranas, adherencia al tratamiento y reducción de hospitalizaciones evitables.  
+De acuerdo con reportes clínicos recientes, más del 60% de los pacientes neurológicos presenta dificultades en el seguimiento de terapias debido a la falta de datos objetivos y continuidad en la atención (Claassen et al., 2024). Este grupo constituye el eje central de AuraNeuro, al ser los usuarios finales que se benefician de manera directa de la integración de IoT, IA y telemedicina.  
+
+#### Segmento objetivo #2: Profesionales de la salud (neurólogos, psicólogos, fisioterapeutas)  
+
+Este segmento está compuesto por médicos y especialistas que requieren información confiable y en tiempo real para tomar decisiones clínicas. Los neurólogos enfrentan a diario el reto de manejar información fragmentada, proveniente de diferentes dispositivos o de reportes poco estandarizados de los pacientes.  
+AuraNeuro busca responder a esta necesidad ofreciendo un dashboard unificado con datos biométricos, cognitivos y emocionales enriquecido con servicios externos (ClinicalTrials, RxNorm). Según encuestas a profesionales de la salud, más del 70% considera prioritario contar con herramientas digitales interoperables para optimizar diagnósticos y terapias (Rodriguez Ruiz et al., 2025).  
+
+#### Segmento objetivo #3: Proveedores de dispositivos IoT y servicios de integración  
+
+Este segmento incluye a las empresas que desarrollan wearables médicos, sensores de EEG, EMG y acelerometría, así como proveedores de plataformas que permiten la integración de datos biométricos. Para ellos, AuraNeuro representa un ecosistema de colaboración que amplía el alcance de sus productos y facilita la interoperabilidad con estándares clínicos como HL7-FHIR.  
+La integración con proveedores IoT no solo asegura la diversidad de dispositivos compatibles, sino que también fortalece la escalabilidad de la plataforma. Estudios recientes muestran que el mercado global de IoT médico superará los USD 94 mil millones en 2026, impulsado principalmente por soluciones de monitoreo remoto (Medical Economics, 2023).  
+
+
+## Capítulo II: Requirements Elicitation & Analysis  
   
 La recolección y análisis de requisitos es una etapa fundamental en el desarrollo de cualquier proyecto. Este proceso implica identificar, comprender y documentar las necesidades y expectativas de los stakeholders, así como los objetivos y restricciones del proyecto.  
 
@@ -376,7 +394,7 @@ A través de entrevistas, encuestas y estudios de mercado, se busca obtener una 
 
 ---
 
-## 2.1. Competidores
+### 2.1. Competidores  
 
 En esta sección se presentan algunos competidores relevantes en el ámbito del monitoreo neurológico y la telemedicina, así como un análisis de las características que nuestra plataforma IoT busca superar.
 
@@ -411,7 +429,7 @@ NeuroPace: Ofrece el RNS System, un dispositivo implantable que detecta y respon
 - Incluye un **módulo de investigación** con exportación de datos anonimizados para ensayos clínicos.  
 
 ---
-### 2.1.1. Análisis competitivo  
+#### 2.1.1. Análisis competitivo  
 
 El análisis competitivo nos brinda una visión clara de cómo nos comparamos con nuestros competidores en el mercado. Nos ayuda a identificar áreas en las que podemos mejorar, así como oportunidades para diferenciarnos y destacar. Esta comprensión nos permite desarrollar estrategias más efectivas como grupo, lo que nos ayuda a alcanzar nuestros objetivos y mantenernos competitivos en el mercado.  
 
@@ -443,7 +461,7 @@ El análisis competitivo nos brinda una visión clara de cómo nos comparamos co
 | **Oportunidades** | Creciente demanda de telemedicina, prevención y salud digital; alianzas con hospitales y aseguradoras. | Expansión a hospitales de menor escala. | Expansión en mercados de salud digital y bienestar. | Integración con sistemas de monitoreo remoto en el futuro. |
 | **Amenazas** | Competencia de grandes empresas tecnológicas y dispositivos médicos consolidados. | Aparición de nuevas soluciones de EEG portátiles. | Competidores en el área de wearables de salud. | Nuevas técnicas no invasivas que reduzcan su uso. |
 
-### 2.1.2. Estrategias y Tácticas frente a Competidores
+#### 2.1.2. Estrategias y tácticas frente a competidores  
 
 **Objetivo.** Definir cómo competiremos y ganaremos tracción frente a soluciones existentes (hospitalarias, wearables clínicos e implantes), priorizando diferenciadores de **monitoreo continuo remoto**, **IA predictiva** e **integración clínica**. (Según plantilla se debe incluir esta sección). 
 
@@ -475,8 +493,8 @@ El análisis competitivo nos brinda una visión clara de cómo nos comparamos co
 4. **Acuerdo de investigación** con 1 centro de neurociencias (data-sharing anonimizado).  
 5. **MVP de panel clínico**: lista de pacientes, alertas, evolución de crisis/temblor y “riesgo próximo” básico.
 
-## 2.2 Entrevistas
-- 2.2.1. Diseño de entrevistas  
+### 2.2. Entrevistas  
+#### 2.2.1. Diseño de entrevistas  
 
 Muy buenos días/tardes/noches, estamos contentos de que haya aceptado esta entrevista. Somos estudiantes de la carrera de Ingeniería de Software e Informática de la UPC. A nombre del grupo desarrollador de la Plataforma IoT para la Optimización de la Atención Neurológica, queremos conversar con usted sobre las dificultades y necesidades que enfrentan los pacientes con enfermedades neurológicas y los profesionales de la salud que los atienden.  
 
@@ -557,7 +575,7 @@ Nuestro objetivo es conocer su experiencia y su perspectiva, ya que buscamos val
 **Despedida:** 
 Muchas gracias por tu tiempo hoy. Tu opinión y las ideas que compartiste nos ayudarán mucho a mejorar nuestro producto. Apreciamos tu sinceridad y disposición para participar. Si necesitas más información, no dudes en contactarnos. ¡Gracias!
 
-- 2.2.2 Registro de entrevistas  
+#### 2.2.2. Registro de entrevistas  
 
 ## Segmento 1: Pacientes con enfermedades neurológicas crónicas  
 
@@ -863,7 +881,7 @@ Su objetivo es contribuir al desarrollo de dispositivos IoT accesibles y validad
 ![Entrevista Jesús](img/jesus.png)
 
 
-2.2.3 Análisis de entrevistas  
+#### 2.2.3. Análisis de entrevistas  
 
 ### Segmento #1: Pacientes con enfermedades neurológicas crónicas
 
@@ -944,8 +962,8 @@ Este segmento confirma que **Mythicore** puede posicionarse como una plataforma 
 
 ---
 
-## 2.3 Needfinding
-- 2.3.1 User Personas  
+### 2.3. Needfinding  
+#### 2.3.1. User Personas  
 En esta parte del informe presentamos a los User Personas construidos a partir de entrevistas y análisis de los segmentos objetivo de Mythicore. Estas representaciones ficticias, pero basadas en datos reales, nos permiten comprender mejor cómo piensan, qué esperan y qué problemas enfrentan nuestros usuarios. Con esta información, el equipo puede diseñar una solución alineada a necesidades auténticas y no solo a supuestos.
 
 User Persona – Segmento 1: Paciente(epilepsia crónica):
@@ -960,7 +978,7 @@ User Persona - Segmento 3: Proveedores IoT:
 
 ![User Persona - Neuropsicólogo](img/userperson-segmentoproovedor.png)
 
-- 2.3.2 User Task Matrix  
+#### 2.3.2. User Task Matrix  
 
 La siguiente matriz relaciona a los roles de usuario de la plataforma **Mythicore** con las principales tareas que realizan.  
 Cada tarea está asociada a una **prioridad** (Alta, Media, Baja) y una **frecuencia de uso** (Alta, Media, Baja).  
@@ -986,7 +1004,7 @@ Esto permite identificar qué funciones son críticas para cada segmento objetiv
 | **Developer (API)** | Consultar datos de monitoreo | El developer obtiene información neurológica desde la API en formato JSON. | Alta | Alta |
 | **Developer (API)** | Manejar errores de la API | El developer recibe mensajes de error descriptivos en caso de requests inválidos. | Alta | Media |
 
-- 2.3.3 User Journey Mapping  
+#### 2.3.3. User Journey Mapping  
 
 User Journey Mapping – Segmento 1: Paciente(epilepsia crónica):
 
@@ -1000,7 +1018,7 @@ User Journey Mappinga - Segmento 3: Proveedores IoT:
 
 ![User Journey Mapping - Proveedores](img/Segmento3JM.png)
 
-- 2.3.4 Empathy Mapping  
+#### 2.3.4. Empathy Mapping  
 
 PACIENTES:
 
@@ -1017,7 +1035,7 @@ Empathy Mapping - Segmento 3: Proveedores IoT:
 ![Empathy Mapping - Proveedores](img/Segmento3EM.png)
 
 
-## 2.4 Big Picture EventStorming  
+### 2.4. Big Picture EventStorming  
 
 El Big Picture Event Storming es una técnica colaborativa que nos permitió visualizar el dominio completo de nuestra solución, identificando actores, eventos clave, problemas, dudas, sistemas externos y oportunidades. A través de esta dinámica, el equipo logró comprender de manera compartida el flujo de procesos en la atención neurológica digital y cómo nuestra plataforma Mythicore puede integrarse para resolver brechas críticas.  
 
@@ -1027,7 +1045,7 @@ El Big Picture Event Storming es una técnica colaborativa que nos permitió vis
 ### Big Picture Event Storming - Mapa General    
 ![Empathy Mapping - Proveedores](img/bigpicture2.png) 
 
-## 2.5 Ubiquitous Language  
+### 2.5. Ubiquitous Language  
 
 Este glosario define los términos clave que usamos en el proyecto para mantener un **lenguaje común** entre el equipo de desarrollo, los médicos especialistas y los demás stakeholders.    
 
@@ -1052,9 +1070,9 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
   
 ---
 
-# Capítulo III: Requirements Specification
+## Capítulo III: Requirements Specification  
 
-## 3.1 User Stories  
+### 3.1. User Stories  
 ---
 
 ## User Stories y Epics basadas en entrevistas
@@ -1085,7 +1103,7 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 | US07.1 | Registro de pacientes vía API | Como developer quiero registrar pacientes mediante endpoint para integrarlos al sistema. | - DADO QUE se envía POST /patients válido, CUANDO la API procesa, ENTONCES responde con 201 y el ID. | EP07 |
 | US07.2 | Consulta de datos vía API | Como developer quiero consultar datos de monitoreo para integrarlos a apps externas. | - DADO QUE se envía GET /monitoring/{id}, CUANDO existe paciente, ENTONCES responde con JSON válido. | EP07 |
 
-## 3.2 Impact Mapping  
+### 3.2. Impact Mapping  
 
 Impact Mapping – Segmento 1: Paciente(epilepsia crónica):
 
@@ -1099,9 +1117,7 @@ Impact Mapping - Segmento 3: Proveedores IoT:
 
 ![Impact Mapping - Proveedores](img/Segmento3IM.png)
 
-
-
-## 3.3 Product Backlog  
+### 3.3. Product Backlog  
 
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |-----------------|--------|-------------|--------------------------|---------------------------|
@@ -1124,13 +1140,12 @@ Impact Mapping - Segmento 3: Proveedores IoT:
 | US05.2 | Consulta de datos IoT | Como **developer**, quiero consultar las métricas de un paciente en formato JSON para integrarlas en otro sistema. | DADO QUE el developer hace un GET válido, CUANDO incluye la autorización correcta, ENTONCES la API debe devolver los datos en JSON estructurado. | EP05 |
 | US05.3 | Manejo de errores | Como **developer**, quiero recibir mensajes claros de error para poder corregir mis requests. | DADO QUE el developer envía un request inválido, CUANDO el sistema lo procesa, ENTONCES la API debe devolver un error con código y mensaje descriptivo. | EP05 |
 
-
 ---
 
-# Capítulo IV: Product Design
+## Capítulo IV: Product Design  
 
-## 4.1 Style Guidelines
-### 4.1.1 General Style Guidelines  
+### 4.1. Style Guidelines  
+#### 4.1.1. General Style Guidelines  
 
 **Branding**
 
@@ -1180,7 +1195,7 @@ El lenguaje debe ser profesional pero cercano, evitando tecnicismos innecesarios
 La paleta de Aura Neuro combina la confianza médica con la innovación tecnológica:  
 ![PaletaColores](./img/PaletaColores/PaletaColores.png)  
 
-### 4.1.2 Web Style Guidelines  
+#### 4.1.2. Web Style Guidelines  
 
 A continuación se presenta la sección 4.1.2 Web Style Guidelines preparada para incluir en el informe de Aura Neuro. Está redactada en formato Markdown y lista para pegar en tu documento. Contiene directrices de diseño visual, experiencia de usuario, accesibilidad, rendimiento y consideraciones de implementación web para mantener coherencia en la interfaz pública y en el área de usuarios autenticados.  
 
@@ -1275,10 +1290,10 @@ El texto de la plataforma debe mantener un lenguaje profesional, claro y empáti
 - Usar naming convention CSS (BEM o utility-first con Tailwind) coherente en el proyecto.  
   
 
-## 4.2 Information Architecture  
+### 4.2. Information Architecture  
 A continuación se describen las decisiones y directrices para la arquitectura de la información de Aura Neuro (plataforma de neurología digital con IoT y telemedicina). Cada apartado está orientado a que el informe quede listo para implementación: estructura de contenido, etiquetado, accesibilidad, y recomendaciones SEO/meta tags cuidando la privacidad médica.  
 
-### 4.2.1 Organization Systems  
+#### 4.2.1. Organization Systems  
 **Estructura jerárquica (sitemap lógico)**  
 
 La plataforma se organiza en dos grandes dominios: Front (Landing / Marketing) y App (Usuarios autenticados: Pacientes / Médicos / Admins).  
@@ -1348,7 +1363,8 @@ La plataforma se organiza en dos grandes dominios: Front (Landing / Marketing) y
 - Todas las páginas que contienen PHI (Protected Health Information) deben llevar X-Robots-Tag: noindex y/o <meta name="robots" content="noindex, noarchive">.  
 
 - Landing y páginas informativas públicas deben ser indexables y optimizadas para búsqueda.  
-### 4.2.2 Labeling Systems  
+
+#### 4.2.2. Labeling Systems  
 **Principios de etiquetado**  
 
 **Consistencia:** mismas etiquetas para la misma función en toda la app (ej. “Historial” = siempre “Historial de episodios”).  
@@ -1396,7 +1412,8 @@ Convenciones de nomenclatura (UI)
 - Textos alternativos (alt) para imágenes y gráficos (ej. alt="Gráfica de actividad cerebral: 7 días").  
 
 - Formularios con mensajes de error descriptivos y foco en primer campo inválido.  
-### 4.2.3 SEO Tags and Meta Tags  
+
+#### 4.2.3. SEO Tags and Meta Tags  
 A continuación se presenta la sección 4.2.3 SEO Tags and Meta Tags lista para incluir en el informe, en formato Markdown. Incluye explicación, recomendaciones, ejemplos de meta tags para la landing y otras páginas, JSON-LD (schema.org), robots.txt y notas de privacidad.  
 
 **Objetivo**  
@@ -1436,7 +1453,8 @@ Definir los meta tags y las prácticas SEO mínimas para la parte pública de la
 - Seguridad: CSP, HSTS, cabeceras que prevengan exposición accidental de datos.  
 
 - Monitoring: auditar regularmente lo que aparece indexado (Search Console / Bing Webmaster) para detectar exposición accidental.  
-### 4.2.4 Searching Systems 
+
+#### 4.2.4. Searching Systems  
 
 El sistema integral de neurología digital incorporará un módulo de búsqueda y localización en tiempo real, cuya finalidad es permitir tanto a pacientes como a médicos identificar la disponibilidad de dispositivos médicos conectados y profesionales de la salud en la red. Este componente se constituye como un elemento esencial de la plataforma, ya que asegura la eficiencia en la localización de recursos médicos y optimiza el uso de la flota de dispositivos IoT disponibles.  
 
