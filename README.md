@@ -832,21 +832,84 @@ Su objetivo es contribuir al desarrollo de dispositivos IoT accesibles y validad
 
 - 2.2.3 Análisis de entrevistas  
 
-**Segmento #1: Pacientes con enfermedades neurológicas crónicas**  
+### Segmento #1: Pacientes con enfermedades neurológicas crónicas
 
-Las entrevistas con Cesar Aaron Cornejo y Xin Yu Shi Lin revelan que los pacientes y cuidadores de personas con enfermedades neurológicas enfrentan desafíos importantes relacionados con la imprevisibilidad de las crisis, la dificultad de transmitir con precisión los síntomas a los profesionales de la salud y la falta de herramientas que registren datos objetivos en la vida diaria. Ambos entrevistados coincidieron en que los controles médicos periódicos resultan insuficientes para reflejar la realidad cotidiana de los pacientes, lo que genera sentimientos de inseguridad, frustración y ansiedad tanto en ellos como en sus familias.  
+Las entrevistas con César Aaron Cornejo (21 años) y Xin Yu Shi Lin (25 años) muestran que la imprevisibilidad de las crisis epilépticas es la principal preocupación, generando ansiedad en el 100% de los pacientes entrevistados y afectando también a sus familias.
 
-Cesar señaló que la imposibilidad de anticipar sus crisis epilépticas genera miedo y limita su independencia, mientras que Xin Yu Shi Lin compartió que la preocupación constante por posibles caídas o episodios de rigidez de su hermana impacta directamente en su calidad de vida como cuidador. Ambos destacaron que los registros manuales o verbales actuales no son efectivos para apoyar decisiones clínicas.  
+El 100% de los pacientes indicó que actualmente depende de registros manuales en cuadernos o apuntes, los cuales consideran incompletos e inexactos, ya que olvidan registrar información importante (hora, duración, síntomas o desencadenantes de las crisis). Esto limita la calidad de la información que los médicos reciben.
 
-Entre las mejoras propuestas, se resaltan:  
+El 100% manifestó interés en una aplicación móvil confiable que permita consultar:  
+- Registros digitales de crisis.  
+- Estadísticas y gráficos claros.  
+- Recordatorios de medicación.  
 
-- **Implementar plataformas digitales con recolección de datos en tiempo real** sobre episodios, calidad del sueño y niveles de actividad, que permitan anticipar crisis o detectar anomalías.  
-- **Alertas automáticas para familiares y cuidadores**, que brinden tranquilidad y apoyo inmediato en caso de emergencias.  
-- **Reportes visuales claros y confidenciales para médicos**, que faciliten el ajuste de tratamientos y mejoren la comunicación entre pacientes, cuidadores y profesionales de la salud.  
+Asimismo, el 100% resaltó la utilidad de alertas tempranas basadas en IoT para anticipar crisis o anomalías fisiológicas.  
 
-Los desafíos para implementar estas soluciones incluyen la aceptación de dispositivos IoT por parte de los pacientes, quienes priorizan la comodidad, la no invasividad y la facilidad de uso. También se destacó la importancia de garantizar la confidencialidad de los datos y de que la información recopilada se utilice exclusivamente con fines médicos.  
+Respecto a dispositivos, el 100% expresó confianza en wearables como Garmin y Fitbit. Además, el 50% (Xin) estaría dispuesto a probar sensores implantables, siempre que sean seguros y validados médicamente.  
 
-En conclusión, los entrevistados coincidieron en que contar con una plataforma IoT integrada y confiable podría marcar una diferencia significativa en sus vidas, al brindar seguridad, apoyo continuo y una mejor comunicación con el equipo médico. Este tipo de solución no solo reduciría la ansiedad y la incertidumbre en la vida diaria, sino que también mejoraría la calidad del tratamiento y la prevención de complicaciones.  
+En cuanto a habilidades digitales, el 100% se considera con competencias básicas o intermedias en el uso de smartphones y laptops, lo que exige que la interfaz de la solución sea simple y accesible.  
+
+Un 50% de los entrevistados mencionó haber buscado apoyo en **comunidades online** (Asociación Peruana de Epilepsia, grupos de Facebook), destacando la importancia de la interacción social y emocional además del control médico.
+
+**Patrones comunes identificados:**
+- Necesidad de **registros automáticos** que reemplacen los manuales.  
+- Demanda de **alertas tempranas** de crisis.  
+- Preocupación por la seguridad de los datos personales.  
+
+**Conclusión:**  
+Este segmento evidencia que **Mythicore** puede mejorar la calidad de vida de los pacientes al ofrecer un sistema de monitoreo confiable, accesible y conectado con la historia clínica, brindando independencia y tranquilidad tanto al paciente como a su familia.  
+
+---
+
+### Segmento #2: Profesionales de la salud
+
+Las entrevistas con Karen Guadalupe Villanueva Castillo (27 años, neuróloga) y Nicol Buendía (26 años, terapeuta) reflejan que los profesionales de la salud enfrentan limitaciones en el seguimiento de sus pacientes, debido a la falta de registros continuos y objetivos.  
+
+El 100% de los entrevistados señaló que actualmente depende de **información proporcionada por el paciente** (cuadernos, recuerdos, comentarios familiares), lo que no siempre es confiable ni suficiente para un diagnóstico certero.  
+
+El 100% considera muy útil una plataforma que integre registros de crisis, calidad del sueño y datos biométricos en tiempo real. Además, el 100% señaló que el acceso a esta información mediante una aplicación web conectada a la nube agilizaría la toma de decisiones y reduciría la necesidad de visitas presenciales.  
+
+En cuanto a confianza en herramientas, el **100%** coincidió en que los softwares clínicos como **Epic y Cerner** son estándares confiables. Mientras que para dispositivos IoT, mencionaron marcas como **Medtronic, Empatica, Rehametrics y NeuroPace**, que cuentan con respaldo científico.  
+
+Respecto a **comunidades profesionales**, el **100%** indicó seguir organizaciones internacionales como la **ILAE**, la **American Academy of Neurology (AAN)** y la **WFNR**.  
+
+El **100%** visualiza que la integración de IoT y plataformas digitales permitirá una neurología **más preventiva, personalizada y eficiente**.  
+
+**Patrones comunes identificados:**
+- Limitaciones en el seguimiento por falta de datos continuos.  
+- Alta valoración de plataformas digitales integradas con IoT.  
+- Confianza en software clínico y dispositivos con certificación médica.  
+- Necesidad de acceso remoto a la información.  
+
+**Conclusión:**  
+Este segmento muestra que **Mythicore** responde a una necesidad real del sector salud: ofrecer **datos continuos y objetivos** que mejoren diagnósticos, optimicen tratamientos y reduzcan hospitalizaciones, impactando positivamente en la eficiencia del sistema sanitario.  
+
+---
+
+### Segmento #3: Proveedores de dispositivos IoT
+
+Las entrevistas con **Carlos Paredes (32 años, ingeniero en telecomunicaciones)**, **Eduardo Gabriel Díaz Veliz (27 años, ingeniero electrónico)** y **Jesús Antonio Manrique Meza (30 años, ingeniero biomédico)** muestran que los proveedores IoT enfrentan retos de **interoperabilidad, seguridad de datos y usabilidad** en la integración de sus soluciones con plataformas médicas.  
+
+El **100% de los entrevistados** utiliza software especializado para la gestión de datos recolectados por sus dispositivos, aunque el **67%** señaló que la integración con plataformas hospitalarias sigue siendo limitada.  
+
+Respecto a navegadores y acceso administrativo, el **100%** trabaja principalmente con **Google Chrome** por su compatibilidad.  
+
+En cuanto a métodos de autenticación, el **100%** afirmó usar **correo institucional y autenticación en dos pasos**, y el **67%** también emplea **biometría** en sistemas avanzados.  
+
+En marcas y dispositivos, el **100%** coincidió en confiar en **Empatica y NeuroSky** para EEG portátiles, y mencionaron avances de **Fitbit Health Solutions** aplicados a la neurología.  
+
+El **100%** destacó que el futuro de las soluciones IoT está en la integración con plataformas digitales que permitan **monitoreo continuo, análisis en la nube y reportes en tiempo real**, siempre garantizando la **seguridad y privacidad de los datos**.  
+
+**Patrones comunes identificados:**
+- Necesidad de **estándares de interoperabilidad** entre IoT y software médico.  
+- Alta preocupación por la **seguridad de datos sensibles**.  
+- Valoración de **dispositivos certificados y validados** para uso clínico.  
+- Interés en la expansión hacia un modelo de **monitoreo remoto global**.  
+
+**Conclusión:**  
+Este segmento confirma que **Mythicore** puede posicionarse como una plataforma que une a proveedores IoT con profesionales de la salud, ofreciendo un entorno **seguro, interoperable y escalable**, clave para la adopción global de soluciones digitales en neurología.  
+
+---
 
 ## 2.3 Needfinding
 - 2.3.1 User Personas  
