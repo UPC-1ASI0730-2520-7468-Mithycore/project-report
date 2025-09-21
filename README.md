@@ -544,8 +544,7 @@ El Big Picture Event Storming es una técnica colaborativa que nos permitió vis
 
 ## 2.5 Ubiquitous Language  
 
-Este glosario define los términos clave que usamos en el proyecto para mantener un **lenguaje común** entre el equipo de desarrollo, los médicos especialistas y los demás stakeholders.  
-Todos los términos están en **inglés** (con su equivalente en español entre paréntesis) y las definiciones en **español**, cumpliendo con la rúbrica del curso y los lineamientos de Domain-Driven Design (Eric Evans).  
+Este glosario define los términos clave que usamos en el proyecto para mantener un **lenguaje común** entre el equipo de desarrollo, los médicos especialistas y los demás stakeholders.    
 
 | Term (English) | Definición (Español) |
 |----------------|-----------------------|
