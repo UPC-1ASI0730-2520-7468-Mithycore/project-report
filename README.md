@@ -467,11 +467,13 @@ User Persona – Segmento 1: Paciente(epilepsia crónica):
 
 ![User Persona - Paciente](img/userperson-segmentopaciente.png)
 
-NEUROPSICÓLOGO:
+User Persona - Segmento 2: Profesionales de la salud(neurólogos):
 
-![User Persona - Neuropsicólogo](img/USER%20PERSONA-NEUROPSICOLOGO.png)
+![User Persona - Neuropsicólogo](img/userperson-segmentoprofesional.png)
 
+User Persona - Segmento 3: Proveedores IoT:
 
+![User Persona - Neuropsicólogo](img/userperson-segmentoproovedor.png)
 
 - 2.3.2 User Task Matrix  
 
