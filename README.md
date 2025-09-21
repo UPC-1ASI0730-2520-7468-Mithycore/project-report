@@ -33,15 +33,21 @@
 ---
 
 ## Registro de Versiones del Informe
-| Versión | Fecha | Autor | Descripción |
-|---------|-------|-------|-------------|
-| 0.1     | 2025-09-13 | Equipo Mythicore | Versión inicial del README.md con capítulos I–V |
+| Versión | Fecha       | Autor            | Descripción                                   |
+|---------|-------------|------------------|-----------------------------------------------|
+| 0.1.0   | 2025-09-13  | Equipo Mythicore | Versión inicial del informe con capítulos I–V |
 
 ---
 
 ## Project Report Collaboration Insights
-📌 URL del repositorio: https://github.com/upc-2025-1asi0730-MithyCore/project-report
-📌 Evidencia de commits y colaboración (capturas y explicación).  
+
+**Repositorio:** [https://github.com/upc-2025-1asi0730-MithyCore/project-report](https://github.com/upc-2025-1asi0730-MithyCore/project-report)  
+
+### Evidencias de colaboración (se adjuntarán al final)
+- Historial de **commits** en GitHub (con convenciones de mensajes).  
+- Capturas de **pull requests** revisados y aprobados.  
+- Registro de **issues** cerrados en el tablero (Jira/Trello).  
+- Ejemplo de **tag de release** en el repositorio.  
 
 ---
 
