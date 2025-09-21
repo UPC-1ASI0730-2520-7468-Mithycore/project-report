@@ -62,7 +62,10 @@ En esta vista se observa la cantidad de commits realizados, junto con el balance
 ### Historial de actividad del repositorio  
 
 <div align="center">
-  <img src="img/commits.png" alt="Historial de commits en el repositorio" width="700px"/>
+  <img src="img/activy1.png" alt="Historial de commits en el repositorio" width="700px"/>
+</div> 
+<div align="center">
+  <img src="img/activy2.png" alt="Historial de commits en el repositorio" width="700px"/>
 </div>  
 
 ---
