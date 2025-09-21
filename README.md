@@ -592,8 +592,71 @@ NEUROPSICÓLOGO:
 # Capítulo IV: Product Design
 
 ## 4.1 Style Guidelines
-- 4.1.1 General Style Guidelines  
-- 4.1.2 Web Style Guidelines  
+### 4.1.1 General Style Guidelines  
+
+**Branding**
+
+El logo de Aura Neuro sintetiza la esencia de innovación y confianza en el cuidado neurológico remoto. La tipografía moderna en verde vital y negro sólido refleja equilibrio entre salud, tecnología y profesionalismo.  
+
+El concepto de “aura” transmite cercanía y bienestar, mientras que “neuro” refuerza el enfoque científico en el sistema nervioso.  
+La simplicidad del diseño asegura legibilidad en cualquier soporte digital o físico, desde dispositivos móviles hasta presentaciones clínicas.  
+
+El conjunto proyecta confianza médica, innovación tecnológica y humanización de la salud digital.  
+
+![Logo](./img/PaletaColores/Logo.png)  
+![Logo](./img/PaletaColores/LogoFondoBlanco.png)  
+
+
+**Variantes de logo**  
+
+Logo original → Verde + negro sobre fondo blanco (uso principal en web).  
+![Logo](./img/PaletaColores/Logo.png)  
+
+Logo invertido → Blanco sobre fondo negro/azul (para headers o footers oscuros).  
+![Logo](./img/PaletaColores/LogoFondoBlanco.png)  
+
+Logo minimal → Solo “Aura” o solo el ícono (para favicon y apps móviles).  
+
+**Typography**  
+
+La tipografía de Aura Neuro debe transmitir tecnología, claridad y accesibilidad.  
+Se recomienda usar fuentes sans-serif limpias que comuniquen modernidad y precisión científica:  
+
+- Fuente principal: Poppins o Inter (para títulos y subtítulos).  
+
+- Poppins Bold en H1 (ej. “La neurología a distancia ya está aquí”).  
+
+- Poppins Medium en H2.  
+
+- Fuente secundaria: Roboto (para cuerpo de texto).  
+
+- Roboto Regular en descripciones.  
+
+- Roboto Light en textos secundarios.  
+
+- El contraste de peso permite jerarquizar fácilmente la información sin saturar la interfaz.  
+
+El lenguaje debe ser profesional pero cercano, evitando tecnicismos innecesarios y usando un tono tranquilo y confiable, ideal para pacientes y médicos.  
+
+**Paleta de colores**  
+La paleta de Aura Neuro combina la confianza médica con la innovación tecnológica:  
+![PaletaColores](./img/PaletaColores/PaletaColores.png)  
+
+### 4.1.2 Web Style Guidelines  
+
+El sistema integral de neurología digital incorporará un módulo de búsqueda y localización en tiempo real, cuya finalidad es permitir tanto a pacientes como a médicos identificar la disponibilidad de dispositivos médicos conectados y profesionales de la salud en la red. Este componente se constituye como un elemento esencial de la plataforma, ya que asegura la eficiencia en la localización de recursos médicos y optimiza el uso de la flota de dispositivos IoT disponibles.  
+
+En primer lugar, la plataforma contará con un sistema de geolocalización en tiempo real. Cada dispositivo IoT, como sensores EEG portátiles, medidores de sueño o cascos de estimulación neurológica, transmitirá de manera constante su ubicación y los datos registrados hacia la plataforma central. De manera complementaria, los profesionales de la salud podrán habilitar su disponibilidad geolocalizada para consultas presenciales o híbridas, lo que garantiza un acceso más ágil y preciso a los servicios médicos.  
+
+En la aplicación móvil, los usuarios dispondrán de un mapa interactivo que mostrará la ubicación de los dispositivos médicos disponibles para préstamo o uso clínico, así como la localización de centros de salud asociados y de profesionales cercanos diferenciados por especialidad. Este diseño asegura que la información sea presentada de forma clara, visual y accesible, facilitando la toma de decisiones en tiempo real.  
+
+El sistema también integrará filtros de búsqueda avanzada que permitirán a los usuarios seleccionar según sus necesidades específicas. Entre estos criterios se incluirán el tipo de servicio requerido (consulta virtual, presencial o híbrida), la disponibilidad de dispositivos IoT como cascos EEG o wearables de monitoreo, la especialidad médica solicitada y la proximidad en relación con la ubicación actual del paciente. Estos filtros contribuyen a personalizar la experiencia de búsqueda y a agilizar el proceso de acceso a la atención.  
+
+Una vez identificado el dispositivo o servicio, el usuario podrá seleccionarlo directamente en la aplicación y proceder a una reserva inmediata, recibiendo confirmación automática junto con las indicaciones necesarias para el uso del equipo o la consulta médica. Este mecanismo asegura rapidez y simplicidad en la interacción, factores determinantes para mejorar la experiencia de los pacientes.  
+
+Finalmente, el sistema también contempla una optimización para empresas o instituciones educativas que adquieran suscripciones corporativas. En estos casos, el módulo de búsqueda permitirá a los empleados o estudiantes visualizar la disponibilidad de dispositivos médicos en oficinas o campus, acceder a médicos asociados en horarios de mayor demanda y garantizar la planificación de consultas grupales o chequeos preventivos.  
+
+En conjunto, este enfoque convierte al módulo de búsqueda en un componente clave para la medicina personalizada y preventiva, ya que no solo facilita la localización de recursos en tiempo real, sino que también mejora la accesibilidad a especialistas y fomenta un uso más eficiente de la infraestructura tecnológica disponible.  
 
 ## 4.2 Information Architecture
 - 4.2.1 Organization Systems  
