@@ -1677,7 +1677,7 @@ Este diagrama modela el proceso de **registro, autenticación y gestión de sesi
 Incluye las clases principales `Usuario`, `Sesion` y las interfaces de autenticación (`AuthProvider`).  
 Se utiliza la enumeración `EstadoUsuario` para controlar el estado de la cuenta.  
 
-![Identity & Access](identity.png)
+![Identity & Access](img/identity.png)
 
 ---
 
@@ -1685,7 +1685,7 @@ Se utiliza la enumeración `EstadoUsuario` para controlar el estado de la cuenta
 Este diagrama representa la **gestión de perfiles de usuario** y sus preferencias de notificación.  
 Incluye la clase `Perfil`, que se relaciona con `Preferencias` y las enumeraciones `Genero` y `CanalNotificacion`.  
 
-![Profiles & Preferences](preferences.png)
+![Profiles & Preferences](img/preferences.png)
 
 ---
 
@@ -1693,7 +1693,7 @@ Incluye la clase `Perfil`, que se relaciona con `Preferencias` y las enumeracion
 Este diagrama modela la integración con **dispositivos IoT** (wearables, EEG, EMG) y la recolección de señales biométricas.  
 La clase `Dispositivo` se relaciona con `SeñalBiometrica`, y se utiliza la enumeración `TipoDispositivo` para clasificar el hardware.  
 
-![IoT & Biometrics](iot.png)
+![IoT & Biometrics](img/iot.png)
 
 ---
 
@@ -1701,7 +1701,7 @@ La clase `Dispositivo` se relaciona con `SeñalBiometrica`, y se utiliza la enum
 Este diagrama representa el flujo de la **telemedicina**, con clases que gestionan las citas (`Cita`), salas virtuales (`Sala`) y mensajería instantánea (`MensajeChat`).  
 Se incluye la enumeración `EstadoCita` para el ciclo de vida de la consulta.  
 
-![Telemedicine](telemedicine.png)
+![Telemedicine](img/telemedicine.png)
 
 ---
 
@@ -1710,7 +1710,7 @@ Este diagrama describe la gestión de **planes de suscripción y pagos**.
 Las entidades principales son `Suscripcion`, `Plan` y `Pago`, relacionadas con la pasarela de pago (`PasarelaPago`).  
 Se emplean las enumeraciones `EstadoSuscripcion`, `EstadoPago` y `MetodoPago`.  
 
-![Subscriptions & Payments](suscripciones.png)
+![Subscriptions & Payments](img/suscripciones.png)
 
 ---
 
@@ -1718,7 +1718,7 @@ Se emplean las enumeraciones `EstadoSuscripcion`, `EstadoPago` y `MetodoPago`.
 El diagrama de **notificaciones** modela cómo se generan, envían y marcan como entregadas o fallidas las alertas al usuario.  
 Se incluyen las clases `Notificacion`, `ServicioCorreo` y `SMTPProvider`, junto con las enumeraciones `Canal` y `EstadoEnvio`.  
 
-![Notifications](notificaciones.png)
+![Notifications](img/notificaciones.png)
 
 ---
 
@@ -1727,7 +1727,7 @@ Este diagrama muestra el uso de **IA y reglas de detección de anomalías**.
 Incluye las clases `MotorIA`, `Regla`, `EventoAnomalia` y `Alerta`.  
 La severidad de los eventos se gestiona con la enumeración `NivelSeveridad`.  
 
-![Analytics & Alerting](alerting.png)
+![Analytics & Alerting](img/alerting.png)
 
 ---
 
@@ -1735,7 +1735,7 @@ La severidad de los eventos se gestiona con la enumeración `NivelSeveridad`.
 Este diagrama representa la integración con sistemas clínicos externos vía **FHIR**.  
 Se definen las clases `FHIRAdapter`, `Observacion` y `PacienteRef`, junto con la enumeración `TipoObservacion` (ej. frecuencia cardiaca, saturación, sueño).  
 
-![EHR/FHIR Adapter](adapter.png)
+![EHR/FHIR Adapter](img/adapter.png)
 
 ---
 
