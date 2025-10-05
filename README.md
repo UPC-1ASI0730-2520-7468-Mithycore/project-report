@@ -35,7 +35,14 @@
 ## Registro de Versiones del Informe
 | Versión | Fecha       | Autor            | Descripción                                   |
 |---------|-------------|------------------|-----------------------------------------------|
-| 0.1.0   | 2025-09-13  | Equipo Mythicore | Versión inicial del informe con capítulos I–V |
+| 0.1.0   | 2025-09-13  | Juan Meza        | Creación del diseño de entrevistas            |
+| 0.2.0   | 2025-09-13  | Juan Meza        | Creación del registro de entrevistas          |
+| 0.3.0   | 2025-09-13  | Juan Meza        | Creación del analisis de entrevistas          |
+| 0.1.0   | 2025-09-14  | Juan Meza        | Information Architecture                      |
+| 0.1.0   | 2025-09-  |         | Creación de entrevistas                       |
+| 0.1.0   | 2025-09-  |         | Creación de entrevistas                       |
+| 0.1.0   | 2025-09-  |         | Creación de entrevistas                       |
+| 0.1.0   | 2025-09-  |         | Creación de entrevistas                       |
 
 ---
 
