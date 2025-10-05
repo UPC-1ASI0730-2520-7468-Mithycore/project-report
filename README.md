@@ -592,6 +592,7 @@ Muchas gracias por tu tiempo hoy. Tu opinión y las ideas que compartiste nos ay
 - **Sexo:** Masculino  
 - **Edad:** 21  
 - **Estado Civil:** Soltero
+- **Residencia:** Lima - San Juan de Lurigancho  
 - **Link:** [Entrevista Aaron](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EZxZ3WlYjT1Cp7yqP_OKdSIBRR0IFKAnrzwQjBEJNXY9YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=j1Yf0B)
 - **Condición:** Paciente diagnosticado con epilepsia  
 
@@ -606,7 +607,8 @@ En cuanto a tecnologías de monitoreo, se muestra abierto al uso de **wearables*
 
 Finalmente, menciona que ha participado en comunidades online como foros de la **Epilepsy Foundation** o grupos de Facebook sobre epilepsia, los cuales le han ayudado a sentirse acompañado. Afirma que el uso de estas herramientas digitales le daría mayor independencia y mejoraría la calidad de vida tanto para él como para su familia.  
 
-- **Duración:** 4 minutos con 21 segundos
+- **Inicio de la entrevista:** 0:10
+- **Fin de la entrevista:** 4:21 
 
 ---
 
@@ -635,6 +637,7 @@ Finalmente, menciona que ha participado en comunidades online como foros de la *
 - **Sexo:** Masculino  
 - **Edad:** 25  
 - **Estado Civil:** Soltero
+- **Residencia:** Lima - Perú
 - **Link:** [Entrevista Xin](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320442_upc_edu_pe/EVgqZffZGQtFmtniG8D9sCMBK5K39T_bMbQSLhM_WlAlsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h8BhtU)
 - **Condición:** Paciente diagnosticado con epilepsia  
 
@@ -649,7 +652,8 @@ En cuanto al uso de dispositivos IoT, señala que estaría dispuesto a emplear r
 
 Además, Xin comenta que participa en comunidades de apoyo, como grupos de Facebook y la **Asociación Peruana de Epilepsia**, lo cual le ha permitido compartir experiencias y recibir consejos útiles de otros pacientes. En cuanto a habilidades digitales, se describe con un nivel básico en smartphones y medio en el uso de laptops, destacando que está muy familiarizado con aplicaciones de mensajería como WhatsApp y SMS.  
 
-- **Duración:** 4 minutos con 22 segundos  
+- **Inicio de la entrevista:** 0:05
+- **Fin de la entrevista:** 4:22 
 
 ---
 
@@ -695,7 +699,8 @@ Señaló que poder acceder a los datos de sus pacientes desde una aplicación we
 
 Respecto al impacto de estas herramientas digitales en el sistema de salud, considera que permitirían reducir costos, prevenir hospitalizaciones innecesarias y optimizar recursos en casos críticos. Finalmente, proyecta que el futuro de la neurología con IoT y plataformas digitales será **más preventivo y personalizado**, con monitoreo 24/7 que permita ajustar tratamientos en tiempo real.  
 
-- **Duración:** 6 minutos con 58 segundos 
+- **Inicio de la entrevista:** 0:04
+- **Fin de la entrevista:** 6:58
 
 ---
 
@@ -722,7 +727,8 @@ Respecto al impacto de estas herramientas digitales en el sistema de salud, cons
 - **Sexo:** Femenino  
 - **Edad:** 26  
 - **Estado Civil:** No especificado  
-- **Profesión:** Terapeuta en rehabilitación neurológica  
+- **Profesión:** Terapeuta en rehabilitación neurológica
+- **Residencia:** Lima - Perú     
 - **Link:** [Entrevista Nicol](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/ERy66J4mXqlEjW4IcsmtsVwBdu-vmnMGzi9ZldbU61cQnQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YYQLlB)  
 
 ---
@@ -736,7 +742,8 @@ Nicol confía en soluciones de rehabilitación como **Rehametrics** y **MindMoti
 
 Mencionó que forma parte de comunidades científicas como la **World Federation for NeuroRehabilitation (WFNR)** y la **Sociedad Española de Neurorrehabilitación**, además de capacitarse en cursos y webinars sobre nuevas tecnologías aplicadas a la terapia. Finalmente, destacó que las herramientas digitales permitirían reducir tiempos de hospitalización, mejorar la rehabilitación en casa y avanzar hacia terapias más personalizadas y accesibles.
 
-- **Duración:** 7 minutos con 50 segundos  
+- **Inicio de la entrevista:** 0:33
+- **Fin de la entrevista:** 7:50 
 
 ---
 
@@ -765,7 +772,8 @@ Mencionó que forma parte de comunidades científicas como la **World Federation
 - **Sexo:** Masculino  
 - **Edad:** 32  
 - **Estado Civil:** Soltero  
-- **Profesión:** Ingeniero electrónico – Proveedor de soluciones IoT  
+- **Profesión:** Ingeniero electrónico – Proveedor de soluciones IoT
+- **Residencia:** Lima - Perú     
 - **Link:** [Entrevista Carlos](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EabaC7sEU_9GrDDU69Xv9owBK49d_g1TTHwcW7RoBKtmZg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CKbOGC)  
 
 ---
@@ -781,7 +789,8 @@ En cuanto a habilidades, dijo sentirse altamente competente en **protocolos IoT 
 
 Su **objetivo principal** es lograr que las soluciones IoT se integren de forma fluida con historias clínicas electrónicas y plataformas de telemedicina, para que los médicos tengan información confiable y continua sin sobrecargar al paciente.  
 
-- **Duración:** 8 minutos con 15 segundos  
+- **Inicio de la entrevista:** 0:09
+- **Fin de la entrevista:** 13:09 
 
 ---
 
@@ -808,7 +817,8 @@ Su **objetivo principal** es lograr que las soluciones IoT se integren de forma 
 - **Sexo:** Masculino  
 - **Edad:** 27  
 - **Estado Civil:** Soltero  
-- **Profesión:** Ingeniero de telecomunicaciones – Desarrollador de soluciones IoT para salud  
+- **Profesión:** Ingeniero de telecomunicaciones – Desarrollador de soluciones IoT para salud
+- **Residencia:** Lima - San Borja    
 - **Link:** [Entrevista Eduardo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EYkNwKwupDNBubgFbxYToRcBjpdK5VuueGVGPPJ4TGq2NA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=eZbHLJ)  
 
 ---
@@ -824,7 +834,8 @@ En cuanto a **skills**, Eduardo domina el diseño de redes IoT con **LoRaWAN, 4G
 
 Su **objetivo** es lograr que las soluciones IoT puedan ser implementadas en hospitales públicos de bajo presupuesto, garantizando accesibilidad y escalabilidad sin perder calidad en la información recolectada.  
 
-- **Duración:** 7 minutos con 40 segundos  
+- **Inicio de la entrevista:** 0:10
+- **Fin de la entrevista:** 4:47   
 
 ---
 
@@ -851,7 +862,8 @@ Su **objetivo** es lograr que las soluciones IoT puedan ser implementadas en hos
 - **Sexo:** Masculino  
 - **Edad:** 30  
 - **Estado Civil:** Soltero  
-- **Profesión:** Ingeniero electrónico – Especialista en desarrollo de hardware IoT para salud  
+- **Profesión:** Ingeniero electrónico – Especialista en desarrollo de hardware IoT para salud
+- **Residencia:** Lima - San Borja   
 - **Link:** [Entrevista Jesús](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/Ed8tDkB2EAZDvApUbhk1InsB0V6tVOvnhvWsGZ-6EWsAQQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Kh4w0E)  
 
 ---
@@ -867,7 +879,8 @@ En cuanto a **skills**, domina el diseño de PCBs, programación en **C/C++ y Py
 
 Su objetivo es contribuir al desarrollo de dispositivos IoT accesibles y validados clínicamente, que puedan integrarse a plataformas como **Mithycore** para apoyar el seguimiento de pacientes neurológicos en tiempo real y reducir las hospitalizaciones.  
 
-- **Duración:** 6 minutos 36 segundos
+- **Inicio de la entrevista:** 0:04
+- **Fin de la entrevista:** 6:36 
 
 ---
 
