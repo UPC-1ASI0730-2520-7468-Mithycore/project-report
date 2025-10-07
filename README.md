@@ -39,10 +39,10 @@
 | 0.2.0   | 2025-09-13  | Juan Meza        | Creación del registro de entrevistas          |
 | 0.3.0   | 2025-09-13  | Juan Meza        | Creación del analisis de entrevistas          |
 | 0.1.0   | 2025-09-14  | Juan Meza        | Information Architecture                      |
-| 0.1.0   | 2025-09-  |         | Creación de entrevistas                       |
-| 0.1.0   | 2025-09-  |         | Creación de entrevistas                       |
-| 0.1.0   | 2025-09-  |         | Creación de entrevistas                       |
-| 0.1.0   | 2025-09-  |         | Creación de entrevistas                       |
+| 0.4.0 | 2025-10-03 | Fabricio Fabián Quispe Barzola | Revisión y corrección del capítulo 1 (Introducción, Solution Profile y Segmentos Objetivos) según el Project Statement. |
+| 0.5.0 | 2025-10-04 | Fabricio Fabián Quispe Barzola | Redacción completa de las secciones 1.2.2 Lean UX Process (Problem Statements, Assumptions, Hypotheses y Canvas). |
+| 0.6.0 | 2025-10-05 | Fabricio Fabián Quispe Barzola | Desarrollo de las secciones de Needfinding (User Personas, User Task Matrix, User Journey Mapping y Empathy Mapping) con imágenes UXPressia. |
+| 0.7.0 | 2025-10-06 | Fabricio Fabián Quispe Barzola | Elaboración del Big Picture EventStorming, Ubiquitous Language y revisión integral de cumplimiento con la rúbrica del Project Statement. |
 
 ---
 
