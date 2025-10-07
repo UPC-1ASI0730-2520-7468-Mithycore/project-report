@@ -272,38 +272,29 @@ Esto genera **falta de continuidad en la atención**, **diagnósticos tardíos**
 
 #### 1.2.2. Lean UX Process  
 
-##### 1.2.2.1. Lean UX Problem Statements  
+##### 1.2.2.1. Lean UX Problem Statement 
 
-**Domain**  
-Plataforma de salud neurológica digital con IoT, IA y telemedicina, integrada a historias clínicas electrónicas (EHR) y apoyada en un servicio externo gratuito para enriquecer datos clínicos.
-
-**Customer segments**  
-- Pacientes neurológicos y sus cuidadores.  
-- Profesionales de salud (neurólogos, fisioterapeutas, psicólogos clínicos).  
-- Instituciones y aseguradoras que buscan reducir costos y complicaciones.  
-- Centros de investigación y biotecnología interesados en ensayos clínicos.  
-
-**Pain points**  
-- Diagnósticos tardíos por datos intermitentes.  
-- Información dispersa y poco interoperable entre dispositivos y EHR.  
-- Dificultad para evaluar adherencia y ajustar tratamientos a tiempo.  
-- Falta de evidencias objetivas que respalden las decisiones clínicas rápidas.  
-
-**Gap**  
-Las soluciones actuales suelen ofrecer solo piezas aisladas (wearables, teleconsulta o apps), pero no una integración completa de señales neurológicas en tiempo real con analítica de IA, telemedicina y servicios externos relevantes para la práctica clínica.
-
-**Vision / Strategy**  
-Unificar en una plataforma única:  
-1. Captura de señales IoT (EEG, EMG, acelerometría).  
-2. Analítica con IA para detección, predicción y alertas.  
-3. Telemedicina segura entre paciente y médico.  
-4. Registro automático en EHR.  
-5. Enriquecimiento con servicio externo gratuito (ej. ClinicalTrials.gov o RxNorm).  
-
-**Initial segment**  
-- Pacientes con epilepsia atendidos en servicios de neurología hospitalaria, y neurólogos que requieren datos objetivos y alertas predictivas.  
+El **Business Problem Statement** define el desafío central que aborda **Mithycore** a través del proyecto **AuraNeuro**, conforme al formato oficial del *Lean UX Canvas (v2)*.  
+Este artefacto describe el contexto actual del problema, la brecha en el mercado y los indicadores que validarán el éxito del producto.
 
 ---
+
+**Lean UX Problem Statement (Box 1):**
+
+> The current state of **neurological health monitoring** has focused mainly on **occasional clinical evaluations and manual patient reports**, limiting continuous observation and personalized care.  
+> Existing products and services **fail to provide accessible, affordable, and real-time monitoring tools** that connect patients and neurologists effectively.  
+> **AuraNeuro**, developed by **Mithycore**, will address this gap by **integrating IoT-based biosensors with AI analytics** to enable continuous neurological monitoring and data-driven decision-making.  
+> Our initial focus will be on **adult patients (ages 20–65) with diagnosed or potential neurological disorders** who require preventive and adaptive treatment plans.  
+> We’ll know we are successful when we see **early detection of neurological events, reduced hospital readmissions, and improved patient quality of life**.
+
+---
+
+**Traducción (referencial):**  
+> El estado actual del monitoreo neurológico se basa en evaluaciones clínicas esporádicas y reportes manuales, limitando la observación continua.  
+> Los productos existentes no ofrecen herramientas accesibles, asequibles y en tiempo real que conecten de manera efectiva a pacientes y especialistas.  
+> **AuraNeuro**, desarrollado por **Mithycore**, aborda esta brecha mediante la integración de biosensores IoT y analítica de IA para habilitar un monitoreo continuo y decisiones clínicas basadas en datos.  
+> El enfoque inicial son **pacientes adultos (20–65 años)** con trastornos neurológicos diagnosticados o en riesgo.  
+> El éxito se medirá por la **detección temprana de eventos neurológicos, reducción de reingresos hospitalarios y mejora en la calidad de vida**.
 
 ##### 1.2.2.2. Lean UX Assumptions  
 
