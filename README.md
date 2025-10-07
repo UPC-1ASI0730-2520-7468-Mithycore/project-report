@@ -1066,19 +1066,112 @@ Este segmento confirma que **Mithycore** puede posicionarse como una plataforma 
 
 ### 2.3. Needfinding  
 #### 2.3.1. User Personas  
-En esta parte del informe presentamos a los User Personas construidos a partir de entrevistas y análisis de los segmentos objetivo de Mithycore. Estas representaciones ficticias, pero basadas en datos reales, nos permiten comprender mejor cómo piensan, qué esperan y qué problemas enfrentan nuestros usuarios. Con esta información, el equipo puede diseñar una solución alineada a necesidades auténticas y no solo a supuestos.
 
-User Persona – Segmento 1: Paciente(epilepsia crónica):
+En esta sección se presentan los **User Personas** desarrollados en **UXPressia** a partir de entrevistas semiestructuradas y hallazgos de campo de los tres segmentos objetivo de **Mithycore**.  
+Cada persona resume motivaciones, frustraciones y comportamientos observados, funcionando como una herramienta de empatía para orientar las decisiones de diseño y priorización de funcionalidades de **AuraNeuro**.  
+
+---
+
+### 👤 User Persona – Segmento 1: Paciente neurológico (Epilepsia crónica)
 
 ![User Persona - Paciente](img/userperson-segmentopaciente.png)
 
-User Persona - Segmento 2: Profesionales de la salud(neurólogos):
+**Descripción general:**  
+Representa a los pacientes adultos jóvenes con epilepsia que buscan mantener una vida laboral y social estable a pesar de su condición. **Xin Yu Shi Lin**, de 25 años, trabaja en un restaurante (chifa) y sufre episodios epilépticos inesperados que generan preocupación por la seguridad y la continuidad en el trabajo.  
+Carece de un registro estructurado de sus crisis y depende de la memoria o de notas escritas, lo que provoca falta de precisión en la información médica que entrega al neurólogo.  
 
-![User Persona - Neuropsicólogo](img/userperson-segmentoprofesional.png)
+**Principales objetivos:**  
+- Mantener estabilidad laboral y evitar pérdida de ingresos.  
+- Avisar rápidamente a familiares o compañeros en caso de emergencia.  
+- Registrar de manera simple y confiable sus crisis y tratamientos.  
 
-User Persona - Segmento 3: Proveedores IoT:
+**Motivaciones:**  
+- Desea llevar un control más organizado de su enfermedad y sentirse acompañado.  
+- Busca apoyarse en la tecnología para prevenir riesgos y no depender únicamente de su memoria.  
+- Quiere sentirse seguro tanto en casa como en el trabajo, sabiendo que alguien puede asistirlo ante una crisis.  
 
-![User Persona - Neuropsicólogo](img/userperson-segmentoproovedor.png)
+**Frustraciones:**  
+- Dificultad para recordar detalles de las crisis (hora, duración, síntomas).  
+- Miedo a sufrir un episodio en público sin poder pedir ayuda.  
+- Limitada experiencia con aplicaciones de salud o herramientas digitales.  
+
+**Análisis interpretativo:**  
+Este perfil revela la **necesidad central de accesibilidad, simplicidad y acompañamiento**. La experiencia del usuario debe priorizar interfaces claras, recordatorios automáticos y alertas de emergencia en tiempo real.  
+La información recopilada por este tipo de usuarios es fundamental para generar los datos clínicos que luego utilizarán los médicos.  
+Por ello, este persona orienta el diseño de la **app móvil de paciente**: registro rápido de síntomas, historial accesible, notificaciones y comunicación directa con cuidadores.
+
+---
+
+### 🩺 User Persona – Segmento 2: Profesional de la salud (Neuróloga especialista)
+
+![User Persona - Profesional](img/userperson-segmentoprofesional.png)
+
+**Descripción general:**  
+**Karen Guadalupe Villanueva Castillo**, neuróloga de 29 años, representa a los profesionales que buscan herramientas clínicas que integren la información del paciente de manera continua, visual y objetiva.  
+Percibe que los sistemas actuales (HCE/EHR) no se conectan con los dispositivos IoT y que los registros son subjetivos o incompletos.  
+Su trabajo diario en hospital público la enfrenta a limitaciones de tiempo y sobrecarga de pacientes, por lo que valora soluciones que optimicen el seguimiento remoto.  
+
+**Principales objetivos:**  
+- Acceder a datos clínicos continuos y en tiempo real.  
+- Reducir controles presenciales innecesarios.  
+- Tomar decisiones más rápidas y basadas en evidencia objetiva.  
+- Evolucionar hacia una neurología preventiva y personalizada.  
+
+**Motivaciones:**  
+- Incrementar la confianza del paciente mediante evidencia objetiva.  
+- Optimizar el tiempo clínico y los recursos hospitalarios.  
+- Incorporar tecnología validada científicamente y alineada a estándares.  
+
+**Frustraciones:**  
+- Registros médicos subjetivos, incompletos o no actualizados.  
+- Falta de integración entre plataformas clínicas y dispositivos IoT.  
+- Dificultad para analizar grandes volúmenes de datos manualmente.  
+
+**Análisis interpretativo:**  
+Este perfil es clave para el diseño del **panel clínico de AuraNeuro**.  
+La doctora Villanueva representa el usuario que necesita **información fiable, interoperable y visualmente clara**.  
+Su contexto impulsa la integración con estándares **HL7–FHIR**, la generación automática de reportes exportables y el diseño de dashboards con métricas de evolución, adherencia y eventos críticos.  
+También valida la necesidad de incluir filtros, visualizaciones gráficas y alertas inteligentes que reduzcan la carga de revisión manual.
+
+---
+
+### 🤝 User Persona – Segmento 3: Proveedor de dispositivos IoT (Integrador tecnológico)
+
+![User Persona - Proveedor IoT](img/userperson-segmentoproovedor.png)
+
+**Descripción general:**  
+**Carlos Augusto Paredes Chávez**, de 29 años, es un integrador IoT especializado en soluciones biomédicas para neurología.  
+Trabaja conectando wearables multiparámetro con plataformas cloud como **Azure IoT Hub** o **AWS IoT Core** y busca posicionarse en el mercado latinoamericano mediante interoperabilidad con estándares médicos.  
+Percibe que la falta de integración fluida y las certificaciones regulatorias dificultan la expansión del sector IoT en salud.  
+
+**Principales objetivos:**  
+- Impulsar un monitoreo continuo y no invasivo en neurología.  
+- Integrar biometría con plataformas cloud de manera segura.  
+- Aportar datos objetivos y en tiempo real a los clínicos.  
+- Potenciar un modelo de salud digital con servicios remotos.  
+
+**Motivaciones:**  
+- Innovar para lograr independencia y prevención en pacientes.  
+- Lograr interoperabilidad con estándares como **HL7–FHIR**.  
+- Posicionar su empresa en ecosistemas internacionales de salud IoT.  
+
+**Frustraciones:**  
+- Ecosistemas que no integran dispositivos IoT de forma fluida.  
+- Certificaciones y regulaciones complejas para hardware médico.  
+- Dependencia excesiva de apps móviles: si el dispositivo falla, se pierde valor.  
+
+**Análisis interpretativo:**  
+Este perfil representa al **socio tecnológico** de AuraNeuro.  
+Su visión es crucial para definir los requerimientos del **API de integración**, la arquitectura del sistema y la estrategia B2B2C.  
+Las frustraciones de Carlos reflejan la necesidad de ofrecer documentación técnica, entornos de prueba y soporte de estándares internacionales.  
+Gracias a este arquetipo, el equipo puede diseñar una plataforma abierta, segura y escalable que fomente alianzas con proveedores de dispositivos biomédicos.
+
+---
+
+**Conclusión general:**  
+Los tres **User Personas** evidencian una cadena de valor conectada: el **paciente genera datos**, el **médico los interpreta**, y el **proveedor IoT los posibilita** mediante tecnología segura e interoperable.  
+Esta relación circular confirma que AuraNeuro debe diseñarse como un **ecosistema integral**, priorizando la experiencia, la precisión clínica y la sostenibilidad tecnológica.
+
 
 #### 2.3.2. User Task Matrix  
 
