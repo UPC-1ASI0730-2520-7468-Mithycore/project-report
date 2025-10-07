@@ -189,6 +189,12 @@ La información se ampliará en cada entrega (**TB1**, **TP1**, **TB2**, **TF1**
 **Elevator pitch:**  
 AuraNeuro transforma datos obtenidos de dispositivos IoT y wearables en información clínica útil para pacientes neurológicos y sus neurólogos. Permite registrar crisis, hábitos y eventos relevantes, analizando tendencias que facilitan decisiones médicas con foco en adherencia y bienestar.
 
+**Misión**  
+Conectar a pacientes neurológicos, profesionales de la salud y dispositivos IoT a través de una plataforma accesible y segura que convierta los datos biométricos en decisiones clínicas útiles, mejorando la adherencia terapéutica y la calidad de vida.
+
+**Visión**  
+Ser la referencia latinoamericana en soluciones digitales de neuro-salud basadas en datos, integrando IoT, análisis inteligente y diseño inclusivo para transformar la relación entre paciente y médico en un proceso continuo y colaborativo.
+
 **Propuesta de valor por actor**
 - **Pacientes y cuidadores:** registro digital de crisis y síntomas, recordatorios de medicación y visualización de avances en su tratamiento.  
 - **Profesionales de salud:** panel web con métricas de evolución (tendencias de sueño, frecuencia de crisis, adherencia a tratamientos) para optimizar decisiones clínicas.  
