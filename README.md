@@ -2468,6 +2468,22 @@ En el proyecto **AuraNeuro**, se adoptaron convenciones de código para mantener
 - Funciones descriptivas; manejadores con prefijo `onEvent`
 - `"use strict";` al inicio de scripts
 
+## 4. C# (Backend – ASP.NET Core)
+En el desarrollo del backend de AuraNeuro, se empleó C# con el framework ASP.NET Core, siguiendo las convenciones oficiales de Microsoft para mantener un código limpio, modular y mantenible.  
+Estas guías garantizan la consistencia en la estructura de clases, métodos y nomenclatura de archivos dentro del API RESTful del proyecto.
+
+- Naming conventions:
+  - **Classes & Methods:** PascalCase → `PatientController`, `GetAllRecords()`
+  - **Variables & Parameters:** camelCase → `patientId`, `recordList`
+  - **Constants:** UPPER_SNAKE_CASE → `MAX_ATTEMPTS`
+- File organization:
+  - Estructura por capas: *Controllers*, *Models*, *Services*, *Data*
+  - Separación de responsabilidades para mejorar mantenibilidad y testing.
+- Comments:
+  - XML documentation comments (`///`) para describir clases y métodos públicos.
+- Framework guidelines:
+  - Se siguieron las **Microsoft C# Coding Conventions** y las **ASP.NET Core Engineering Guidelines**.
+
 #### 5.1.4. Software Deployment Configuration  
 
 La aplicación se desplegará en la nube mediante:
