@@ -1072,7 +1072,7 @@ Cada persona resume motivaciones, frustraciones y comportamientos observados, fu
 
 ---
 
-### 👤 User Persona – Segmento 1: Paciente neurológico (Epilepsia crónica)
+### User Persona – Segmento 1: Paciente neurológico (Epilepsia crónica)
 
 ![User Persona - Paciente](img/userperson-segmentopaciente.png)
 
@@ -1102,7 +1102,7 @@ Por ello, este persona orienta el diseño de la **app móvil de paciente**: regi
 
 ---
 
-### 🩺 User Persona – Segmento 2: Profesional de la salud (Neuróloga especialista)
+### User Persona – Segmento 2: Profesional de la salud (Neuróloga especialista)
 
 ![User Persona - Profesional](img/userperson-segmentoprofesional.png)
 
@@ -1135,7 +1135,7 @@ También valida la necesidad de incluir filtros, visualizaciones gráficas y ale
 
 ---
 
-### 🤝 User Persona – Segmento 3: Proveedor de dispositivos IoT (Integrador tecnológico)
+### User Persona – Segmento 3: Proveedor de dispositivos IoT (Integrador tecnológico)
 
 ![User Persona - Proveedor IoT](img/userperson-segmentoproovedor.png)
 
