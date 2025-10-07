@@ -2015,7 +2015,7 @@ Se busca que el usuario entienda de manera sencilla el **valor tecnológico** de
 ---
 
 #### Sección Información y Recursos
-![Información](img/landing-information-ingles.png)  
+![Información](img/Landing-information-ingles.png)  
 Incluye recursos adicionales, datos técnicos y explicaciones sobre la integración de la plataforma con servicios médicos externos.  
 Está pensada para usuarios más especializados (profesionales de salud, instituciones médicas) que buscan detalles adicionales antes de adoptar la solución.
 
@@ -2102,7 +2102,7 @@ Los prototipos de escritorio muestran los siguientes flujos clave:
 4. **Interacción con beneficios y servicios**, como la explicación de ventajas para pacientes y para negocios.  
 
 **Screenshot de ejemplo (Desktop):**  
-![Inicio Desktop](img/inicio.png)
+![Inicio Desktop](img/landing-inicio-ingles.png)
 
 Enlace al video de simulación (Microsoft Stream):  
  [Video Prototipo Desktop](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EU3tLSOOMqBKoPOduEP8hT8B5YirLUIadNh7OPgbE-ZeIg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7NroAo)
@@ -2118,7 +2118,7 @@ Los prototipos móviles priorizan la navegación simplificada en pantallas peque
 4. **Sección de contacto optimizada en formulario vertical.**  
 
 **Screenshot de ejemplo (Mobile):**  
-![Inicio Mobile](img/info.png)
+![Inicio Mobile](img/Landing-information-ingles.png)
 
 Enlace al video de simulación (Microsoft Stream):  
  [Video Prototipo Mobile](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EVOCLtICjRlCnIbePhVTKRkBQjhxFgmXg-lHkXVoBIPzgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=r7TzqS) 
@@ -2136,19 +2136,19 @@ Los prototipos presentados corresponden directamente a los **User Flows** defini
 **Screenshots de secciones clave:**
 
 - Quiénes somos  
-  ![Quienes somos](img/quienessomos.png)
+  ![Quienes somos](img/landing-how-ingles.png)
 
 - Acerca de nosotros  
-  ![Acerca de nosotros](img/nosotros.png)
+  ![Acerca de nosotros](img/landing-whos-ingles.png)
 
 - Beneficios  
-  ![Beneficios](img/beneficios.png)
+  ![Beneficios](img/landing-beneficios-ingles.png)
 
 - Cómo funciona  
-  ![Cómo funciona](img/comofunciona.png)
+  ![Cómo funciona](img/landing-works-ingles.png)
 
 - Contacto  
-  ![Contacto](img/sobrenosotros.png)
+  ![Contacto](img/landing-contact-ingles.png)
 
 ---
 
