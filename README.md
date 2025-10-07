@@ -279,7 +279,7 @@ Este artefacto describe el contexto actual del problema, la brecha en el mercado
 
 ---
 
-**Lean UX Problem Statement (Box 1):**
+**Lean UX Problem Statement:**
 
 > The current state of **neurological health monitoring** has focused mainly on **occasional clinical evaluations and manual patient reports**, limiting continuous observation and personalized care.  
 > Existing products and services **fail to provide accessible, affordable, and real-time monitoring tools** that connect patients and neurologists effectively.  
@@ -338,27 +338,69 @@ Durante las siguientes etapas se diseñarán experimentos (Box 8) para **confirm
 
 ---
 
-##### 1.2.2.3. Lean UX Hypothesis Statements  
+### 1.2.2.3. Lean UX Hypothesis Statements (Box 6)
 
-Con base en las suposiciones de negocio, usuario y tecnologia, se formulan las siguientes hipotesis que orientan la validacion del producto AuraNeuro:
+Las **hipótesis** representan afirmaciones medibles que el equipo **Mithycore** formula a partir de las *assumptions* identificadas.  
+Cada hipótesis se redacta siguiendo el formato oficial del *Lean UX 3rd Edition*, con el propósito de validarlas mediante evidencias reales obtenidas durante las próximas iteraciones del proyecto.
 
-**Business Hypotheses**  
-- Si la plataforma ofrece alertas predictivas y logra reducir hospitalizaciones y mortalidad en al menos un 15%, entonces las instituciones de salud adoptaran la solucion. Lo sabremos al comparar indicadores de hospitalizacion antes y despues de la implementacion piloto.  
-- Si integramos un servicio externo de referencia (ej. ClinicalTrials.gov), entonces los medicos percibiran diferenciacion frente a soluciones existentes. Lo sabremos al medir el porcentaje de especialistas que valoran este aspecto en entrevistas y encuestas.  
-- Si ofrecemos un modelo SaaS con costos accesibles (<10 USD por paciente al mes), entonces la plataforma sera sostenible y escalable. Lo sabremos al validar la aceptacion del modelo de pago en pruebas de mercado.  
+---
 
-**User Hypotheses**  
-- Si los pacientes reciben alertas predictivas personalizadas, entonces aumentara su adherencia al tratamiento en al menos un 15%. Lo sabremos al medir el cumplimiento de rutinas dentro de la aplicacion.  
-- Si los medicos disponen de dashboards integrados con datos IoT y servicios externos, entonces incrementara su uso regular de la plataforma. Lo sabremos al registrar la frecuencia de acceso y la duracion de sesiones en pruebas piloto.  
-- Si los pacientes visualizan resultados claros sobre adherencia y evolucion, entonces aumentara su confianza en el sistema. Lo sabremos al medir la satisfaccion mediante encuestas post-uso.  
+#### **Lean UX Hypothesis Statements — AuraNeuro**
 
-**Technical Hypotheses**  
-- Si procesamos señales IoT en la nube con latencia menor a 500 ms en el 95% de las llamadas, entonces garantizaremos una experiencia en tiempo real. Lo sabremos al monitorear las metricas de rendimiento del sistema.  
-- Si la API RESTful integra datos internos y externos de manera estable, entonces la interoperabilidad sera viable. Lo sabremos al medir uptime y tasa de errores durante pruebas de integracion.  
-- Si el servicio externo gratuito mantiene un SLA superior al 90%, entonces podremos garantizar disponibilidad sin costos adicionales. Lo sabremos al registrar la estabilidad del servicio en el periodo de prueba.  
+**a) User Hypothesis**  
+> We believe that **patients with neurological conditions** will use AuraNeuro at least **four times per week** to log symptoms and check alerts.  
+> We will know this is true when we observe **consistent engagement and usage frequency**.  
+> We will measure this by **the number of active sessions and logs per user per week**.
 
-**Conclusion**  
-Estas hipotesis transforman las suposiciones en criterios medibles de exito, abarcando las dimensiones de negocio, usuario y tecnologia. Su validacion permitira reducir riesgos y ajustar la propuesta de AuraNeuro a las necesidades reales del entorno.
+**b) Value Hypothesis**  
+> We believe that **continuous IoT-based monitoring** will help patients **detect early neurological anomalies** and **reduce emergency visits**.  
+> We will know this is true when we observe **a decrease in hospital readmissions** among active users.  
+> We will measure this by **tracking hospitalization rates and follow-up records**.
+
+**c) Business Hypothesis**  
+> We believe that **health institutions and neurologists** will adopt AuraNeuro because it **reduces monitoring costs and improves diagnostic efficiency**.  
+> We will know this is true when we observe **subscriptions, partnerships, or pilot implementations** by clinics or hospitals.  
+> We will measure this by **the number of institutions or specialists using the system**.
+
+**d) Feature Hypothesis**  
+> We believe that **real-time alerts and visual dashboards** will improve **treatment adherence** and **clinical decision-making**.  
+> We will know this is true when we observe **an increase in alert responses and report consultations by neurologists**.  
+> We will measure this by **the percentage of alert responses and dashboard interactions**.
+
+**e) Technical Hypothesis**  
+> We believe that **IoT sensors connected through secure protocols (MQTT/HTTPS)** will **transmit biometric data reliably** without data loss.  
+> We will know this is true when we observe **consistent data flow and successful synchronization events**.  
+> We will measure this by **the number of successful transmissions versus errors in the data pipeline**.
+
+---
+
+#### **Traducción interpretativa (en español)**
+
+**a) Hipótesis de Usuario**  
+Creemos que los **pacientes con enfermedades neurológicas** usarán AuraNeuro al menos **cuatro veces por semana** para registrar síntomas y revisar alertas.  
+Sabremos que esto es cierto cuando observemos **uso constante y frecuencia de interacción**, medido por **el número de sesiones y registros activos por usuario por semana**.
+
+**b) Hipótesis de Valor**  
+Creemos que el **monitoreo continuo mediante IoT** permitirá **detectar tempranamente anomalías neurológicas** y **reducir visitas de emergencia**.  
+Sabremos que esto es cierto cuando veamos **una disminución de hospitalizaciones** entre los usuarios activos, medida por **tasas de reingreso hospitalario y registros de seguimiento**.
+
+**c) Hipótesis de Negocio**  
+Creemos que **instituciones de salud y neurólogos** adoptarán AuraNeuro porque **reduce costos de monitoreo y mejora la eficiencia diagnóstica**.  
+Sabremos que esto es cierto cuando observemos **suscripciones, alianzas o pilotos implementados por clínicas o hospitales**, medido por **el número de instituciones o especialistas activos**.
+
+**d) Hipótesis de Funcionalidad**  
+Creemos que las **alertas en tiempo real y los paneles visuales** mejorarán la **adherencia al tratamiento** y la **toma de decisiones clínicas**.  
+Sabremos que esto es cierto cuando veamos **un aumento en las respuestas a alertas y consultas de reportes**, medido por **el porcentaje de interacciones en el panel y respuestas a notificaciones**.
+
+**e) Hipótesis Técnica**  
+Creemos que los **sensores IoT conectados mediante protocolos seguros (MQTT/HTTPS)** **transmitirán datos biométricos de forma confiable y sin pérdida**.  
+Sabremos que esto es cierto cuando observemos **flujo de datos constante y sincronización exitosa**, medido por **el número de transmisiones exitosas frente a errores en la comunicación**.
+
+---
+
+**Conclusión:**  
+Estas hipótesis servirán como base para la siguiente etapa del proceso *Lean UX Canvas* (Box 8), donde se diseñarán los **experimentos y MVPs** necesarios para comprobarlas con usuarios reales.
+
 
 ##### 1.2.2.4. Lean UX Canvas  
 
