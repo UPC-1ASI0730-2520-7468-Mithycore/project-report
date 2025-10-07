@@ -402,7 +402,7 @@ Cada hipótesis se redacta siguiendo el formato oficial del *Lean UX 3rd Edition
 Estas hipótesis servirán como base para la siguiente etapa del proceso *Lean UX Canvas* (Box 8), donde se diseñarán los **experimentos y MVPs** necesarios para comprobarlas con usuarios reales.
 
 
-### 1.2.2.4. Lean UX Canvas
+##### 1.2.2.4. Lean UX Canvas
 
 El siguiente cuadro resume los componentes principales del **Lean UX Canvas (v2)** aplicados al proyecto **AuraNeuro**, producto de la startup **Mithycore**.  
 Este artefacto consolida las secciones previas: *Problem Statement, Assumptions, Hypotheses* y los resultados esperados.  
@@ -427,22 +427,37 @@ Todos los elementos se expresan conforme al formato oficial del *Lean UX 3rd Edi
 El *Lean UX Canvas* permite visualizar de manera integrada el proceso de descubrimiento de valor aplicado por **Mithycore** para desarrollar **AuraNeuro**, alineando el problema, las necesidades de los usuarios y las hipótesis medibles que guían la validación del producto.
 
 
-## 1.3. Segmentos Objetivos  
+## 1.3. Segmentos Objetivos 
 
-#### Segmento objetivo #1: Pacientes neurológicos  
+El proyecto **AuraNeuro**, desarrollado por **Mithycore**, se orienta a tres segmentos principales identificados mediante entrevistas y análisis de campo.  
+Cada grupo representa un eslabón clave dentro del ecosistema de la salud neurológica digital.
 
-Este segmento incluye a personas diagnosticadas con enfermedades neurológicas (epilepsia, párkinson, Alzheimer temprano, entre otras). Su principal necesidad radica en disponer de un sistema de monitoreo continuo que brinde alertas tempranas, adherencia al tratamiento y reducción de hospitalizaciones evitables.  
-De acuerdo con reportes clínicos recientes, más del 60% de los pacientes neurológicos presenta dificultades en el seguimiento de terapias debido a la falta de datos objetivos y continuidad en la atención (Claassen et al., 2024). Este grupo constituye el eje central de AuraNeuro, al ser los usuarios finales que se benefician de manera directa de la integración de IoT, IA y telemedicina.  
+---
 
-#### Segmento objetivo #2: Profesionales de la salud (neurólogos, psicólogos, fisioterapeutas)  
+#### 1.3.1. Segmento objetivo #1: Pacientes neurológicos
+- **Perfil:** Adultos de 20 a 65 años con diagnóstico o riesgo de epilepsia, Parkinson o deterioro cognitivo.  
+- **Necesidades/problemas:** Falta de monitoreo continuo, dificultad para registrar síntomas y baja adherencia al tratamiento.  
+- **Beneficio con AuraNeuro:** Seguimiento en tiempo real mediante biosensores IoT, alertas tempranas y reportes accesibles que mejoran la adherencia y la calidad de vida.
 
-Este segmento está compuesto por médicos y especialistas que requieren información confiable y en tiempo real para tomar decisiones clínicas. Los neurólogos enfrentan a diario el reto de manejar información fragmentada, proveniente de diferentes dispositivos o de reportes poco estandarizados de los pacientes.  
-AuraNeuro busca responder a esta necesidad ofreciendo un dashboard unificado con datos biométricos, cognitivos y emocionales enriquecido con servicios externos (ClinicalTrials, RxNorm). Según encuestas a profesionales de la salud, más del 70% considera prioritario contar con herramientas digitales interoperables para optimizar diagnósticos y terapias (Rodriguez Ruiz et al., 2025).  
+---
 
-#### Segmento objetivo #3: Proveedores de dispositivos IoT y servicios de integración  
+#### 1.3.2. Segmento objetivo #2: Profesionales de la salud (neurólogos, psicólogos, fisioterapeutas)
+- **Perfil:** Especialistas en diagnóstico y rehabilitación neurológica.  
+- **Necesidades/problemas:** Información fragmentada, dificultad para evaluar la evolución del paciente y sobrecarga de datos no estandarizados.  
+- **Beneficio con AuraNeuro:** Dashboard con datos biométricos, cognitivos y emocionales en tiempo real, interoperable con sistemas clínicos (HL7-FHIR).
 
-Este segmento incluye a las empresas que desarrollan wearables médicos, sensores de EEG, EMG y acelerometría, así como proveedores de plataformas que permiten la integración de datos biométricos. Para ellos, AuraNeuro representa un ecosistema de colaboración que amplía el alcance de sus productos y facilita la interoperabilidad con estándares clínicos como HL7-FHIR.  
-La integración con proveedores IoT no solo asegura la diversidad de dispositivos compatibles, sino que también fortalece la escalabilidad de la plataforma. Estudios recientes muestran que el mercado global de IoT médico superará los USD 94 mil millones en 2026, impulsado principalmente por soluciones de monitoreo remoto (Medical Economics, 2023).  
+---
+
+#### 1.3.3. Segmento objetivo #3: Proveedores de dispositivos IoT y servicios de integración
+- **Perfil:** Empresas que desarrollan wearables médicos, sensores EEG/EMG y plataformas de datos biométricos.  
+- **Necesidades/problemas:** Falta de interoperabilidad, visibilidad comercial y canales seguros para integrar sus dispositivos con aplicaciones clínicas.  
+- **Beneficio con AuraNeuro:** Ecosistema de colaboración que permite integrar sus productos a la plataforma, ampliar alcance comercial y garantizar compatibilidad con estándares internacionales.
+
+---
+
+**Conclusión:**  
+Estos tres segmentos conforman un **ecosistema conectado** donde cada actor genera y recibe valor.  
+**AuraNeuro** posiciona a **Mithycore** como una plataforma de convergencia entre pacientes, profesionales y proveedores tecnológicos, consolidando un modelo B2B2C (Business–to–Business–to–Consumer) sostenible.
 
 
 ## Capítulo II: Requirements Elicitation & Analysis  
