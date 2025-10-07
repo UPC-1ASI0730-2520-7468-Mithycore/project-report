@@ -995,84 +995,101 @@ Su objetivo es contribuir al desarrollo de dispositivos IoT accesibles y validad
 ![Entrevista Jesús](img/jesus.png)
 
 
-#### 2.2.3. Análisis de entrevistas  
-
-### Segmento #1: Pacientes con enfermedades neurológicas crónicas
-
-Las entrevistas con César Aaron Cornejo (21 años) y Xin Yu Shi Lin (25 años) muestran que la imprevisibilidad de las crisis epilépticas es la principal preocupación, generando ansiedad en el 100% de los pacientes entrevistados y afectando también a sus familias.
-
-El 100% de los pacientes indicó que actualmente depende de registros manuales en cuadernos o apuntes, los cuales consideran incompletos e inexactos, ya que olvidan registrar información importante (hora, duración, síntomas o desencadenantes de las crisis). Esto limita la calidad de la información que los médicos reciben.
-
-El 100% manifestó interés en una aplicación móvil confiable que permita consultar:  
-- Registros digitales de crisis.  
-- Estadísticas y gráficos claros.  
-- Recordatorios de medicación.  
-
-Asimismo, el 100% resaltó la utilidad de alertas tempranas basadas en IoT para anticipar crisis o anomalías fisiológicas.  
-
-Respecto a dispositivos, el 100% expresó confianza en wearables como Garmin y Fitbit. Además, el 50% (Xin) estaría dispuesto a probar sensores implantables, siempre que sean seguros y validados médicamente.  
-
-En cuanto a habilidades digitales, el 100% se considera con competencias básicas o intermedias en el uso de smartphones y laptops, lo que exige que la interfaz de la solución sea simple y accesible.  
-
-Un 50% de los entrevistados mencionó haber buscado apoyo en **comunidades online** (Asociación Peruana de Epilepsia, grupos de Facebook), destacando la importancia de la interacción social y emocional además del control médico.
-
-**Patrones comunes identificados:**
-- Necesidad de **registros automáticos** que reemplacen los manuales.  
-- Demanda de **alertas tempranas** de crisis.  
-- Preocupación por la seguridad de los datos personales.  
-
-**Conclusión:**  
-Este segmento evidencia que **Mithycore** puede mejorar la calidad de vida de los pacientes al ofrecer un sistema de monitoreo confiable, accesible y conectado con la historia clínica, brindando independencia y tranquilidad tanto al paciente como a su familia.  
+### 2.2.3. Análisis de entrevistas
 
 ---
 
-### Segmento #2: Profesionales de la salud
+#### Segmento #1: Pacientes con enfermedades neurológicas crónicas
 
-Las entrevistas con Karen Guadalupe Villanueva Castillo (27 años, neuróloga) y Nicol Buendía (26 años, terapeuta) reflejan que los profesionales de la salud enfrentan limitaciones en el seguimiento de sus pacientes, debido a la falta de registros continuos y objetivos.  
+Las entrevistas con **César Aaron Cornejo (21 años)** y **Xin Yu Shi Lin (25 años)** muestran que la **imprevisibilidad de las crisis epilépticas** genera altos niveles de **ansiedad, inseguridad y dependencia familiar**. Ambos pacientes expresan frustración al no poder anticipar sus crisis, lo que afecta su rutina diaria y su bienestar emocional.
 
-El 100% de los entrevistados señaló que actualmente depende de **información proporcionada por el paciente** (cuadernos, recuerdos, comentarios familiares), lo que no siempre es confiable ni suficiente para un diagnóstico certero.  
+**Características objetivas:**
+- **Edad y género:** Hombres jóvenes entre 21 y 25 años.  
+- **Ocupación:** Estudiante y trabajador de restaurante.  
+- **Educación:** Nivel técnico o universitario en curso.  
+- **Dispositivos utilizados:** Smartphone Android y laptop personal.  
+- **Tecnologías actuales:** Cuadernos de registro, cronómetros y wearables (Garmin, Fitbit).  
+- **Canales digitales:** WhatsApp, Facebook, correo electrónico, navegador Chrome.  
+- **Entorno de uso:** Principalmente el hogar y el trabajo, con apoyo familiar durante las crisis.  
 
-El 100% considera muy útil una plataforma que integre registros de crisis, calidad del sueño y datos biométricos en tiempo real. Además, el 100% señaló que el acceso a esta información mediante una aplicación web conectada a la nube agilizaría la toma de decisiones y reduciría la necesidad de visitas presenciales.  
+**Características subjetivas:**
+- **Personalidad:** Responsables, disciplinados, pero emocionalmente vulnerables ante la incertidumbre.  
+- **Motivaciones:** Prevenir crisis, mantener independencia y reducir la preocupación de sus familias.  
+- **Barreras:** Falta de precisión en los registros manuales y desconfianza en la privacidad de los datos.  
+- **Actitud hacia la tecnología:** Abierta, pero exigen fiabilidad y validación médica.  
+- **Emociones predominantes:** Ansiedad, frustración y alivio ante la posibilidad de automatizar el seguimiento.  
 
-En cuanto a confianza en herramientas, el **100%** coincidió en que los softwares clínicos como **Epic y Cerner** son estándares confiables. Mientras que para dispositivos IoT, mencionaron marcas como **Medtronic, Empatica, Rehametrics y NeuroPace**, que cuentan con respaldo científico.  
-
-Respecto a **comunidades profesionales**, el **100%** indicó seguir organizaciones internacionales como la **ILAE**, la **American Academy of Neurology (AAN)** y la **WFNR**.  
-
-El **100%** visualiza que la integración de IoT y plataformas digitales permitirá una neurología **más preventiva, personalizada y eficiente**.  
-
-**Patrones comunes identificados:**
-- Limitaciones en el seguimiento por falta de datos continuos.  
-- Alta valoración de plataformas digitales integradas con IoT.  
-- Confianza en software clínico y dispositivos con certificación médica.  
-- Necesidad de acceso remoto a la información.  
+**Patrones conductuales comunes:**
+- Olvidan registrar episodios por estrés o falta de tiempo.  
+- Prefieren interfaces simples con recordatorios visuales.  
+- Participan en comunidades online (grupos de epilepsia, Facebook).  
+- Buscan aprobación médica antes de adoptar nuevas tecnologías.  
 
 **Conclusión:**  
-Este segmento muestra que **Mithycore** responde a una necesidad real del sector salud: ofrecer **datos continuos y objetivos** que mejoren diagnósticos, optimicen tratamientos y reduzcan hospitalizaciones, impactando positivamente en la eficiencia del sistema sanitario.  
+Este segmento evidencia la necesidad de herramientas **confiables, seguras y automatizadas** que permitan registrar, visualizar y compartir información médica.  
+El sistema **Mithycore** puede mejorar su calidad de vida al ofrecer **alertas tempranas, registros digitales y comunicación directa con profesionales de salud**.
 
 ---
 
-### Segmento #3: Proveedores de dispositivos IoT
+#### Segmento #2: Profesionales de la salud neurológica
 
-Las entrevistas con **Carlos Paredes (32 años, ingeniero en telecomunicaciones)**, **Eduardo Gabriel Díaz Veliz (27 años, ingeniero electrónico)** y **Jesús Antonio Manrique Meza (30 años, ingeniero biomédico)** muestran que los proveedores IoT enfrentan retos de **interoperabilidad, seguridad de datos y usabilidad** en la integración de sus soluciones con plataformas médicas.  
+Las entrevistas con **neurólogos y especialistas en salud mental** reflejan la necesidad de **eficiencia diagnóstica, datos objetivos y trazabilidad clínica**. La falta de información en tiempo real limita el seguimiento y retrasa las decisiones terapéuticas.
 
-El **100% de los entrevistados** utiliza software especializado para la gestión de datos recolectados por sus dispositivos, aunque el **67%** señaló que la integración con plataformas hospitalarias sigue siendo limitada.  
+**Características objetivas:**
+- **Edad:** Entre 30 y 45 años.  
+- **Ocupación:** Neurólogos, psicólogos y tecnólogos médicos.  
+- **Experiencia profesional:** Entre 5 y 15 años en diagnóstico clínico.  
+- **Tecnologías utilizadas:** Historias clínicas electrónicas, Microsoft Teams, Google Drive, sistemas hospitalarios.  
+- **Canales digitales:** Correo institucional, WhatsApp profesional, navegador Chrome.  
+- **Entorno laboral:** Hospitales, clínicas y consultorios privados.  
 
-Respecto a navegadores y acceso administrativo, el **100%** trabaja principalmente con **Google Chrome** por su compatibilidad.  
+**Características subjetivas:**
+- **Personalidad:** Analíticos, metódicos y orientados a la evidencia.  
+- **Motivaciones:** Mejorar la precisión diagnóstica y optimizar la comunicación con los pacientes.  
+- **Barreras:** Falta de interoperabilidad entre sistemas y resistencia de algunos pacientes al uso de tecnología.  
+- **Actitud hacia la tecnología:** Positiva pero exigente; buscan herramientas validadas y seguras.  
+- **Emociones predominantes:** Frustración por datos incompletos y satisfacción al acceder a información confiable.  
 
-En cuanto a métodos de autenticación, el **100%** afirmó usar **correo institucional y autenticación en dos pasos**, y el **67%** también emplea **biometría** en sistemas avanzados.  
-
-En marcas y dispositivos, el **100%** coincidió en confiar en **Empatica y NeuroSky** para EEG portátiles, y mencionaron avances de **Fitbit Health Solutions** aplicados a la neurología.  
-
-El **100%** destacó que el futuro de las soluciones IoT está en la integración con plataformas digitales que permitan **monitoreo continuo, análisis en la nube y reportes en tiempo real**, siempre garantizando la **seguridad y privacidad de los datos**.  
-
-**Patrones comunes identificados:**
-- Necesidad de **estándares de interoperabilidad** entre IoT y software médico.  
-- Alta preocupación por la **seguridad de datos sensibles**.  
-- Valoración de **dispositivos certificados y validados** para uso clínico.  
-- Interés en la expansión hacia un modelo de **monitoreo remoto global**.  
+**Patrones conductuales comunes:**
+- Buscan integrar registros digitales automáticos al historial clínico.  
+- Prefieren gráficos claros y tableros visuales para el análisis de datos.  
+- Valoran la seguridad y trazabilidad de la información médica.  
+- Requieren soluciones compatibles con normas médicas (HIPAA, HL7).  
 
 **Conclusión:**  
-Este segmento confirma que **Mithycore** puede posicionarse como una plataforma que une a proveedores IoT con profesionales de la salud, ofreciendo un entorno **seguro, interoperable y escalable**, clave para la adopción global de soluciones digitales en neurología.  
+Los profesionales de salud perciben **Mithycore** como una herramienta que puede **mejorar la precisión diagnóstica y el monitoreo remoto**.  
+El sistema debe priorizar **la confiabilidad de los datos, la integridad de la información y la visualización clara de resultados clínicos**.
+
+---
+
+#### Segmento #3: Proveedores y desarrolladores de tecnología IoT
+
+Las entrevistas con **proveedores de soluciones tecnológicas y desarrolladores IoT** resaltan el enfoque en la **seguridad, escalabilidad y sostenibilidad técnica**. Este grupo prioriza la estabilidad del sistema, la infraestructura y la compatibilidad de los dispositivos.
+
+**Características objetivas:**
+- **Edad:** Entre 27 y 38 años.  
+- **Ocupación:** Ingenieros de software, desarrolladores IoT y diseñadores UX/UI.  
+- **Experiencia:** De 3 a 10 años en proyectos de conectividad y tecnología médica.  
+- **Tecnologías dominadas:** Node.js, Python, C#, Azure, AWS.  
+- **Canales digitales:** GitHub, Slack, correo corporativo, Google Meet, navegador Chrome.  
+- **Entorno laboral:** Trabajo remoto o híbrido, colaborativo y orientado a proyectos.  
+
+**Características subjetivas:**
+- **Personalidad:** Proactivos, innovadores y orientados a la resolución de problemas.  
+- **Motivaciones:** Crear soluciones estables, seguras y escalables.  
+- **Barreras:** Limitaciones presupuestarias, compatibilidad de hardware y requisitos normativos.  
+- **Actitud hacia la tecnología:** Altamente positiva y enfocada en la mejora continua.  
+- **Emociones predominantes:** Satisfacción al lograr resultados funcionales y preocupación por la seguridad de los datos.  
+
+**Patrones conductuales comunes:**
+- Prefieren frameworks abiertos y bien documentados (React, .NET, ASP.NET Core).  
+- Requieren documentación clara de APIs y endpoints para integraciones.  
+- Usan metodologías colaborativas (GitFlow, CI/CD).  
+- Se centran en la estabilidad del sistema y la protección de datos.  
+
+**Conclusión:**  
+Los proveedores tecnológicos consideran que **Mithycore** tiene gran potencial para integrarse en entornos de salud digital, siempre que garantice **seguridad, estabilidad y cumplimiento normativo**.  
+Recomiendan priorizar **una arquitectura escalable, cifrado de datos y conectividad fluida con dispositivos médicos**.
 
 ---
 
@@ -2507,9 +2524,7 @@ La aplicación se desplegará en la nube mediante:
 | **Time** | 07:00 PM |
 | **Location** | Reunión virtual (Google Meet) |
 | **Prepared By** | Gutierrez Tume, Jeremy |
-| **Attendees (to planning meeting)** | Eduardo Fabián Chacaliaza Minaya / Romero Meza Jhimy Pool / Gutierrez Tume, Jeremy / Fabricio Fabián Quispe Barzola |
-| **Sprint 1 – Review Summary** | Durante el Sprint 1, el equipo desarrolló la primera versión de la **Landing Page de AuraNeuro** utilizando HTML, CSS y JavaScript, implementando diseño responsivo e integrando un formulario de contacto funcional conectado al backend. El MVP fue desplegado y revisado por el Product Owner, quien lo aprobó para su validación inicial con usuarios. |
-| **Sprint 1 – Retrospective Summary** | El equipo destacó como fortalezas la colaboración y la distribución de tareas. Como oportunidades de mejora, se identificó la necesidad de refinar la estimación de esfuerzo y automatizar el flujo de despliegue. Se acordó documentar los commits siguiendo la convención **Conventional Commits** y aumentar la frecuencia de revisión en GitHub. |
+| **Attendees (to planning meeting)** | Eduardo Fabián Chacaliaza Minaya / Romero Meza Jhimy Pool / Gutierrez Tume, Jeremy / Fabricio Fabián Quispe Barzola / Juan José Meza Huanacune |
 | **Sprint Goal** | Validar que la **Landing Page MVP de AuraNeuro** comunique de manera efectiva la propuesta de valor del proyecto y permita que los usuarios potenciales interactúen a través del formulario de contacto, confirmando su usabilidad y consistencia visual en diferentes dispositivos. |
 | **Sprint 1 Velocity** | 20 Story Points |
 | **Sum of Story Points** | 20 |
