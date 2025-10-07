@@ -432,6 +432,74 @@ El equipo **Mithycore** usará estos artefactos como guía para las fases de val
 
 ---
 
+## 1.3. Segmentos Objetivo
+
+The project **AuraNeuro**, developed by **Mithycore**, focuses on three primary user segments identified through exploratory research and early interviews.  
+Each group represents a critical actor within the connected ecosystem of neurological health.
+
+---
+
+### 1.3.1. Segmentos Objetivo #1 — Pacientes neurológicos  
+
+- **Profile:** Adults aged 20–65 diagnosed with or at risk of epilepsy, Parkinson’s disease, or cognitive impairment.  
+- **Needs / Pain Points:** Lack of continuous monitoring, difficulty tracking symptoms, low adherence to treatment, and anxiety from unpredictable neurological events.  
+- **Context of Use:** Daily environments at home and during teleconsultations, where patients need a simple and reliable way to record symptoms and receive alerts.  
+- **Key Insight:** Patients tend to rely on manual notes or memory, which leads to incomplete information during medical visits.  
+- **Benefit with AuraNeuro:** Real-time monitoring through IoT biosensors, automatic alerts for early detection, and accessible reports that strengthen adherence and patient confidence.
+
+**Traducción (referencial):**  
+- **Perfil:** Adultos de 20 a 65 años con diagnóstico o riesgo de epilepsia, Parkinson o deterioro cognitivo.  
+- **Necesidades / Problemas:** Falta de monitoreo continuo, dificultad para registrar síntomas, baja adherencia al tratamiento y ansiedad por la imprevisibilidad de los eventos neurológicos.  
+- **Contexto de Uso:** Entorno doméstico y sesiones de telemedicina, donde los pacientes necesitan registrar síntomas y recibir alertas de forma sencilla y confiable.  
+- **Hallazgo Clave:** Los pacientes dependen de anotaciones manuales o la memoria, lo que genera información incompleta durante las consultas médicas.  
+- **Beneficio con AuraNeuro:** Monitoreo en tiempo real mediante biosensores IoT, alertas automáticas para detección temprana y reportes accesibles que mejoran la adherencia y la confianza del paciente.
+
+---
+
+### 1.3.2. Segmentos Objetivo #2 — Profesionales de la salud  
+ 
+- **Profile:** Neurologists, therapists, and healthcare specialists working in hospitals or private clinics, aged 25–55.  
+- **Needs / Pain Points:** Fragmented data sources, difficulty evaluating patient progress, and information overload without standardized metrics.  
+- **Context of Use:** Clinical environments and teleconsultation platforms where professionals need timely, accurate, and visual data to support decisions.  
+- **Key Insight:** Physicians want integrated dashboards that consolidate patient evolution and allow exporting standardized medical reports.  
+- **Benefit with AuraNeuro:** A clinician dashboard with real-time biometric and behavioral data (sleep, crisis frequency, adherence), interoperable with clinical systems (HL7–FHIR).
+
+**Traducción (referencial):**  
+- **Perfil:** Neurólogos, psicólogos y fisioterapeutas que trabajan en hospitales o clínicas privadas, de entre 25 y 55 años.  
+- **Necesidades / Problemas:** Fuentes de datos fragmentadas, dificultad para evaluar la evolución del paciente y sobrecarga de información sin métricas estandarizadas.  
+- **Contexto de Uso:** Entornos clínicos y plataformas de teleconsulta donde se requiere información visual, precisa y actualizada para apoyar la toma de decisiones.  
+- **Hallazgo Clave:** Los especialistas buscan tableros integrados que consoliden la evolución del paciente y permitan exportar reportes médicos estandarizados.  
+- **Beneficio con AuraNeuro:** Un panel clínico con datos biométricos y de comportamiento en tiempo real (sueño, frecuencia de crisis, adherencia), interoperable con sistemas clínicos (**HL7–FHIR**).
+
+---
+
+### 1.3.3. Target Segment #3 — Proveedores de dispositivos IoT 
+ 
+- **Profile:** Companies that design medical wearables, EEG/EMG sensors, or biometric platforms seeking healthcare integration opportunities.  
+- **Needs / Pain Points:** Lack of interoperability standards, limited visibility in clinical markets, and need for secure data channels.  
+- **Context of Use:** B2B partnerships and development ecosystems focused on integration through APIs or SDKs.  
+- **Key Insight:** Many IoT providers in Latin America lack a reference platform to validate clinical applications of their devices.  
+- **Benefit with AuraNeuro:** A collaboration framework that allows secure integration via APIs, extending their market reach and ensuring compliance with medical data standards (HL7–FHIR, ISO 27001).
+
+**Traducción (referencial):**  
+- **Perfil:** Empresas que desarrollan wearables médicos, sensores EEG/EMG y plataformas de datos biométricos interesadas en integrarse al sector salud.  
+- **Necesidades / Problemas:** Falta de interoperabilidad, baja visibilidad en el mercado clínico y necesidad de canales seguros para transmisión de datos.  
+- **Contexto de Uso:** Ecosistemas B2B orientados al desarrollo y la integración mediante APIs o SDKs.  
+- **Hallazgo Clave:** Muchos proveedores IoT en Latinoamérica carecen de una plataforma de referencia para validar las aplicaciones clínicas de sus dispositivos.  
+- **Beneficio con AuraNeuro:** Un marco de colaboración que permite la integración segura mediante API, amplía su alcance comercial y garantiza compatibilidad con estándares médicos (**HL7–FHIR**, **ISO 27001**).
+
+---
+
+**Conclusión:**  
+These three user segments form a connected digital ecosystem where each actor both generates and receives value.  
+Through this approach, **Mithycore** positions **AuraNeuro** as a collaborative B2B2C (Business–to–Business–to–Consumer) platform that strengthens neurological care continuity in Latin America.
+
+**Traducción (referencial):**  
+Estos tres segmentos conforman un ecosistema digital conectado donde cada actor genera y recibe valor.  
+Con este enfoque, **Mithycore** posiciona a **AuraNeuro** como una plataforma colaborativa **B2B2C (Business–to–Business–to–Consumer)** que fortalece la continuidad del cuidado neurológico en Latinoamérica.
+
+---
+
 
 ## Capítulo II: Requirements Elicitation & Analysis  
   
