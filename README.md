@@ -1987,42 +1987,43 @@ Se diseñó con un enfoque en la **experiencia de usuario (UX)** y la **claridad
 ---
 
 #### Sección Inicio
-![Inicio](img/inicio.png)  
+![Inicio](img/landing-inicio-ingles.png)  
 La sección de **Inicio** presenta un mensaje introductorio que resume el propósito de la plataforma: mejorar la atención neurológica mediante IoT, IA y telemedicina.  
 Se incluyen botones de llamada a la acción (*Call to Action*) para fomentar el registro y exploración de la solución.
 
 ---
 
 #### Sección ¿Quiénes Somos?
-![Quiénes Somos](img/quienessomos.png)  
+![Quiénes Somos](img/landing-how-ingles.png)  
 En esta sección se describe la **misión y visión** de la plataforma, explicando cómo busca optimizar la salud neurológica y apoyar tanto a pacientes como a profesionales médicos.  
 El objetivo es generar confianza y mostrar el **valor diferencial** del proyecto.
 
 ---
 
 #### Sección Beneficios
-![Beneficios](img/beneficios.png)  
+![Beneficios](img/landing-beneficios-ingles.png)  
 Aquí se destacan los **principales beneficios** que ofrece la solución, tanto para pacientes (monitoreo en tiempo real, prevención, seguimiento) como para profesionales de la salud (acceso a datos confiables, analítica avanzada, telemedicina).  
 La información se presenta de forma visual y accesible.
 
 ---
 
 #### Sección Cómo Funciona
-![Cómo Funciona](img/comofunciona.png)  
+![Cómo Funciona](img/landing-works-ingles.png)  
 Esta sección explica el **flujo operativo de la plataforma**, desde la recolección de datos mediante dispositivos IoT hasta su análisis con IA y la generación de alertas o recomendaciones para médicos y pacientes.  
 Se busca que el usuario entienda de manera sencilla el **valor tecnológico** de la propuesta.
 
 ---
 
 #### Sección Información y Recursos
-![Información](img/info.png)  
+![Información](img/landing-information-ingles.png)  
 Incluye recursos adicionales, datos técnicos y explicaciones sobre la integración de la plataforma con servicios médicos externos.  
 Está pensada para usuarios más especializados (profesionales de salud, instituciones médicas) que buscan detalles adicionales antes de adoptar la solución.
 
 ---
 
 #### Vista general en dispositivos
-![Nosotros](img/nosotros.png)  
+![Vista PC](img/landing-vistapc-ingles.png)
+![Vista Mobile](img/landing-vistamobile-ingles.png)  
 La página está optimizada para **dispositivos móviles y web**, asegurando accesibilidad en diferentes contextos de uso.  
 Esto refuerza el objetivo de crear una plataforma inclusiva y práctica para todos los segmentos definidos.
 
@@ -2586,10 +2587,10 @@ El entregable principal fue una página accesible en navegador, con las siguient
 - Beneficios
 - Contactanos
 
-![Landing Page – Home](img/landingpage1.png)  
-![Landing Page – Cómo funciona](img/landingpage2.png)  
-![Landing Page – Nosotros](img/landingpage3.png)  
-![Landing Page – Beneficios](img/landingpage4.png)  
+![Landing Page – Home](img/landing-inicio-ingles.png)  
+![Landing Page – Cómo funciona](img/landing-works-ingles.png)  
+![Landing Page – Nosotros](img/landing-how-ingles.png)  
+![Landing Page – Beneficios](img/landing-beneficios-ingles.png)  
 
 URL del despliegue: https://upc-1asi0730-2520-7468-mithycore.github.io/LandingPageAuraNeuro/
 
