@@ -296,27 +296,45 @@ Este artefacto describe el contexto actual del problema, la brecha en el mercado
 > El enfoque inicial son **pacientes adultos (20–65 años)** con trastornos neurológicos diagnosticados o en riesgo.  
 > El éxito se medirá por la **detección temprana de eventos neurológicos, reducción de reingresos hospitalarios y mejora en la calidad de vida**.
 
-##### 1.2.2.2. Lean UX Assumptions  
+##### 1.2.2.2. Lean UX Assumptions
 
-A partir de los problemas identificados en el apartado anterior, se formulan las siguientes suposiciones iniciales que orientan el desarrollo de la plataforma AuraNeuro. Estas asunciones se dividen en tres dimensiones: negocio, usuarios y tecnologia.
+Las **assumptions** representan las creencias iniciales del equipo **Mithycore** acerca de los usuarios, el valor que la solución aporta, el modelo de negocio, las funcionalidades esperadas y la viabilidad técnica.  
+Estas suposiciones se formulan antes de realizar validaciones y se registran en el *Lean UX Canvas (Boxes 3–5)* conforme al formato oficial del *Lean UX 3rd Edition*.
 
-**Business Assumptions**  
-- Se asume que, si la plataforma demuestra una reduccion en hospitalizaciones y mortalidad, las instituciones de salud estaran dispuestas a adoptarla.  
-- Se asume que, si se integra un servicio externo de valor (como ensayos clinicos o validacion de medicamentos), los profesionales percibiran diferenciacion frente a otras soluciones.  
-- Se asume que, si se ofrece un modelo SaaS con costos accesibles, la plataforma podra ser sostenible y escalable.  
+---
 
-**User Assumptions**  
-- Se asume que, si los pacientes reciben alertas y retroalimentacion clara, se motivaran a utilizar los dispositivos IoT de manera continua.  
-- Se asume que, si los medicos disponen de dashboards integrados con datos confiables y externos, confiaran en la herramienta y la usaran de forma rutinaria.  
-- Se asume que, si los pacientes observan resultados tangibles sobre adherencia y evolucion, incrementaran su confianza en el sistema.  
+**Lean UX Assumptions — AuraNeuro**
 
-**Technical Assumptions**  
-- Se asume que, si las señales IoT pueden procesarse en la nube con baja latencia, sera posible generar alertas en tiempo real.  
-- Se asume que, si la API RESTful orquesta adecuadamente datos internos y externos, la integracion sera viable y estable.  
-- Se asume que, si el servicio externo gratuito mantiene un SLA aceptable, se garantizara disponibilidad sin costos adicionales.  
+**a) User Assumptions**  
+- Patients with neurological conditions experience recurring symptoms that are difficult to track manually.  
+- Neurologists require real-time and continuous data to adjust treatments effectively.  
+- Caregivers are willing to use mobile applications to monitor and report patient symptoms.  
 
-**Conclusion**  
-Estas suposiciones proporcionan el punto de partida para la formulacion de hipotesis que seran validadas en fases posteriores del Lean UX Process, reduciendo incertidumbre y alineando la propuesta con las necesidades reales del entorno.
+**b) Value Assumptions**  
+- Continuous monitoring through IoT sensors improves early detection of neurological events.  
+- Data-driven reports increase patient engagement and medical decision accuracy.  
+- Users will perceive value in receiving personalized alerts and simplified progress tracking.  
+
+**c) Business Assumptions**  
+- Hospitals and clinics will be interested in adopting low-cost, digital monitoring systems.  
+- Reducing avoidable hospitalizations generates measurable savings for healthcare institutions.  
+- Subscription or service-based models are feasible within the Latin American health market.  
+
+**d) Feature Assumptions**  
+- A dashboard with graphical reports will enhance neurologists’ data interpretation.  
+- Automated alerts improve treatment adherence among patients.  
+- Simplified user interfaces will reduce friction and increase adoption.  
+
+**e) Technical Assumptions**  
+- IoT sensors can transmit biometric data securely and reliably to the cloud.  
+- The AI model can classify abnormal patterns with acceptable accuracy using limited data.  
+- The system architecture supports scalability for multiple hospitals and users.  
+
+---
+
+**Conclusión:**  
+Estas suposiciones conforman la base del proceso de validación del *Lean UX Canvas*.  
+Durante las siguientes etapas se diseñarán experimentos (Box 8) para **confirmar o refutar** las assumptions con evidencia empírica.
 
 ---
 
