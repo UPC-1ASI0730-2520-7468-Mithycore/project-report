@@ -240,15 +240,16 @@ Esto genera **falta de continuidad en la atención**, **diagnósticos tardíos**
 
 #### Análisis 5W + 2H  
 
-| Pregunta | Descripción |
-|-----------|-------------|
-| **What (Qué)** | Los pacientes y médicos carecen de un sistema centralizado que permita registrar, almacenar y compartir datos neurológicos de manera continua. |
-| **Who (Quién)** | Pacientes con epilepsia, Parkinson o Alzheimer; médicos neurólogos; centros de salud y aseguradoras. |
-| **Where (Dónde)** | Entornos hospitalarios y hogares en LatAm, donde se realiza el seguimiento ambulatorio. |
-| **When (Cuándo)** | Entre consultas médicas o durante episodios neurológicos críticos (crisis epilépticas, pérdidas de memoria, etc.). |
-| **Why (Por qué)** | Falta de integración de herramientas IoT con plataformas de atención y dependencia de registros subjetivos. |
-| **How (Cómo)** | Los pacientes usan notas o mensajes para registrar sus síntomas; los médicos carecen de datos objetivos y actualizados. |
-| **How much (Cuánto)** | El monitoreo remoto reduce hasta un 59 % las hospitalizaciones evitables (The Lancet Neurology, 2019). |
+| **Pregunta**          | **Descripción (AuraNeuro – Mithycore)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **What (Qué)**        | En la atención neurológica ambulatoria **no existe un registro continuo y centralizado** de crisis, sueño, adherencia y eventos relevantes. La información llega **tardía, fragmentada y subjetiva** (por apuntes o recuerdos del paciente), lo que dificulta **ajustar tratamientos de forma oportuna**.                                                                                                                                                                                                    |
+| **When (Cuándo)**     | El problema se manifiesta **entre consultas médicas** (semanas o meses), durante **episodios críticos** (crisis epilépticas, alteraciones motoras o cognitivas) y en las **rutinas diarias** donde se requieren datos constantes para observar tendencias.                                                                                                                                                                                                                                                   |
+| **Where (Dónde)**     | Ocurre tanto en el **hogar del paciente** (uso cotidiano de sensores o wearables), como en **consultorios, hospitales y teleconsultas**. El ámbito principal es **Latinoamérica urbana**, donde existe conectividad móvil y digitalización parcial en salud.                                                                                                                                                                                                                                                 |
+| **Who (Quién)**       | **Pacientes adultos (20–65 años)** con diagnóstico o sospecha de epilepsia (segmento inicial) y, en fases posteriores, Parkinson o deterioro cognitivo. También participan **neurólogos, terapeutas y psicólogos clínicos** que requieren datos objetivos; **cuidadores/familiares**, **instituciones de salud** y **proveedores IoT** (EEG, EMG, PPG, HRV).                                                                                                                                                 |
+| **Why (Por qué)**     | 1) **Dependencia de registros subjetivos** y poco confiables. <br>2) **Baja interoperabilidad** entre dispositivos IoT y sistemas clínicos (EHR/HL7-FHIR). <br>3) **Falta de analítica en tiempo real** para emitir alertas útiles. <br>4) **Barreras de acceso y usabilidad**, especialmente para pacientes con limitaciones motoras o cognitivas. <br>Todo ello genera **diagnósticos tardíos**, **baja adherencia terapéutica** y **mayores costos hospitalarios**.                                       |
+| **How (Cómo)**        | **AuraNeuro** propone: <br>• Una **aplicación móvil** para registrar síntomas y recibir alertas. <br>• **Sensores IoT** que transmiten datos biométricos (EEG, HRV, sueño) hacia la nube. <br>• Un **dashboard clínico** con visualizaciones, métricas de evolución y exportación a EHR en formato **FHIR/PDF**. <br>• Seguridad basada en **cifrado en tránsito y almacenamiento**, control de acceso y **consentimiento informado**.                                                                       |
+| **How much (Cuánto)** | **Metas del piloto (6–9 meses):** <br>• ≥ **4 registros por semana** por usuario activo. <br>• Reducción ≥ **15 %** en reingresos hospitalarios por crisis neurológicas. <br>• ≥ **60 %** de consultas médicas con historial digital exportado. <br>• **Latencia P95 < 500 ms** y **> 99 %** de mensajes IoT sin pérdida. <br>• Al menos **2 integraciones IoT** y **1 integración FHIR** activas. <br>Estos indicadores cuantifican tanto la magnitud del problema como el impacto esperado de la solución. |
+
 
 ---
 
@@ -268,7 +269,7 @@ Esto genera **falta de continuidad en la atención**, **diagnósticos tardíos**
 | **Impact metric** | Reducción de hospitalizaciones evitables por pacientes neurológicos | Disminuir ≥ 20 % en 6 meses. |
 | **Outcome metric** | Frecuencia de registro de crisis y síntomas en la app | ≥ 4 registros por semana por usuario activo. |
 | **Outcome metric** | Porcentaje de consultas médicas con datos digitales completos | ≥ 60 % de consultas con historial exportado. |
-| **Leading metric** | Porcentaje de usuarios que configuran su dispositivo IoT en el primer uso | ≥ 50 %. |
+| **Leading metric** | Número de proveedores IoT integrados (SDK/API) | ≥ 2 integraciones validadas en 3 meses. |
 
 #### 1.2.2. Lean UX Process  
 
@@ -338,7 +339,7 @@ Durante las siguientes etapas se diseñarán experimentos (Box 8) para **confirm
 
 ---
 
-##### 1.2.2.3. Lean UX Hypothesis Statements (Box 6)
+##### 1.2.2.3. Lean UX Hypothesis Statements 
 
 Las **hipótesis** representan afirmaciones medibles que el equipo **Mithycore** formula a partir de las *assumptions* identificadas.  
 Cada hipótesis se redacta siguiendo el formato oficial del *Lean UX 3rd Edition*, con el propósito de validarlas mediante evidencias reales obtenidas durante las próximas iteraciones del proyecto.
@@ -416,7 +417,7 @@ Todos los elementos se expresan conforme al formato oficial del *Lean UX 3rd Edi
 |----------|----------------|--------------------------|------------------------------|
 | **1** | **Business Problem** | The current state of neurological health monitoring relies on occasional evaluations and manual reports. Existing tools fail to provide affordable, real-time monitoring that connects patients and neurologists. | El monitoreo neurológico depende de evaluaciones esporádicas y reportes manuales. Las herramientas actuales no ofrecen monitoreo accesible y en tiempo real que conecte a pacientes y neurólogos. |
 | **2** | **Business Outcomes** | Reduce hospital readmissions, improve diagnostic accuracy, and increase patient engagement. | Reducir reingresos hospitalarios, mejorar precisión diagnóstica e incrementar la participación del paciente. |
-| **3** | **Users** | Adult patients (20–65) with neurological disorders; neurologists; caregivers supporting daily treatment. | Pacientes adultos (20–65) con trastornos neurológicos; neurólogos; cuidadores que apoyan el tratamiento diario. |
+| **3** | **Users** | Adult patients (20–65) with neurological disorders; healthcare professionals (neurologists, therapists); and IoT device providers integrating medical wearables. | Pacientes adultos (20–65) con trastornos neurológicos; profesionales de la salud (neurólogos, terapeutas); y proveedores de dispositivos IoT que integran wearables médicos. |
 | **4** | **User Outcomes & Benefits** | Patients can detect anomalies early and share continuous data; neurologists gain objective insights for decision-making. | Los pacientes detectan anomalías tempranas y comparten datos continuos; los neurólogos obtienen información objetiva para decisiones clínicas. |
 | **5** | **Solutions** | IoT-based biosensors connected to an AI-driven dashboard with real-time alerts, visual reports, and progress tracking. | Biosensores IoT conectados a un panel con IA, alertas en tiempo real, reportes visuales y seguimiento de progreso. |
 | **6** | **Hypotheses** | We believe continuous IoT monitoring and real-time dashboards will reduce hospitalizations and improve treatment adherence. | Creemos que el monitoreo IoT continuo y los paneles en tiempo real reducirán hospitalizaciones y mejorarán la adherencia al tratamiento. |
