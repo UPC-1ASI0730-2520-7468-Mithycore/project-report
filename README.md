@@ -181,17 +181,26 @@ La información se ampliará en cada entrega (**TB1**, **TP1**, **TB2**, **TF1**
 
 ## Capítulo I: Introducción  
 
-### 1.1. Startup Profile  
+### 1.1.1. Descripción de la Startup
 
-#### 1.1.1. Descripción de la Startup  
-**Mithycore** es una plataforma digital para atención neurológica que integra dispositivos IoT y analítica de IA.  
-Su propósito es mejorar el diagnóstico temprano, monitorear en tiempo real a pacientes con enfermedades crónicas y facilitar la telemedicina mediante datos objetivos, reduciendo hospitalizaciones y optimizando la calidad de vida.
+**Startup:** Mithycore  
+**Producto:** AuraNeuro
 
-- **Misión**  
-Brindar atención neurológica personalizada mediante IoT e inteligencia artificial, mejorando el diagnóstico, el seguimiento y la prevención de crisis en pacientes.  
+**Elevator pitch:**  
+AuraNeuro transforma datos obtenidos de dispositivos IoT y wearables en información clínica útil para pacientes neurológicos y sus neurólogos. Permite registrar crisis, hábitos y eventos relevantes, analizando tendencias que facilitan decisiones médicas con foco en adherencia y bienestar.
 
-- **Visión**  
-Convertirse en la plataforma líder en salud neurológica digital, integrando monitoreo continuo y telemedicina segura a nivel global.  
+**Propuesta de valor por actor**
+- **Pacientes y cuidadores:** registro digital de crisis y síntomas, recordatorios de medicación y visualización de avances en su tratamiento.  
+- **Profesionales de salud:** panel web con métricas de evolución (tendencias de sueño, frecuencia de crisis, adherencia a tratamientos) para optimizar decisiones clínicas.  
+- **Proveedores IoT:** integración mediante API para envío seguro de señales biométricas (EEG, PPG, HRV) con documentación y entorno de pruebas.
+
+**Diferenciadores**
+- Enfoque en **outcomes de salud** (reducción de episodios, mejora en adherencia terapéutica) más que en funcionalidades.  
+- Diseño centrado en la accesibilidad y facilidad de uso para pacientes con limitaciones motoras o cognitivas.  
+- Integración transparente con dispositivos IoT, priorizando seguridad y privacidad de los datos.
+
+**Privacidad y ética**  
+AuraNeuro maneja información biomédica con criterios éticos y de privacidad basados en HIPAA e ISO 27001. Todos los registros son tratados con consentimiento informado y cifrado en tránsito y almacenamiento. 
 
 #### 1.1.2. Perfiles de integrantes del equipo  
 
