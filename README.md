@@ -2499,19 +2499,20 @@ La aplicación se desplegará en la nube mediante:
 #### 5.2.1. Sprint 1  
 ##### 5.2.1.1. Sprint Planning 1  
 
-| **Sprint #** | Sprint 1 |
-|--------------|----------|
-| **Sprint Planning Background** | El Sprint 1 tiene como objetivo entregar el MVP del Landing Page de Mithycore y el formulario de contacto funcional, como primera pieza publicable que permita validar la propuesta de valor con visitantes y captar leads. |
+| Sprint # | Sprint 1 |
+|-----------|-----------|
+| **Sprint Planning Background** | El Sprint 1 tiene como objetivo implementar y validar el MVP de la **Landing Page de AuraNeuro**, enfocándose en comunicar la propuesta de valor del proyecto y permitir que los usuarios potenciales puedan contactar al equipo mediante un formulario funcional. |
 | **Date** | 2025-09-20 |
 | **Time** | 07:00 PM |
-| **Location** | Reunión virtual (Google Meet ). |
-| **Prepared By** |  Gutierre Tume, Jeremy  |
-| **Attendees (to planning meeting)** | Eduardo Fabián Chacaliaza Minaya / Romero Meza Jhimy Pool / Gutierre Tume, Jeremy / Fabricio Fabián Quispe Barzola / Eduardo Fabián Chacaliaza Minaya |
-| **Sprint 1 – Review Summary** | Durante el Sprint 0 (fase de descubrimiento) se completaron entrevistas con pacientes y profesionales, se definieron User Personas, Empathy Maps, User Task Matrix y Product Backlog. También se diseñó el prototipo del Landing Page en Figma. El Product Owner validó el prototipo y priorizó implementar el Landing Page como entregable inicial. |
-| **Sprint 1 – Retrospective Summary** | El equipo destacó como aciertos la calidad de las entrevistas y la claridad del backlog. Como oportunidades de mejora se identificaron: necesidad de definir criterios de aceptación más claros y mejorar la estimación de esfuerzo. Se acordó implementar reuniones diarias breves y registrar evidencias en GitHub. |
-| **Sprint 1 Goal** | Entregar y publicar el **Landing Page MVP** de Mithycore con formulario de contacto funcional y accesible en producción. |
+| **Location** | Reunión virtual (Google Meet) |
+| **Prepared By** | Gutierrez Tume, Jeremy |
+| **Attendees (to planning meeting)** | Eduardo Fabián Chacaliaza Minaya / Romero Meza Jhimy Pool / Gutierrez Tume, Jeremy / Fabricio Fabián Quispe Barzola |
+| **Sprint 1 – Review Summary** | Durante el Sprint 1, el equipo desarrolló la primera versión de la **Landing Page de AuraNeuro** utilizando HTML, CSS y JavaScript, implementando diseño responsivo e integrando un formulario de contacto funcional conectado al backend. El MVP fue desplegado y revisado por el Product Owner, quien lo aprobó para su validación inicial con usuarios. |
+| **Sprint 1 – Retrospective Summary** | El equipo destacó como fortalezas la colaboración y la distribución de tareas. Como oportunidades de mejora, se identificó la necesidad de refinar la estimación de esfuerzo y automatizar el flujo de despliegue. Se acordó documentar los commits siguiendo la convención **Conventional Commits** y aumentar la frecuencia de revisión en GitHub. |
+| **Sprint Goal** | Validar que la **Landing Page MVP de AuraNeuro** comunique de manera efectiva la propuesta de valor del proyecto y permita que los usuarios potenciales interactúen a través del formulario de contacto, confirmando su usabilidad y consistencia visual en diferentes dispositivos. |
 | **Sprint 1 Velocity** | 20 Story Points |
 | **Sum of Story Points** | 20 |
+
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators  
 
