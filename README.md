@@ -224,48 +224,46 @@ AuraNeuro maneja información biomédica con criterios éticos y de privacidad b
 - **Gestión de artefactos Lean UX:** Fabricio (UXPressia) & Eduardo (Figma)
 
 ### 1.2. Solution Profile  
-
 ### 1.2.1. Antecedentes y problemática
 
 Las enfermedades neurológicas como la epilepsia, el Parkinson y el Alzheimer representan un reto creciente para los sistemas de salud.  
 En América Latina, la atención continúa siendo fragmentada: los diagnósticos suelen realizarse en fases avanzadas y los pacientes carecen de seguimiento continuo.  
 Aunque la OMS estima más de **50 millones de personas con epilepsia** a nivel mundial (OMS, 2020), cerca del **70 % podría controlar sus crisis** con detección temprana y adherencia adecuada.  
 
-Actualmente, los pacientes dependen de anotaciones manuales o consultas esporádicas. Los especialistas reciben información incompleta, y los dispositivos de monitoreo existentes son **costosos o poco accesibles**.  
-Esto genera **falta de continuidad en la atención**, **diagnósticos tardíos** y **decisiones clínicas basadas en datos insuficientes**.
+Actualmente, los pacientes dependen de anotaciones manuales o consultas esporádicas. Los especialistas reciben información incompleta, y los dispositivos de monitoreo existentes son **costosos o poco accesibles**, lo que genera **falta de continuidad en la atención** y **decisiones clínicas basadas en datos insuficientes**.
 
-**AuraNeuro**, iniciativa de la startup **Mithycore**, surge ante esta brecha tecnológica para **facilitar el seguimiento neurológico de manera continua, accesible y segura**, utilizando el potencial de los dispositivos IoT y la analítica avanzada de datos.
+**AuraNeuro**, iniciativa de la startup **Mithycore**, surge para **facilitar el seguimiento neurológico de manera continua, accesible y segura**, aprovechando el potencial de los dispositivos IoT y la analítica avanzada de datos.  
+A continuación, se presenta el análisis **5W+2H** que sustenta la problemática identificada.
 
 ---
 
 #### Análisis 5W + 2H  
 
-| **Pregunta**          | **Descripción (AuraNeuro – Mithycore)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **What (Qué)**        | En la atención neurológica ambulatoria **no existe un registro continuo y centralizado** de crisis, sueño, adherencia y eventos relevantes. La información llega **tardía, fragmentada y subjetiva** (por apuntes o recuerdos del paciente), lo que dificulta **ajustar tratamientos de forma oportuna**.                                                                                                                                                                                                    |
-| **When (Cuándo)**     | El problema se manifiesta **entre consultas médicas** (semanas o meses), durante **episodios críticos** (crisis epilépticas, alteraciones motoras o cognitivas) y en las **rutinas diarias** donde se requieren datos constantes para observar tendencias.                                                                                                                                                                                                                                                   |
-| **Where (Dónde)**     | Ocurre tanto en el **hogar del paciente** (uso cotidiano de sensores o wearables), como en **consultorios, hospitales y teleconsultas**. El ámbito principal es **Latinoamérica urbana**, donde existe conectividad móvil y digitalización parcial en salud.                                                                                                                                                                                                                                                 |
-| **Who (Quién)**       | **Pacientes adultos (20–65 años)** con diagnóstico o sospecha de epilepsia (segmento inicial) y, en fases posteriores, Parkinson o deterioro cognitivo. También participan **neurólogos, terapeutas y psicólogos clínicos** que requieren datos objetivos; **cuidadores/familiares**, **instituciones de salud** y **proveedores IoT** (EEG, EMG, PPG, HRV).                                                                                                                                                 |
-| **Why (Por qué)**     | 1) **Dependencia de registros subjetivos** y poco confiables. <br>2) **Baja interoperabilidad** entre dispositivos IoT y sistemas clínicos (EHR/HL7-FHIR). <br>3) **Falta de analítica en tiempo real** para emitir alertas útiles. <br>4) **Barreras de acceso y usabilidad**, especialmente para pacientes con limitaciones motoras o cognitivas. <br>Todo ello genera **diagnósticos tardíos**, **baja adherencia terapéutica** y **mayores costos hospitalarios**.                                       |
-| **How (Cómo)**        | **AuraNeuro** propone: <br>• Una **aplicación móvil** para registrar síntomas y recibir alertas. <br>• **Sensores IoT** que transmiten datos biométricos (EEG, HRV, sueño) hacia la nube. <br>• Un **dashboard clínico** con visualizaciones, métricas de evolución y exportación a EHR en formato **FHIR/PDF**. <br>• Seguridad basada en **cifrado en tránsito y almacenamiento**, control de acceso y **consentimiento informado**.                                                                       |
-| **How much (Cuánto)** | **Metas del piloto (6–9 meses):** <br>• ≥ **4 registros por semana** por usuario activo. <br>• Reducción ≥ **15 %** en reingresos hospitalarios por crisis neurológicas. <br>• ≥ **60 %** de consultas médicas con historial digital exportado. <br>• **Latencia P95 < 500 ms** y **> 99 %** de mensajes IoT sin pérdida. <br>• Al menos **2 integraciones IoT** y **1 integración FHIR** activas. <br>Estos indicadores cuantifican tanto la magnitud del problema como el impacto esperado de la solución. |
-
+| **Pregunta** | **Descripción (AuraNeuro – Mithycore)** |
+|---------------|------------------------------------------|
+| **What (Qué)** | En la atención neurológica ambulatoria **no existe un registro continuo y centralizado** de crisis, sueño, adherencia y eventos relevantes. La información llega **tardía, fragmentada y subjetiva**, lo que dificulta **ajustar tratamientos de forma oportuna**. |
+| **When (Cuándo)** | El problema se presenta **entre consultas médicas** (semanas o meses), durante **episodios críticos** (crisis epilépticas o alteraciones cognitivas) y en **rutinas diarias** donde se requieren datos continuos para observar tendencias. |
+| **Where (Dónde)** | Ocurre en el **hogar del paciente** (uso de wearables o sensores), en **consultorios, hospitales y teleconsultas**, principalmente en **Latinoamérica urbana**, donde la conectividad y la digitalización son parciales. |
+| **Who (Quién)** | **Pacientes adultos (20–65 años)** con diagnóstico o sospecha de epilepsia (segmento inicial) y, en fases posteriores, Parkinson o deterioro cognitivo. Involucra también a **neurólogos, terapeutas, cuidadores, instituciones de salud** y **proveedores IoT** (EEG, EMG, PPG, HRV). |
+| **Why (Por qué)** | 1) **Dependencia de registros subjetivos** y poco confiables. <br>2) **Baja interoperabilidad** entre dispositivos IoT y sistemas clínicos (**EHR/HL7-FHIR**). <br>3) **Ausencia de analítica en tiempo real** para emitir alertas útiles. <br>4) **Limitaciones de acceso y usabilidad** para pacientes con discapacidad motora o cognitiva. |
+| **How (Cómo)** | **AuraNeuro** propone: <br>• Una **aplicación móvil** para registrar síntomas y recibir alertas. <br>• **Sensores IoT** que transmiten datos biométricos (EEG, HRV, sueño) hacia la nube. <br>• Un **dashboard clínico** con métricas y exportación a EHR (**FHIR/PDF**). <br>• Seguridad basada en **cifrado en tránsito y almacenamiento**, control de acceso y **consentimiento informado**. |
+| **How much (Cuánto)** | **Metas del piloto (6–9 meses):** <br>• ≥ **4 registros por semana** por usuario activo. <br>• Reducción ≥ **15 %** en reingresos hospitalarios. <br>• ≥ **60 %** de consultas con historial digital exportado. <br>• **Latencia P95 < 500 ms** y **> 99 %** de mensajes IoT sin pérdida. <br>• ≥ **2 integraciones IoT** y **1 FHIR** activas. |
 
 ---
 
 #### Declaración de Problema de Negocio (Box 1 – Lean UX Canvas)
 
-> **AuraNeuro**, producto de **Mithycore**, fue diseñado para abordar la brecha en el seguimiento neurológico ambulatorio.  
-> Hemos observado que los pacientes no disponen de una plataforma accesible para registrar sus crisis y hábitos, y los médicos no pueden analizar datos de forma integrada ni oportuna.  
-> Esta situación provoca **diagnósticos tardíos**, **baja adherencia terapéutica** y **costos innecesarios para el sistema de salud**.  
+> **AuraNeuro**, producto de **Mithycore**, busca resolver la brecha en el seguimiento neurológico ambulatorio.  
+> Los pacientes carecen de una plataforma accesible para registrar sus crisis y hábitos, y los médicos no pueden analizar datos de forma integrada ni oportuna.  
+> Esta situación conduce a **diagnósticos tardíos** y **baja adherencia terapéutica**.  
 > **¿Cómo podríamos mejorar la recolección y visualización de datos neurológicos para facilitar decisiones médicas basadas en evidencia**, **medido por una mayor frecuencia de registro y una reducción en hospitalizaciones evitables?**
 
 ---
 
 #### Métricas de éxito (Impact → Outcome)
 
-| Tipo de métrica | Indicador | Objetivo esperado |
-|-----------------|-----------|------------------|
+| **Tipo de métrica** | **Indicador** | **Objetivo esperado** |
+|----------------------|---------------|------------------------|
 | **Impact metric** | Reducción de hospitalizaciones evitables por pacientes neurológicos | Disminuir ≥ 20 % en 6 meses. |
 | **Outcome metric** | Frecuencia de registro de crisis y síntomas en la app | ≥ 4 registros por semana por usuario activo. |
 | **Outcome metric** | Porcentaje de consultas médicas con datos digitales completos | ≥ 60 % de consultas con historial exportado. |
