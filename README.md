@@ -13,7 +13,7 @@
 
 <h1 align="center">Informe de Trabajo Final</h1>  
 
-<p align="center"><strong>Startup:</strong> Mythicore</p>  
+<p align="center"><strong>Startup:</strong> Mithycore</p>  
 <p align="center"><strong>Producto:</strong> AuraNeuro</p>  
 
 ---
@@ -184,7 +184,7 @@ La información se ampliará en cada entrega (**TB1**, **TP1**, **TB2**, **TF1**
 ### 1.1. Startup Profile  
 
 #### 1.1.1. Descripción de la Startup  
-**Mythicore** es una plataforma digital para atención neurológica que integra dispositivos IoT y analítica de IA.  
+**Mithycore** es una plataforma digital para atención neurológica que integra dispositivos IoT y analítica de IA.  
 Su propósito es mejorar el diagnóstico temprano, monitorear en tiempo real a pacientes con enfermedades crónicas y facilitar la telemedicina mediante datos objetivos, reduciendo hospitalizaciones y optimizando la calidad de vida.
 
 - **Misión**  
@@ -212,7 +212,7 @@ Las enfermedades neurologicas, como la epilepsia, el Parkinson y el Alzheimer, r
 
 Los especialistas coinciden en que la integracion de **Internet of Things (IoT)** y **analitica de Inteligencia Artificial (IA)** puede transformar la atencion neurológica, facilitando un monitoreo en tiempo real, detecciones tempranas y la telemedicina. Sin embargo, actualmente las soluciones disponibles son fragmentadas, costosas o de dificil acceso, lo que genera una brecha significativa para pacientes y profesionales de la salud.  
 
-**AuraNeuro**, producto de la startup **Mythicore**, surge como respuesta a esta necesidad, proponiendo un sistema de monitoreo neurologico continuo que capture datos biomédicos mediante dispositivos IoT, los procese con algoritmos de IA y los integre en una plataforma accesible para especialistas y pacientes.  
+**AuraNeuro**, producto de la startup **Mithycore**, surge como respuesta a esta necesidad, proponiendo un sistema de monitoreo neurologico continuo que capture datos biomédicos mediante dispositivos IoT, los procese con algoritmos de IA y los integre en una plataforma accesible para especialistas y pacientes.  
 
 ---
 
@@ -782,7 +782,7 @@ Carlos Paredes es un ingeniero electrónico de 32 años que trabaja como proveed
 
 Comentó que uno de los principales retos es la **interoperabilidad**: muchas veces los dispositivos generan información en distintos formatos, lo que dificulta integrarlos en plataformas médicas centralizadas. También subrayó que la **seguridad de los datos** es fundamental, ya que los clientes demandan protocolos robustos de encriptación y cumplimiento de normas como **HIPAA** o equivalentes locales.  
 
-Carlos confía en marcas como **Empatica**, **Medtronic** y **NeuroSky**, ya que han demostrado respaldo clínico y certificaciones internacionales. Señaló que una colaboración con startups como **Mythicore** puede acelerar la innovación porque estas empresas suelen ser más ágiles para probar pilotos y personalizar soluciones.  
+Carlos confía en marcas como **Empatica**, **Medtronic** y **NeuroSky**, ya que han demostrado respaldo clínico y certificaciones internacionales. Señaló que una colaboración con startups como **Mithycore** puede acelerar la innovación porque estas empresas suelen ser más ágiles para probar pilotos y personalizar soluciones.  
 
 En cuanto a habilidades, dijo sentirse altamente competente en **protocolos IoT (MQTT, BLE, Wi-Fi seguro)**, en el uso de plataformas de nube como **AWS IoT Core** y en el manejo de dashboards analíticos con **Grafana** y **Power BI**. Reconoce que una de sus principales **frustraciones** es que muchas instituciones médicas aún son reacias a adoptar estas tecnologías por falta de presupuesto o desconocimiento.  
 
@@ -799,7 +799,7 @@ Su **objetivo principal** es lograr que las soluciones IoT se integren de forma 
 - Señala como reto principal la **interoperabilidad** de datos y la **seguridad** bajo normas como HIPAA.  
 - Confía en dispositivos de **Empatica, Medtronic y NeuroSky**.  
 - Domina **protocolos IoT (MQTT, BLE, Wi-Fi seguro)** y plataformas como **AWS IoT, Grafana y Power BI**.  
-- Considera que una alianza con startups como **Mythicore** puede agilizar pilotos y soluciones personalizadas.  
+- Considera que una alianza con startups como **Mithycore** puede agilizar pilotos y soluciones personalizadas.  
 - Menciona como **frustración** la resistencia institucional por falta de presupuesto o desconocimiento.  
 - Su **objetivo** es integrar IoT con historias clínicas electrónicas y telemedicina para dar soporte en tiempo real a médicos y pacientes.  
 
@@ -927,7 +927,7 @@ Un 50% de los entrevistados mencionó haber buscado apoyo en **comunidades onlin
 - Preocupación por la seguridad de los datos personales.  
 
 **Conclusión:**  
-Este segmento evidencia que **Mythicore** puede mejorar la calidad de vida de los pacientes al ofrecer un sistema de monitoreo confiable, accesible y conectado con la historia clínica, brindando independencia y tranquilidad tanto al paciente como a su familia.  
+Este segmento evidencia que **Mithycore** puede mejorar la calidad de vida de los pacientes al ofrecer un sistema de monitoreo confiable, accesible y conectado con la historia clínica, brindando independencia y tranquilidad tanto al paciente como a su familia.  
 
 ---
 
@@ -952,7 +952,7 @@ El **100%** visualiza que la integración de IoT y plataformas digitales permiti
 - Necesidad de acceso remoto a la información.  
 
 **Conclusión:**  
-Este segmento muestra que **Mythicore** responde a una necesidad real del sector salud: ofrecer **datos continuos y objetivos** que mejoren diagnósticos, optimicen tratamientos y reduzcan hospitalizaciones, impactando positivamente en la eficiencia del sistema sanitario.  
+Este segmento muestra que **Mithycore** responde a una necesidad real del sector salud: ofrecer **datos continuos y objetivos** que mejoren diagnósticos, optimicen tratamientos y reduzcan hospitalizaciones, impactando positivamente en la eficiencia del sistema sanitario.  
 
 ---
 
@@ -977,13 +977,13 @@ El **100%** destacó que el futuro de las soluciones IoT está en la integració
 - Interés en la expansión hacia un modelo de **monitoreo remoto global**.  
 
 **Conclusión:**  
-Este segmento confirma que **Mythicore** puede posicionarse como una plataforma que une a proveedores IoT con profesionales de la salud, ofreciendo un entorno **seguro, interoperable y escalable**, clave para la adopción global de soluciones digitales en neurología.  
+Este segmento confirma que **Mithycore** puede posicionarse como una plataforma que une a proveedores IoT con profesionales de la salud, ofreciendo un entorno **seguro, interoperable y escalable**, clave para la adopción global de soluciones digitales en neurología.  
 
 ---
 
 ### 2.3. Needfinding  
 #### 2.3.1. User Personas  
-En esta parte del informe presentamos a los User Personas construidos a partir de entrevistas y análisis de los segmentos objetivo de Mythicore. Estas representaciones ficticias, pero basadas en datos reales, nos permiten comprender mejor cómo piensan, qué esperan y qué problemas enfrentan nuestros usuarios. Con esta información, el equipo puede diseñar una solución alineada a necesidades auténticas y no solo a supuestos.
+En esta parte del informe presentamos a los User Personas construidos a partir de entrevistas y análisis de los segmentos objetivo de Mithycore. Estas representaciones ficticias, pero basadas en datos reales, nos permiten comprender mejor cómo piensan, qué esperan y qué problemas enfrentan nuestros usuarios. Con esta información, el equipo puede diseñar una solución alineada a necesidades auténticas y no solo a supuestos.
 
 User Persona – Segmento 1: Paciente(epilepsia crónica):
 
@@ -999,7 +999,7 @@ User Persona - Segmento 3: Proveedores IoT:
 
 #### 2.3.2. User Task Matrix  
 
-La siguiente matriz relaciona a los roles de usuario de la plataforma **Mythicore** con las principales tareas que realizan.  
+La siguiente matriz relaciona a los roles de usuario de la plataforma **Mithycore** con las principales tareas que realizan.  
 Cada tarea está asociada a una **prioridad** (Alta, Media, Baja) y una **frecuencia de uso** (Alta, Media, Baja).  
 Esto permite identificar qué funciones son críticas para cada segmento objetivo.
 
@@ -1056,7 +1056,7 @@ Empathy Mapping - Segmento 3: Proveedores IoT:
 
 ### 2.4. Big Picture EventStorming  
 
-El Big Picture Event Storming es una técnica colaborativa que nos permitió visualizar el dominio completo de nuestra solución, identificando actores, eventos clave, problemas, dudas, sistemas externos y oportunidades. A través de esta dinámica, el equipo logró comprender de manera compartida el flujo de procesos en la atención neurológica digital y cómo nuestra plataforma Mythicore puede integrarse para resolver brechas críticas.  
+El Big Picture Event Storming es una técnica colaborativa que nos permitió visualizar el dominio completo de nuestra solución, identificando actores, eventos clave, problemas, dudas, sistemas externos y oportunidades. A través de esta dinámica, el equipo logró comprender de manera compartida el flujo de procesos en la atención neurológica digital y cómo nuestra plataforma Mithycore puede integrarse para resolver brechas críticas.  
 
 ### Big Picture Event Storming - Leyenda de Colores    
 ![Empathy Mapping - Proveedores](img/bigpicture1.png) 
@@ -1151,7 +1151,7 @@ Impact Mapping - Segmento 3: Proveedores IoT:
 | US03.1 | Agendamiento de teleconsulta | Como **paciente**, quiero agendar una teleconsulta con mi médico para recibir atención remota. | DADO QUE el paciente necesita una consulta, CUANDO selecciona fecha y hora disponibles, ENTONCES la plataforma debe registrar y confirmar la cita. | EP03 |
 | US03.2 | Consulta con datos integrados | Como **médico**, quiero tener acceso a los datos IoT del paciente durante la teleconsulta para tomar mejores decisiones. | DADO QUE la teleconsulta está en curso, CUANDO el médico accede al panel, ENTONCES los datos neurológicos deben estar visibles en tiempo real. | EP03 |
 | EP04 | Landing Page | Proveer un sitio estático para visitantes donde se presente información clara sobre el producto y servicios. | - | - |
-| US04.1 | Información del producto | Como **visitante**, quiero conocer la propuesta de valor de Mythicore para entender cómo funciona. | DADO QUE el visitante accede al sitio, CUANDO entra a la sección principal, ENTONCES debe ver un resumen del producto y sus beneficios. | EP04 |
+| US04.1 | Información del producto | Como **visitante**, quiero conocer la propuesta de valor de Mithycore para entender cómo funciona. | DADO QUE el visitante accede al sitio, CUANDO entra a la sección principal, ENTONCES debe ver un resumen del producto y sus beneficios. | EP04 |
 | US04.2 | Servicios y segmentos | Como **visitante**, quiero explorar los servicios disponibles según mi perfil (paciente, médico, institución). | DADO QUE el visitante navega en el sitio, CUANDO selecciona una sección, ENTONCES se le muestra la información adaptada a su perfil. | EP04 |
 | US04.3 | Contacto | Como **visitante**, quiero enviar un mensaje de contacto para obtener más información. | DADO QUE el visitante ingresa al formulario, CUANDO completa sus datos, ENTONCES la plataforma debe registrar y enviar el mensaje al equipo. | EP04 |
 | EP05 | RESTful API | Brindar una API para integradores externos (hospitales, aseguradoras, investigadores). | - | - |
@@ -2036,7 +2036,7 @@ La aplicación se desplegará en la nube mediante:
 
 | **Sprint #** | Sprint 1 |
 |--------------|----------|
-| **Sprint Planning Background** | El Sprint 1 tiene como objetivo entregar el MVP del Landing Page de Mythicore y el formulario de contacto funcional, como primera pieza publicable que permita validar la propuesta de valor con visitantes y captar leads. |
+| **Sprint Planning Background** | El Sprint 1 tiene como objetivo entregar el MVP del Landing Page de Mithycore y el formulario de contacto funcional, como primera pieza publicable que permita validar la propuesta de valor con visitantes y captar leads. |
 | **Date** | 2025-09-20 |
 | **Time** | 07:00 PM |
 | **Location** | Reunión virtual (Google Meet ). |
@@ -2044,7 +2044,7 @@ La aplicación se desplegará en la nube mediante:
 | **Attendees (to planning meeting)** | Eduardo Fabián Chacaliaza Minaya / Romero Meza Jhimy Pool / Gutierre Tume, Jeremy / Fabricio Fabián Quispe Barzola / Eduardo Fabián Chacaliaza Minaya |
 | **Sprint 1 – Review Summary** | Durante el Sprint 0 (fase de descubrimiento) se completaron entrevistas con pacientes y profesionales, se definieron User Personas, Empathy Maps, User Task Matrix y Product Backlog. También se diseñó el prototipo del Landing Page en Figma. El Product Owner validó el prototipo y priorizó implementar el Landing Page como entregable inicial. |
 | **Sprint 1 – Retrospective Summary** | El equipo destacó como aciertos la calidad de las entrevistas y la claridad del backlog. Como oportunidades de mejora se identificaron: necesidad de definir criterios de aceptación más claros y mejorar la estimación de esfuerzo. Se acordó implementar reuniones diarias breves y registrar evidencias en GitHub. |
-| **Sprint 1 Goal** | Entregar y publicar el **Landing Page MVP** de Mythicore con formulario de contacto funcional y accesible en producción. |
+| **Sprint 1 Goal** | Entregar y publicar el **Landing Page MVP** de Mithycore con formulario de contacto funcional y accesible en producción. |
 | **Sprint 1 Velocity** | 20 Story Points |
 | **Sum of Story Points** | 20 |
 
@@ -2074,7 +2074,7 @@ Cada aspecto fue asignado a un **líder** (L) responsable de su entrega y uno o 
 
 ##### 5.2.1.3. Sprint Backlog 1  
 
-El Sprint 1 se centró en implementar y desplegar el **Landing Page MVP** de Mythicore en un entorno web accesible mediante navegador, utilizando **HTML, CSS y JavaScript**.  
+El Sprint 1 se centró en implementar y desplegar el **Landing Page MVP** de Mithycore en un entorno web accesible mediante navegador, utilizando **HTML, CSS y JavaScript**.  
 El objetivo principal fue entregar un sitio mínimo viable que permita a los usuarios conocer la propuesta de valor de la plataforma y comunicarse a través de un formulario de contacto funcional.  
 
 | **Sprint #** | **User Story** | **Work-Item / Task** | **Descripción** | **Estimación (Horas)** | **Assigned To** | **Status** |
@@ -2096,7 +2096,7 @@ El objetivo principal fue entregar un sitio mínimo viable que permita a los usu
 
 ##### 5.2.1.4. Development Evidence for Sprint Review  
 
-Durante el Sprint 1 se avanzó con la implementación del **Landing Page MVP** de Mythicore en el repositorio `LandingpageAplicacionesWeb`.  
+Durante el Sprint 1 se avanzó con la implementación del **Landing Page MVP** de Mithycore en el repositorio `LandingpageAplicacionesWeb`.  
 Se realizaron ajustes en la estructura del archivo principal, correcciones en el footer y adición de secciones clave (Navbar, Hero, About, Footer).  
 
 A continuación, se listan los commits registrados en GitHub:
@@ -2111,7 +2111,7 @@ A continuación, se listan los commits registrados en GitHub:
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review  
   
-Durante el Sprint 1 se implementó y desplegó el **Landing Page MVP** de Mythicore utilizando **HTML, CSS y JavaScript**.  
+Durante el Sprint 1 se implementó y desplegó el **Landing Page MVP** de Mithycore utilizando **HTML, CSS y JavaScript**.  
 El entregable principal fue una página accesible en navegador, con las siguientes secciones:  
 
 - Home
@@ -2176,7 +2176,7 @@ Este proceso se llevó a cabo utilizando **GitHub Pages** como proveedor de host
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint  
 
-Durante el Sprint 1, el equipo de Mythicore trabajó de manera colaborativa en la implementación y despliegue del **Landing Page MVP** utilizando **HTML, CSS y JavaScript**.  
+Durante el Sprint 1, el equipo de Mithycore trabajó de manera colaborativa en la implementación y despliegue del **Landing Page MVP** utilizando **HTML, CSS y JavaScript**.  
 Cada integrante del equipo asumió un rol específico (frontend, backend, integración, UX/UI, CI/CD), pero también colaboró en revisión de código, pruebas y documentación.  
 
 ---
