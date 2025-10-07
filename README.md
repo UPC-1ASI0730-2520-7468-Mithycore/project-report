@@ -269,194 +269,168 @@ A continuación, se presenta el análisis **5W+2H** que sustenta la problemátic
 | **Outcome metric** | Porcentaje de consultas médicas con datos digitales completos | ≥ 60 % de consultas con historial exportado. |
 | **Leading metric** | Número de proveedores IoT integrados (SDK/API) | ≥ 2 integraciones validadas en 3 meses. |
 
-#### 1.2.2. Lean UX Process  
+### 1.2.2. Lean UX Process  
 
-##### 1.2.2.1. Lean UX Problem Statement 
-
-El **Business Problem Statement** define el desafío central que aborda **Mithycore** a través del proyecto **AuraNeuro**, conforme al formato oficial del *Lean UX Canvas (v2)*.  
-Este artefacto describe el contexto actual del problema, la brecha en el mercado y los indicadores que validarán el éxito del producto.
+> En esta sección aplicamos el **Lean UX Process** según *Lean UX 3rd Edition*, estructurado en los siguientes componentes: **Problem Statements, Assumptions, Hypothesis Statements** y **Lean UX Canvas**.  
+> Se utiliza el formato oficial recomendado en el curso y en el libro (*Gothelf & Seiden, 2021*).
 
 ---
 
-**Lean UX Problem Statement:**
+#### 1.2.2.1. Lean UX Problem Statement  
 
-> The current state of **neurological health monitoring** has focused mainly on **occasional clinical evaluations and manual patient reports**, limiting continuous observation and personalized care.  
-> Existing products and services **fail to provide accessible, affordable, and real-time monitoring tools** that connect patients and neurologists effectively.  
-> **AuraNeuro**, developed by **Mithycore**, will address this gap by **integrating IoT-based biosensors with AI analytics** to enable continuous neurological monitoring and data-driven decision-making.  
-> Our initial focus will be on **adult patients (ages 20–65) with diagnosed or potential neurological disorders** who require preventive and adaptive treatment plans.  
-> We’ll know we are successful when we see **early detection of neurological events, reduced hospital readmissions, and improved patient quality of life**.
+El **Problem Statement** describe el contexto actual, las limitaciones y la oportunidad que busca resolver la solución digital.  
+Se formula respondiendo a los cuatro elementos clave indicados en *Lean UX (3rd Edition)*: **context**, **problem**, **impact**, y **measure of success**.
 
 ---
 
-**Traducción (referencial):**  
-> El estado actual del monitoreo neurológico se basa en evaluaciones clínicas esporádicas y reportes manuales, limitando la observación continua.  
-> Los productos existentes no ofrecen herramientas accesibles, asequibles y en tiempo real que conecten de manera efectiva a pacientes y especialistas.  
-> **AuraNeuro**, desarrollado por **Mithycore**, aborda esta brecha mediante la integración de biosensores IoT y analítica de IA para habilitar un monitoreo continuo y decisiones clínicas basadas en datos.  
-> El enfoque inicial son **pacientes adultos (20–65 años)** con trastornos neurológicos diagnosticados o en riesgo.  
-> El éxito se medirá por la **detección temprana de eventos neurológicos, reducción de reingresos hospitalarios y mejora en la calidad de vida**.
+**Lean UX Problem Statement (English):**
 
-##### 1.2.2.2. Lean UX Assumptions
-
-Las **assumptions** representan las creencias iniciales del equipo **Mithycore** acerca de los usuarios, el valor que la solución aporta, el modelo de negocio, las funcionalidades esperadas y la viabilidad técnica.  
-Estas suposiciones se formulan antes de realizar validaciones y se registran en el *Lean UX Canvas (Boxes 3–5)* conforme al formato oficial del *Lean UX 3rd Edition*.
+> The current state of **neurological health monitoring** depends on **occasional clinical evaluations** and **manual symptom reports**.  
+> This leads to **delayed diagnoses**, **fragmented information**, and **low treatment adherence** among patients with neurological disorders.  
+> We believe that by providing a **continuous, data-driven monitoring experience** that connects patients and neurologists through IoT devices and analytics, we can **improve diagnostic accuracy and patient engagement**.  
+> We’ll know this is true when we observe **a measurable reduction in hospital readmissions**, **an increase in weekly patient activity**, and **greater clinical data completeness**.
 
 ---
 
-**Lean UX Assumptions — AuraNeuro**
+**Traducción (referencial):**
 
-**a) User Assumptions**  
-- Patients with neurological conditions experience recurring symptoms that are difficult to track manually.  
-- Neurologists require real-time and continuous data to adjust treatments effectively.  
-- Caregivers are willing to use mobile applications to monitor and report patient symptoms.  
+> El estado actual del **monitoreo neurológico** depende de **evaluaciones clínicas ocasionales** y **reportes manuales de síntomas**.  
+> Esto genera **diagnósticos tardíos**, **información fragmentada** y **baja adherencia terapéutica** entre los pacientes con trastornos neurológicos.  
+> Creemos que al ofrecer una **experiencia de monitoreo continuo basada en datos**, que conecte a pacientes y neurólogos mediante dispositivos IoT y analítica, podremos **mejorar la precisión diagnóstica y la participación del paciente**.  
+> Sabremos que esto es cierto cuando observemos **una reducción medible en reingresos hospitalarios**, **un aumento en la actividad semanal de los usuarios** y **una mayor completitud de datos clínicos**.
 
-**b) Value Assumptions**  
-- Continuous monitoring through IoT sensors improves early detection of neurological events.  
-- Data-driven reports increase patient engagement and medical decision accuracy.  
-- Users will perceive value in receiving personalized alerts and simplified progress tracking.  
+---
 
-**c) Business Assumptions**  
-- Hospitals and clinics will be interested in adopting low-cost, digital monitoring systems.  
-- Reducing avoidable hospitalizations generates measurable savings for healthcare institutions.  
-- Subscription or service-based models are feasible within the Latin American health market.  
+#### 1.2.2.2. Lean UX Assumptions  
+
+Según *Lean UX (3rd Edition)*, las **assumptions** se agrupan en cuatro tipos:
+
+1. **Business Assumptions** — sobre la viabilidad y objetivos del negocio.  
+2. **User Assumptions** — sobre quiénes son los usuarios y qué necesitan.  
+3. **Value Assumptions** — sobre el valor que la solución les genera.  
+4. **Feature Assumptions** — sobre qué características permitirán entregar ese valor.
+
+---
+
+**Lean UX Assumptions (English):**
+
+**a) Business Assumptions**  
+- Healthcare institutions need digital solutions that reduce hospital readmissions and monitoring costs.  
+- A subscription-based or SaaS model can be sustainable in the Latin American health sector.  
+- Demonstrable clinical improvement (adherence, fewer crises) will drive adoption by doctors and institutions.
+
+**b) User Assumptions**  
+- Patients with neurological disorders find it difficult to consistently log symptoms without digital support.  
+- Neurologists require continuous and visual data to make informed decisions.  
+- Caregivers are motivated to help patients track and share relevant information if the process is simple and reliable.
+
+**c) Value Assumptions**  
+- Real-time insights increase trust and engagement among patients and clinicians.  
+- Continuous monitoring enables early detection and better adherence to treatment.  
+- Data-driven reports save time for medical professionals and reduce uncertainty for patients.
 
 **d) Feature Assumptions**  
-- A dashboard with graphical reports will enhance neurologists’ data interpretation.  
-- Automated alerts improve treatment adherence among patients.  
-- Simplified user interfaces will reduce friction and increase adoption.  
-
-**e) Technical Assumptions**  
-- IoT sensors can transmit biometric data securely and reliably to the cloud.  
-- The AI model can classify abnormal patterns with acceptable accuracy using limited data.  
-- The system architecture supports scalability for multiple hospitals and users.  
+- Dashboards with visual trends help neurologists understand patient progress quickly.  
+- Notifications and alerts encourage patients to maintain adherence.  
+- Easy-to-use logging interfaces promote frequent interaction and data accuracy.
 
 ---
 
-**Conclusión:**  
-Estas suposiciones conforman la base del proceso de validación del *Lean UX Canvas*.  
-Durante las siguientes etapas se diseñarán experimentos (Box 8) para **confirmar o refutar** las assumptions con evidencia empírica.
+**Traducción (referencial):**
+
+**a) Supuestos de Negocio**  
+- Las instituciones de salud necesitan soluciones digitales que reduzcan los reingresos hospitalarios y los costos de monitoreo.  
+- Un modelo de suscripción o SaaS puede ser sostenible en el sector salud latinoamericano.  
+- Las mejoras clínicas demostrables (adherencia, reducción de crisis) impulsarán la adopción por parte de médicos e instituciones.
+
+**b) Supuestos de Usuario**  
+- Los pacientes con trastornos neurológicos tienen dificultades para registrar sus síntomas de forma constante sin apoyo digital.  
+- Los neurólogos requieren datos continuos y visuales para tomar decisiones informadas.  
+- Los cuidadores están motivados a apoyar el seguimiento si el proceso es simple y confiable.
+
+**c) Supuestos de Valor**  
+- Las visualizaciones en tiempo real aumentan la confianza y el compromiso entre pacientes y clínicos.  
+- El monitoreo continuo permite una detección temprana y una mejor adherencia al tratamiento.  
+- Los reportes basados en datos ahorran tiempo a los profesionales de salud y reducen la incertidumbre en los pacientes.
+
+**d) Supuestos de Funcionalidad**  
+- Los tableros con tendencias visuales ayudan a los neurólogos a entender rápidamente la evolución del paciente.  
+- Las notificaciones y alertas fomentan la adherencia terapéutica.  
+- Las interfaces simples promueven la interacción frecuente y la precisión en el registro.
 
 ---
 
-##### 1.2.2.3. Lean UX Hypothesis Statements 
+#### 1.2.2.3. Lean UX Hypothesis Statements  
 
-Las **hipótesis** representan afirmaciones medibles que el equipo **Mithycore** formula a partir de las *assumptions* identificadas.  
-Cada hipótesis se redacta siguiendo el formato oficial del *Lean UX 3rd Edition*, con el propósito de validarlas mediante evidencias reales obtenidas durante las próximas iteraciones del proyecto.
+Cada hipótesis se formula conforme al patrón estándar del libro:
+
+> **We believe that [this outcome] will be achieved if [these users] attain [this benefit].**  
+> We will know this is true when we observe [this measurable result].
 
 ---
 
-###### **Lean UX Hypothesis Statements — AuraNeuro**
+**Lean UX Hypothesis Statements (English):**
 
-**a) User Hypothesis**  
-> We believe that **patients with neurological conditions** will use AuraNeuro at least **four times per week** to log symptoms and check alerts.  
-> We will know this is true when we observe **consistent engagement and usage frequency**.  
-> We will measure this by **the number of active sessions and logs per user per week**.
+**a) Business Hypothesis**  
+> We believe that **hospitals and neurologists** will adopt AuraNeuro if it **reduces patient readmissions and saves monitoring costs**.  
+> We’ll know this is true when we see **pilot programs or institutional partnerships** with measurable cost reductions.
 
-**b) Value Hypothesis**  
-> We believe that **continuous IoT-based monitoring** will help patients **detect early neurological anomalies** and **reduce emergency visits**.  
-> We will know this is true when we observe **a decrease in hospital readmissions** among active users.  
-> We will measure this by **tracking hospitalization rates and follow-up records**.
+**b) User Hypothesis**  
+> We believe that **patients with neurological disorders** will use AuraNeuro regularly **if it helps them visualize progress and receive useful alerts**.  
+> We’ll know this is true when we see **consistent weekly usage (≥4 sessions)** and **positive feedback on alert relevance**.
 
-**c) Business Hypothesis**  
-> We believe that **health institutions and neurologists** will adopt AuraNeuro because it **reduces monitoring costs and improves diagnostic efficiency**.  
-> We will know this is true when we observe **subscriptions, partnerships, or pilot implementations** by clinics or hospitals.  
-> We will measure this by **the number of institutions or specialists using the system**.
+**c) Value Hypothesis**  
+> We believe that **continuous IoT monitoring and data-driven insights** will lead to **fewer emergency visits and better treatment adherence**.  
+> We’ll know this is true when we observe a **decrease in readmission rates (≥15%)** and **increased patient adherence metrics**.
 
 **d) Feature Hypothesis**  
-> We believe that **real-time alerts and visual dashboards** will improve **treatment adherence** and **clinical decision-making**.  
-> We will know this is true when we observe **an increase in alert responses and report consultations by neurologists**.  
-> We will measure this by **the percentage of alert responses and dashboard interactions**.
-
-**e) Technical Hypothesis**  
-> We believe that **IoT sensors connected through secure protocols (MQTT/HTTPS)** will **transmit biometric data reliably** without data loss.  
-> We will know this is true when we observe **consistent data flow and successful synchronization events**.  
-> We will measure this by **the number of successful transmissions versus errors in the data pipeline**.
+> We believe that **simple symptom logging, alert notifications, and clinician dashboards** will enable **better collaboration and decision-making**.  
+> We’ll know this is true when we observe **more complete patient records** and **active clinician dashboard usage**.
 
 ---
 
-###### **Traducción interpretativa (en español)**
+**Traducción (referencial):**
 
-**a) Hipótesis de Usuario**  
-> Creemos que los **pacientes con enfermedades neurológicas** usarán AuraNeuro al menos **cuatro veces por semana** para registrar síntomas y revisar alertas.  
-> Sabremos que esto es cierto cuando observemos **uso constante y frecuencia de interacción**, medido por **el número de sesiones y registros activos por usuario por semana**.
+**a) Hipótesis de Negocio**  
+> Creemos que los **hospitales y neurólogos** adoptarán AuraNeuro si **reduce los reingresos hospitalarios y los costos de monitoreo**.  
+> Sabremos que esto es cierto cuando veamos **programas piloto o alianzas institucionales** con reducciones de costos medibles.
 
-**b) Hipótesis de Valor**  
-> Creemos que el **monitoreo continuo mediante IoT** permitirá **detectar tempranamente anomalías neurológicas** y **reducir visitas de emergencia**.  
-> Sabremos que esto es cierto cuando veamos **una disminución de hospitalizaciones** entre los usuarios activos, medida por **tasas de reingreso hospitalario y registros de seguimiento**.
+**b) Hipótesis de Usuario**  
+> Creemos que los **pacientes con trastornos neurológicos** usarán AuraNeuro regularmente **si les ayuda a visualizar su progreso y recibir alertas útiles**.  
+> Sabremos que esto es cierto cuando observemos **uso semanal constante (≥4 sesiones)** y **retroalimentación positiva sobre la relevancia de las alertas**.
 
-**c) Hipótesis de Negocio**  
-> Creemos que **instituciones de salud y neurólogos** adoptarán AuraNeuro porque **reduce costos de monitoreo y mejora la eficiencia diagnóstica**.  
-> Sabremos que esto es cierto cuando observemos **suscripciones, alianzas o pilotos implementados por clínicas o hospitales**, medido por **el número de instituciones o especialistas activos**.
+**c) Hipótesis de Valor**  
+> Creemos que el **monitoreo IoT continuo y los reportes basados en datos** conducirán a **menos visitas de emergencia y mejor adherencia al tratamiento**.  
+> Sabremos que esto es cierto cuando observemos **una disminución en los reingresos (≥15%)** y **mayores métricas de adherencia**.
 
 **d) Hipótesis de Funcionalidad**  
-> Creemos que las **alertas en tiempo real y los paneles visuales** mejorarán la **adherencia al tratamiento** y la **toma de decisiones clínicas**.  
-> Sabremos que esto es cierto cuando veamos **un aumento en las respuestas a alertas y consultas de reportes**, medido por **el porcentaje de interacciones en el panel y respuestas a notificaciones**.
+> Creemos que el **registro simple de síntomas, las alertas y el panel clínico** permitirán **una mejor colaboración y toma de decisiones**.  
+> Sabremos que esto es cierto cuando veamos **registros de pacientes más completos** y **uso activo del panel por parte de los médicos**.
 
-**e) Hipótesis Técnica**  
-> Creemos que los **sensores IoT conectados mediante protocolos seguros (MQTT/HTTPS)** **transmitirán datos biométricos de forma confiable y sin pérdida**.  
-> Sabremos que esto es cierto cuando observemos **flujo de datos constante y sincronización exitosa**, medido por **el número de transmisiones exitosas frente a errores en la comunicación**.
+---
+
+#### 1.2.2.4. Lean UX Canvas – AuraNeuro  
+
+El siguiente cuadro resume los principales componentes del **Lean UX Canvas (v2)** aplicados a AuraNeuro, conforme al formato de *Lean UX 3rd Edition*.
+
+| **Box** | **Component** | **Summary (English)** | **Traducción (Español)** |
+|----------|----------------|------------------------|----------------------------|
+| **1** | **Business Problem** | Neurological monitoring depends on occasional checkups and manual reports. Existing solutions are expensive and disconnected. | El monitoreo neurológico depende de evaluaciones esporádicas y reportes manuales. Las soluciones actuales son costosas y poco integradas. |
+| **2** | **Business Outcomes** | Reduce hospital readmissions and monitoring costs; increase clinical efficiency and patient engagement. | Reducir reingresos y costos; aumentar eficiencia clínica y compromiso del paciente. |
+| **3** | **Users & Customers** | Adult patients (20–65) with neurological disorders, neurologists, and caregivers. | Pacientes adultos (20–65), neurólogos y cuidadores. |
+| **4** | **User Outcomes & Benefits** | Patients detect anomalies early; doctors access continuous data for informed decisions. | Los pacientes detectan anomalías tempranas; los médicos acceden a datos continuos para decisiones informadas. |
+| **5** | **Solutions** | IoT-based sensors connected to an app and clinician dashboard for alerts, trends, and reports. | Sensores IoT conectados a una app y un panel clínico para alertas, tendencias y reportes. |
+| **6** | **Assumptions** | Business, User, Value, and Feature assumptions guiding MVP validation. | Supuestos de negocio, usuario, valor y funcionalidad que guían la validación del MVP. |
+| **7** | **Hypotheses** | See Section 1.2.2.3 — measurable hypotheses for validation. | Ver sección 1.2.2.3 — hipótesis medibles para validar valor, adopción y efectividad. |
+| **8** | **Experiments** | Conduct MVP pilot with 20 patients and 5 doctors over 8 weeks; measure usage frequency, alert accuracy, and satisfaction. | Ejecutar piloto MVP con 20 pacientes y 5 médicos durante 8 semanas; medir frecuencia de uso, precisión de alertas y satisfacción. |
 
 ---
 
 **Conclusión:**  
-Estas hipótesis servirán como base para la siguiente etapa del proceso *Lean UX Canvas* (Box 8), donde se diseñarán los **experimentos y MVPs** necesarios para comprobarlas con usuarios reales.
-
-
-##### 1.2.2.4. Lean UX Canvas
-
-El siguiente cuadro resume los componentes principales del **Lean UX Canvas (v2)** aplicados al proyecto **AuraNeuro**, producto de la startup **Mithycore**.  
-Este artefacto consolida las secciones previas: *Problem Statement, Assumptions, Hypotheses* y los resultados esperados.  
-Todos los elementos se expresan conforme al formato oficial del *Lean UX 3rd Edition*.
+El *Lean UX Process* aplicado a **AuraNeuro** permite conectar las necesidades reales de los usuarios con los objetivos del negocio mediante hipótesis medibles y experimentos iterativos.  
+El equipo **Mithycore** usará estos artefactos como guía para las fases de validación y desarrollo incremental.
 
 ---
-
-#### **Lean UX Canvas – AuraNeuro**
-
-| **Box** | **Component** | **Summary (in English)** | **Traducción (en español)** |
-|----------|----------------|--------------------------|------------------------------|
-| **1** | **Business Problem** | The current state of neurological health monitoring relies on occasional evaluations and manual reports. Existing tools fail to provide affordable, real-time monitoring that connects patients and neurologists. | El monitoreo neurológico depende de evaluaciones esporádicas y reportes manuales. Las herramientas actuales no ofrecen monitoreo accesible y en tiempo real que conecte a pacientes y neurólogos. |
-| **2** | **Business Outcomes** | Reduce hospital readmissions, improve diagnostic accuracy, and increase patient engagement. | Reducir reingresos hospitalarios, mejorar precisión diagnóstica e incrementar la participación del paciente. |
-| **3** | **Users** | Adult patients (20–65) with neurological disorders; healthcare professionals (neurologists, therapists); and IoT device providers integrating medical wearables. | Pacientes adultos (20–65) con trastornos neurológicos; profesionales de la salud (neurólogos, terapeutas); y proveedores de dispositivos IoT que integran wearables médicos. |
-| **4** | **User Outcomes & Benefits** | Patients can detect anomalies early and share continuous data; neurologists gain objective insights for decision-making. | Los pacientes detectan anomalías tempranas y comparten datos continuos; los neurólogos obtienen información objetiva para decisiones clínicas. |
-| **5** | **Solutions** | IoT-based biosensors connected to an AI-driven dashboard with real-time alerts, visual reports, and progress tracking. | Biosensores IoT conectados a un panel con IA, alertas en tiempo real, reportes visuales y seguimiento de progreso. |
-| **6** | **Hypotheses** | We believe continuous IoT monitoring and real-time dashboards will reduce hospitalizations and improve treatment adherence. | Creemos que el monitoreo IoT continuo y los paneles en tiempo real reducirán hospitalizaciones y mejorarán la adherencia al tratamiento. |
-
----
-
-**Conclusión:**  
-El *Lean UX Canvas* permite visualizar de manera integrada el proceso de descubrimiento de valor aplicado por **Mithycore** para desarrollar **AuraNeuro**, alineando el problema, las necesidades de los usuarios y las hipótesis medibles que guían la validación del producto.
-
-
-## 1.3. Segmentos Objetivos 
-
-El proyecto **AuraNeuro**, desarrollado por **Mithycore**, se orienta a tres segmentos principales identificados mediante entrevistas y análisis de campo.  
-Cada grupo representa un eslabón clave dentro del ecosistema de la salud neurológica digital.
-
----
-
-#### 1.3.1. Segmento objetivo #1: Pacientes neurológicos
-- **Perfil:** Adultos de 20 a 65 años con diagnóstico o riesgo de epilepsia, Parkinson o deterioro cognitivo.  
-- **Necesidades/problemas:** Falta de monitoreo continuo, dificultad para registrar síntomas y baja adherencia al tratamiento.  
-- **Beneficio con AuraNeuro:** Seguimiento en tiempo real mediante biosensores IoT, alertas tempranas y reportes accesibles que mejoran la adherencia y la calidad de vida.
-
----
-
-#### 1.3.2. Segmento objetivo #2: Profesionales de la salud (neurólogos, psicólogos, fisioterapeutas)
-- **Perfil:** Especialistas en diagnóstico y rehabilitación neurológica.  
-- **Necesidades/problemas:** Información fragmentada, dificultad para evaluar la evolución del paciente y sobrecarga de datos no estandarizados.  
-- **Beneficio con AuraNeuro:** Dashboard con datos biométricos, cognitivos y emocionales en tiempo real, interoperable con sistemas clínicos (HL7-FHIR).
-
----
-
-#### 1.3.3. Segmento objetivo #3: Proveedores de dispositivos IoT y servicios de integración
-- **Perfil:** Empresas que desarrollan wearables médicos, sensores EEG/EMG y plataformas de datos biométricos.  
-- **Necesidades/problemas:** Falta de interoperabilidad, visibilidad comercial y canales seguros para integrar sus dispositivos con aplicaciones clínicas.  
-- **Beneficio con AuraNeuro:** Ecosistema de colaboración que permite integrar sus productos a la plataforma, ampliar alcance comercial y garantizar compatibilidad con estándares internacionales.
-
----
-
-**Conclusión:**  
-Estos tres segmentos conforman un **ecosistema conectado** donde cada actor genera y recibe valor.  
-**AuraNeuro** posiciona a **Mithycore** como una plataforma de convergencia entre pacientes, profesionales y proveedores tecnológicos, consolidando un modelo B2B2C (Business–to–Business–to–Consumer) sostenible.
 
 
 ## Capítulo II: Requirements Elicitation & Analysis  
