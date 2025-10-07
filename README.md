@@ -338,14 +338,14 @@ Durante las siguientes etapas se diseñarán experimentos (Box 8) para **confirm
 
 ---
 
-### 1.2.2.3. Lean UX Hypothesis Statements (Box 6)
+##### 1.2.2.3. Lean UX Hypothesis Statements (Box 6)
 
 Las **hipótesis** representan afirmaciones medibles que el equipo **Mithycore** formula a partir de las *assumptions* identificadas.  
 Cada hipótesis se redacta siguiendo el formato oficial del *Lean UX 3rd Edition*, con el propósito de validarlas mediante evidencias reales obtenidas durante las próximas iteraciones del proyecto.
 
 ---
 
-#### **Lean UX Hypothesis Statements — AuraNeuro**
+###### **Lean UX Hypothesis Statements — AuraNeuro**
 
 **a) User Hypothesis**  
 > We believe that **patients with neurological conditions** will use AuraNeuro at least **four times per week** to log symptoms and check alerts.  
@@ -374,27 +374,27 @@ Cada hipótesis se redacta siguiendo el formato oficial del *Lean UX 3rd Edition
 
 ---
 
-#### **Traducción interpretativa (en español)**
+###### **Traducción interpretativa (en español)**
 
 **a) Hipótesis de Usuario**  
-Creemos que los **pacientes con enfermedades neurológicas** usarán AuraNeuro al menos **cuatro veces por semana** para registrar síntomas y revisar alertas.  
-Sabremos que esto es cierto cuando observemos **uso constante y frecuencia de interacción**, medido por **el número de sesiones y registros activos por usuario por semana**.
+> Creemos que los **pacientes con enfermedades neurológicas** usarán AuraNeuro al menos **cuatro veces por semana** para registrar síntomas y revisar alertas.  
+> Sabremos que esto es cierto cuando observemos **uso constante y frecuencia de interacción**, medido por **el número de sesiones y registros activos por usuario por semana**.
 
 **b) Hipótesis de Valor**  
-Creemos que el **monitoreo continuo mediante IoT** permitirá **detectar tempranamente anomalías neurológicas** y **reducir visitas de emergencia**.  
-Sabremos que esto es cierto cuando veamos **una disminución de hospitalizaciones** entre los usuarios activos, medida por **tasas de reingreso hospitalario y registros de seguimiento**.
+> Creemos que el **monitoreo continuo mediante IoT** permitirá **detectar tempranamente anomalías neurológicas** y **reducir visitas de emergencia**.  
+> Sabremos que esto es cierto cuando veamos **una disminución de hospitalizaciones** entre los usuarios activos, medida por **tasas de reingreso hospitalario y registros de seguimiento**.
 
 **c) Hipótesis de Negocio**  
-Creemos que **instituciones de salud y neurólogos** adoptarán AuraNeuro porque **reduce costos de monitoreo y mejora la eficiencia diagnóstica**.  
-Sabremos que esto es cierto cuando observemos **suscripciones, alianzas o pilotos implementados por clínicas o hospitales**, medido por **el número de instituciones o especialistas activos**.
+> Creemos que **instituciones de salud y neurólogos** adoptarán AuraNeuro porque **reduce costos de monitoreo y mejora la eficiencia diagnóstica**.  
+> Sabremos que esto es cierto cuando observemos **suscripciones, alianzas o pilotos implementados por clínicas o hospitales**, medido por **el número de instituciones o especialistas activos**.
 
 **d) Hipótesis de Funcionalidad**  
-Creemos que las **alertas en tiempo real y los paneles visuales** mejorarán la **adherencia al tratamiento** y la **toma de decisiones clínicas**.  
-Sabremos que esto es cierto cuando veamos **un aumento en las respuestas a alertas y consultas de reportes**, medido por **el porcentaje de interacciones en el panel y respuestas a notificaciones**.
+> Creemos que las **alertas en tiempo real y los paneles visuales** mejorarán la **adherencia al tratamiento** y la **toma de decisiones clínicas**.  
+> Sabremos que esto es cierto cuando veamos **un aumento en las respuestas a alertas y consultas de reportes**, medido por **el porcentaje de interacciones en el panel y respuestas a notificaciones**.
 
 **e) Hipótesis Técnica**  
-Creemos que los **sensores IoT conectados mediante protocolos seguros (MQTT/HTTPS)** **transmitirán datos biométricos de forma confiable y sin pérdida**.  
-Sabremos que esto es cierto cuando observemos **flujo de datos constante y sincronización exitosa**, medido por **el número de transmisiones exitosas frente a errores en la comunicación**.
+> Creemos que los **sensores IoT conectados mediante protocolos seguros (MQTT/HTTPS)** **transmitirán datos biométricos de forma confiable y sin pérdida**.  
+> Sabremos que esto es cierto cuando observemos **flujo de datos constante y sincronización exitosa**, medido por **el número de transmisiones exitosas frente a errores en la comunicación**.
 
 ---
 
@@ -402,14 +402,30 @@ Sabremos que esto es cierto cuando observemos **flujo de datos constante y sincr
 Estas hipótesis servirán como base para la siguiente etapa del proceso *Lean UX Canvas* (Box 8), donde se diseñarán los **experimentos y MVPs** necesarios para comprobarlas con usuarios reales.
 
 
-##### 1.2.2.4. Lean UX Canvas  
+### 1.2.2.4. Lean UX Canvas
 
-Con base en los problemas, supuestos e hipótesis previamente definidos, se elaboró el **Lean UX Canvas** de la solución AuraNeuro.  
-Este instrumento permite visualizar de manera integrada los principales elementos de la propuesta: el problema de negocio, los usuarios y clientes, los beneficios esperados, las ideas de solución, los resultados de negocio, las hipótesis a validar y los aprendizajes críticos necesarios en etapas iniciales.  
+El siguiente cuadro resume los componentes principales del **Lean UX Canvas (v2)** aplicados al proyecto **AuraNeuro**, producto de la startup **Mithycore**.  
+Este artefacto consolida las secciones previas: *Problem Statement, Assumptions, Hypotheses* y los resultados esperados.  
+Todos los elementos se expresan conforme al formato oficial del *Lean UX 3rd Edition*.
 
-<p align="center">
-  <img src="img/leanUXcanvas.png" alt="Lean UX Canvas de AuraNeuro" width="800"/>
-</p>
+---
+
+#### **Lean UX Canvas – AuraNeuro**
+
+| **Box** | **Component** | **Summary (in English)** | **Traducción (en español)** |
+|----------|----------------|--------------------------|------------------------------|
+| **1** | **Business Problem** | The current state of neurological health monitoring relies on occasional evaluations and manual reports. Existing tools fail to provide affordable, real-time monitoring that connects patients and neurologists. | El monitoreo neurológico depende de evaluaciones esporádicas y reportes manuales. Las herramientas actuales no ofrecen monitoreo accesible y en tiempo real que conecte a pacientes y neurólogos. |
+| **2** | **Business Outcomes** | Reduce hospital readmissions, improve diagnostic accuracy, and increase patient engagement. | Reducir reingresos hospitalarios, mejorar precisión diagnóstica e incrementar la participación del paciente. |
+| **3** | **Users** | Adult patients (20–65) with neurological disorders; neurologists; caregivers supporting daily treatment. | Pacientes adultos (20–65) con trastornos neurológicos; neurólogos; cuidadores que apoyan el tratamiento diario. |
+| **4** | **User Outcomes & Benefits** | Patients can detect anomalies early and share continuous data; neurologists gain objective insights for decision-making. | Los pacientes detectan anomalías tempranas y comparten datos continuos; los neurólogos obtienen información objetiva para decisiones clínicas. |
+| **5** | **Solutions** | IoT-based biosensors connected to an AI-driven dashboard with real-time alerts, visual reports, and progress tracking. | Biosensores IoT conectados a un panel con IA, alertas en tiempo real, reportes visuales y seguimiento de progreso. |
+| **6** | **Hypotheses** | We believe continuous IoT monitoring and real-time dashboards will reduce hospitalizations and improve treatment adherence. | Creemos que el monitoreo IoT continuo y los paneles en tiempo real reducirán hospitalizaciones y mejorarán la adherencia al tratamiento. |
+
+---
+
+**Conclusión:**  
+El *Lean UX Canvas* permite visualizar de manera integrada el proceso de descubrimiento de valor aplicado por **Mithycore** para desarrollar **AuraNeuro**, alineando el problema, las necesidades de los usuarios y las hipótesis medibles que guían la validación del producto.
+
 
 ## 1.3. Segmentos Objetivos  
 
