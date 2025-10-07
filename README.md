@@ -458,7 +458,7 @@ El proyecto **AuraNeuro**, desarrollado por **Mithycore**, se centra en tres seg
 
 ---
 
-### 1.3.3. Target Segment #3 — Proveedores de dispositivos IoT 
+### 1.3.3. Segmentos Objetivo #3 — Proveedores de dispositivos IoT 
  
 - **Perfil:** Empresas que desarrollan wearables médicos, sensores EEG/EMG y plataformas de datos biométricos interesadas en integrarse al sector salud.  
 - **Necesidades / Problemas:** Falta de interoperabilidad, baja visibilidad en el mercado clínico y necesidad de canales seguros para transmisión de datos.  
